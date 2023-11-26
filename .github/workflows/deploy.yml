@@ -1,0 +1,32 @@
+name: Deploy Next App
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    env:
+      SSH_KEY: ${{secrets.SSH_KEY}}
+    steps:
+      - uses: actions/checkout@master
+      - run: mkdir ~/.ssh
+      - run: echo "$SSH_KEY" >> ~/.ssh/github-action
+      - run: chmod 400 ~/.ssh/github-action
+      - run: echo -e "Host vps\n\tUser root\n\tHostname "${{ secrets.HOST }}"\n\tIdentityFile ~/.ssh/github-action\n\tStrictHostKeyChecking No" >> ~/.ssh/config
+      - run: rsync -re ssh . vps:${{ secrets.TARGET_DIRECTORY }}
+      - run: ssh vps "pm2 reload next-js2"
+
+      # - name: Deploy using ssh
+      #   uses: appleboy/ssh-action@master
+      #   with:
+      #     host: ${{ secrets.HOST }}
+      #     username: ${{ secrets.USERNAME }}
+      #     key: ${{ secrets.SSH_KEY }}
+      #     port: 22
+      #     script: |
+      #       cd /var/www/doosho
+      #       npm install
+      #       npm run start
