@@ -17,6 +17,7 @@ jobs:
       - run: chmod 400 ~/.ssh/github-action
       - run: echo -e "Host vps\n\tUser root\n\tHostname "${{ secrets.HOST }}"\n\tIdentityFile ~/.ssh/github-action\n\tStrictHostKeyChecking No" >> ~/.ssh/config
       - run: rsync -re ssh . vps:${{ secrets.TARGET_DIRECTORY }}
+      - run: ssh vps "pm2 reload next-js2"
 
       # - name: Deploy using ssh
       #   uses: appleboy/ssh-action@master
