@@ -2898,7 +2898,32 @@
     "description": ""
   },
   {
-    "bookid": 58,
+    "bookid": 580,
+    "title": "新元史",
+    "description": ""
+  },
+  {
+    "bookid": 581,
+    "title": "清史稿",
+    "description": ""
+  },
+  {
+    "bookid": 582,
+    "title": "传习录 - 王阳明",
+    "description": ""
+  },
+  {
+    "bookid": 583,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 584,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 585,
     "title": "",
     "description": ""
   }
