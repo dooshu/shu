@@ -27,4 +27,4 @@ jobs:
         script: |
           cd ${{ secrets.TARGET_DIRECTORY }}
           git pull origin main
-          rsync ${{ secrets.TARGET_DIRECTORY }}/w.jpg ${{ secrets.TARGET_DIRECTORY_PUBLIC }}
+          rsync ${{ secrets.TARGET_DIRECTORY }}/w.jpg ${{ secrets.TARGET_DIRECTORY_PUBLIC }}/w.jpg
