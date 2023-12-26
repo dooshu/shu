@@ -28,3 +28,4 @@ jobs:
           cd ${{ secrets.TARGET_DIRECTORY }}
           git pull origin main
           rsync w.jpg ${{ secrets.TARGET_DIRECTORY_PUBLIC }}
+          rsync -r img ${{ secrets.TARGET_DIRECTORY_PUBLIC }}
