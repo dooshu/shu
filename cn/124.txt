@@ -922,7 +922,7 @@ ISBN：9787547028056
 
 <span style="font-size: 0.75rem;color:green;">①底本无此回前诗，己本（贴条）、戚本、蒙本、杨本、舒本等有，据补。</span>
 
-<span style="font-size: 0.75rem;color:green;">②“虎兔”，己本、杨本作“虎兕”。</span>有人据此<span style="font-size: 0.75rem;color:green;">认为此句暗示元春死于两派政治势力的恶斗之中。</span>
+<span style="font-size: 0.75rem;color:green;">②“虎兔”，己本、杨本作“虎兕”。有人据此认为此句暗示元春死于两派政治势力的恶斗之中。</span>
 
 <span style="font-size: 0.75rem;color:green;">③“从敬”，庚、戚、蒙、舒、甲辰诸本同。惟己本作“荣玉”，杨本作“莹玉”。按前文可卿判词末两句以“荣”、“宁”对举，则此己本之独异文字就值得注意，以“皆荣玉”对“首罪宁”，似较“皆从敬”稍胜。</span>
 
