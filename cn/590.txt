@@ -246,8 +246,11 @@ là jī duì yú pénɡ
 yì lǚ kè fénɡ méi zǐ yǔ chí tínɡ rén yì ǒu huā fēnɡ
 驿旅客逢梅子雨㉒，池亭人挹藕花风㉓。
 
-máo diàn cūn qián hào yuè zhuì lín jī chànɡ yùn bǎn qiáo lù shànɡ qīnɡ shuānɡ suǒ dào mǎ xínɡ zōnɡ
-茅店村前，皓月坠林鸡唱韵；板桥路上，青霜锁道马行踪㉔。
+máo diàn cūn qián hào yuè zhuì lín jī chànɡ yùn 
+茅店村前，皓月坠林鸡唱韵；
+
+bǎn qiáo lù shànɡ qīnɡ shuānɡ suǒ dào mǎ xínɡ zōnɡ
+板桥路上，青霜锁道马行踪㉔。
 
 shān duì hǎi huà duì sōnɡ
 山对海，华对嵩㉕。
@@ -3181,8 +3184,11 @@ yù tánɡ huā zhú rào jīn diàn yuè lún ɡāo
 ɡū shān kàn hè pán yún xià shǔ dào wén yuán xiànɡ yuè háo
 孤山看鹤盘云下㉑，蜀道闻猿向月号㉒。
 
-wàn shì cónɡ rén yǒu huā yǒu jiǔ yīnɡ zì lè bǎi nián jiē kè yì qiū yí hè jìn wú háo
-万事从人，有花有酒应自乐；百年皆客，一丘一壑尽吾豪㉓。
+wàn shì cónɡ rén yǒu huā yǒu jiǔ yīnɡ zì lè 
+万事从人，有花有酒应自乐；
+
+bǎi nián jiē kè yì qiū yí hè jìn wú háo
+百年皆客，一丘一壑尽吾豪㉓。
 
 tái duì shěnɡ shǔ duì cáo
 台对省㉔，署对曹㉕。
@@ -3611,8 +3617,11 @@ wéi qí jiān bǎ diào chén lǐ bìnɡ fú ɡuā
 yǔ kè piàn shí nénɡ zhǔ shí hú chán qiān jié sì zhēnɡ shā
 羽客片时能煮石㊸，狐禅千劫似蒸沙㊹。
 
-dǎnɡ wèi cū háo jīn zhànɡ lǒnɡ xiānɡ zhēn měi jiǔ táo shēnɡ qīnɡ yì yín dānɡ rónɡ xuě chuò tuán chá
-党尉粗豪，金帐笼香斟美酒；陶生清逸，银铛融雪啜团茶㊺。
+dǎnɡ wèi cū háo jīn zhànɡ lǒnɡ xiānɡ zhēn měi jiǔ 
+党尉粗豪，金帐笼香斟美酒；
+
+táo shēnɡ qīnɡ yì yín dānɡ rónɡ xuě chuò tuán chá
+陶生清逸，银铛融雪啜团茶㊺。
 
 注解
 
