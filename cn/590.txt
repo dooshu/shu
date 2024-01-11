@@ -35,7 +35,7 @@
 
 
 
-ÁÁÁÁÁÁÁÁÁÁ：doosho.com　1，
+ÁÁÁÁÁÁÁÁÁÁ：doosho.com　1，2，3，4，5
 
 ББББББББББ：doosho.com　1，
 
@@ -198,86 +198,88 @@ http://www.c-textilep.comE-mail:faxing@c-textilep.com官方微博　http://weibo
 
 一　东
 
-tiān duì dì yǔ duì fēnɡ
-天对地，雨对风。
-
-dà lù duì chánɡ kōnɡ
-大陆对长空①。
-
-shān huā duì hǎi shù chì rì duì cānɡ qiónɡ
-山花对海树②，赤日对苍穹③。
-
-léi yǐn yǐn wù ménɡ ménɡ
-雷隐隐④，雾蒙蒙⑤。
-
-rì xià duì tiān zhōnɡ
-日下对天中⑥。
-
-fēnɡ ɡāo qiū yuè bái yǔ jì wǎn xiá hónɡ
-风高秋月白⑦，雨霁晚霞红⑧。
-
-niú nǚ èr xīnɡ hé zuǒ yòu shēn shānɡ liǎnɡ yào dòu xī dōnɡ
-牛女二星河左右⑨，参商两曜斗西东⑩。
-
-shí yuè sài biān sà sà hán shuānɡ jīnɡ shù lǚ 
-十月塞边，飒飒寒霜惊戍旅⑪；
-
-sān dōnɡ jiānɡ shànɡ màn màn shuò xuě lěnɡ yú wēnɡ
-三冬江上，漫漫朔雪冷渔翁⑫。
-
-hé duì hàn lǜ duì hónɡ
-河对汉⑬，绿对红。
-
-yǔ bó duì léi ɡōnɡ
-雨伯对雷公⑭。
-
-yān lóu duì xuě dònɡ yuè diàn duì tiān ɡōnɡ
-烟楼对雪洞⑮，月殿对天宫⑯。
-
-yún ài dài rì tónɡ ménɡ
-云叆叇⑰，日曈曚⑱。
-
-là jī duì yú pénɡ
-蜡屐对渔篷⑲。
-
-ɡuò tiān xīnɡ sì jiàn tǔ pò yuè rú ɡōnɡ
-过天星似箭⑳，吐魄月如弓㉑。
-
-yì lǚ kè fénɡ méi zǐ yǔ chí tínɡ rén yì ǒu huā fēnɡ
-驿旅客逢梅子雨㉒，池亭人挹藕花风㉓。
-
-máo diàn cūn qián hào yuè zhuì lín jī chànɡ yùn 
-茅店村前，皓月坠林鸡唱韵；
-
-bǎn qiáo lù shànɡ qīnɡ shuānɡ suǒ dào mǎ xínɡ zōnɡ
-板桥路上，青霜锁道马行踪㉔。
-
-shān duì hǎi huà duì sōnɡ
-山对海，华对嵩㉕。
-
-sì yuè duì sān ɡōnɡ
-四岳对三公㉖。
-
-ɡōnɡ huā duì jìn liǔ sài yàn duì jiānɡ lónɡ
-宫花对禁柳㉗，塞雁对江龙。
-
-qīnɡ shǔ diàn ɡuǎnɡ hán ɡōnɡ
-清暑殿㉘，广寒宫㉙。
-
-shí cuì duì tí hónɡ
-拾翠对题红㉚。
-
-zhuānɡ zhōu mènɡ huà dié lǚ wànɡ zhào fēi xiónɡ
-庄周梦化蝶㉛，吕望兆飞熊㉜。
-
-běi yǒu dānɡ fēnɡ tínɡ xià shàn nán yán pù rì shěnɡ dōnɡ hōnɡ
-北牖当风停夏扇，南檐曝日省冬烘㉝。
-
-hè wǔ lóu tóu yù dí nònɡ cán xiān zǐ yuè 
-鹤舞楼头，玉笛弄残仙子月㉞；
-
-fènɡ xiánɡ tái shànɡ zǐ xiāo chuī duàn měi rén fēnɡ
-凤翔台上，紫箫吹断美人风㉟。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| tiān | duì | dì | yǔ | duì | fēnɡ |
+| 天 | 对 | 地， | 雨 | 对 | 风。 |
+| |
+| dà | lù | duì | chánɡ | kōnɡ |
+| 大 | 陆 | 对 | 长 | 空①。 |
+| |
+| shān | huā | duì | hǎi | shù | chì | rì | duì | cānɡ | qiónɡ |
+| 山 | 花 | 对 | 海 | 树②， | 赤 | 日 | 对 | 苍 | 穹③。 |
+| |
+| léi | yǐn | yǐn | wù | ménɡ | ménɡ |
+| 雷 | 隐 | 隐④， | 雾 | 蒙 | 蒙⑤。 |
+| |
+| rì | xià | duì | tiān | zhōnɡ |
+| 日 | 下 | 对 | 天 | 中⑥。 |
+| |
+| fēnɡ | ɡāo | qiū | yuè | bái | yǔ | jì | wǎn | xiá | hónɡ |
+| 风 | 高 | 秋 | 月 | 白⑦， | 雨 | 霁 | 晚 | 霞 | 红⑧。 |
+| |
+| niú | nǚ | èr | xīnɡ | hé | zuǒ | yòu | shēn | shānɡ | liǎnɡ | yào | dòu | xī | dōnɡ |
+| 牛 | 女 | 二 | 星 | 河 | 左 | 右⑨， | 参 | 商 | 两 | 曜 | 斗 | 西 | 东⑩。 |
+| |
+| shí | yuè | sài | biān | sà | sà | hán | shuānɡ | jīnɡ | shù | lǚ 
+| 十 | 月 | 塞 | 边， | 飒 | 飒 | 寒 | 霜 | 惊 | 戍 | 旅 | ⑪ | ； |
+| |
+| sān | dōnɡ | jiānɡ | shànɡ | màn | màn | shuò | xuě | lěnɡ | yú | wēnɡ |
+| 三 | 冬 | 江 | 上， | 漫 | 漫 | 朔 | 雪 | 冷 | 渔 | 翁⑫。 |
+| |
+| hé | duì | hàn | lǜ | duì | hónɡ |
+| 河 | 对 | 汉⑬， | 绿 | 对 | 红。 |
+| |
+| yǔ | bó | duì | léi | ɡōnɡ |
+| 雨 | 伯 | 对 | 雷 | 公⑭。 |
+| |
+| yān | lóu | duì | xuě | dònɡ | yuè | diàn | duì | tiān | ɡōnɡ |
+| 烟 | 楼 | 对 | 雪 | 洞⑮， | 月 | 殿 | 对 | 天 | 宫⑯。 |
+| |
+| yún | ài | dài | rì | tónɡ | ménɡ |
+| 云 | 叆 | 叇⑰， | 日 | 曈 | 曚⑱。 |
+| |
+| là | jī | duì | yú | pénɡ |
+| 蜡 | 屐 | 对 | 渔 | 篷⑲。 |
+| |
+| ɡuò | tiān | xīnɡ | sì | jiàn | tǔ | pò | yuè | rú | ɡōnɡ |
+| 过 | 天 | 星 | 似 | 箭⑳， | 吐 | 魄 | 月 | 如 | 弓㉑。 |
+| |
+| yì | lǚ | kè | fénɡ | méi | zǐ | yǔ | chí | tínɡ | rén | yì | ǒu | huā | fēnɡ |
+| 驿 | 旅 | 客 | 逢 | 梅 | 子 | 雨㉒， | 池 | 亭 | 人 | 挹 | 藕 | 花 | 风㉓。 |
+| |
+| máo | diàn | cūn | qián | hào | yuè | zhuì | lín | jī | chànɡ | yùn 
+| 茅 | 店 | 村 | 前， | 皓 | 月 | 坠 | 林 | 鸡 | 唱 | 韵 | ； |
+| |
+| bǎn | qiáo | lù | shànɡ | qīnɡ | shuānɡ | suǒ | dào | mǎ | xínɡ | zōnɡ |
+| 板 | 桥 | 路 | 上， | 青 | 霜 | 锁 | 道 | 马 | 行 | 踪㉔。 |
+| |
+| shān | duì | hǎi | huà | duì | sōnɡ |
+| 山 | 对 | 海， | 华 | 对 | 嵩㉕。 |
+| |
+| sì | yuè | duì | sān | ɡōnɡ |
+| 四 | 岳 | 对 | 三 | 公㉖。 |
+| |
+| ɡōnɡ | huā | duì | jìn | liǔ | sài | yàn | duì | jiānɡ | lónɡ |
+| 宫 | 花 | 对 | 禁 | 柳㉗， | 塞 | 雁 | 对 | 江 | 龙。 |
+| |
+| qīnɡ | shǔ | diàn | ɡuǎnɡ | hán | ɡōnɡ |
+| 清 | 暑 | 殿㉘， | 广 | 寒 | 宫㉙。 |
+| |
+| shí | cuì | duì | tí | hónɡ |
+| 拾 | 翠 | 对 | 题 | 红㉚。 |
+| |
+| zhuānɡ | zhōu | mènɡ | huà | dié | lǚ | wànɡ | zhào | fēi | xiónɡ |
+| 庄 | 周 | 梦 | 化 | 蝶㉛， | 吕 | 望 | 兆 | 飞 | 熊㉜。 |
+| |
+| běi | yǒu | dānɡ | fēnɡ | tínɡ | xià | shàn | nán | yán | pù | rì | shěnɡ | dōnɡ | hōnɡ |
+| 北 | 牖 | 当 | 风 | 停 | 夏 | 扇， | 南 | 檐 | 曝 | 日 | 省 | 冬 | 烘㉝。 |
+| |
+| hè | wǔ | lóu | tóu | yù | dí | nònɡ | cán | xiān | zǐ | yuè 
+| 鹤 | 舞 | 楼 | 头， | 玉 | 笛 | 弄 | 残 | 仙 | 子 | 月 | ㉞ | ； |
+| |
+| fènɡ | xiánɡ | tái | shànɡ | zǐ | xiāo | chuī | duàn | měi | rén | fēnɡ |
+| 凤 | 翔 | 台 | 上， | 紫 | 箫 | 吹 | 断 | 美 | 人 | 风㉟。 |
 
 注解
 
@@ -363,86 +365,88 @@ fènɡ xiánɡ tái shànɡ zǐ xiāo chuī duàn měi rén fēnɡ
 
 二　冬
 
-chén duì wǔ xià duì dōnɡ
-晨对午，夏对冬。
-
-xià xiǎnɡ duì ɡāo chōnɡ
-下饷对高舂①。
-
-qīnɡ chūn duì bái zhòu ɡǔ bǎi duì cānɡ sōnɡ
-青春对白昼，古柏对苍松。
-
-chuí diào kè hè chú wēnɡ
-垂钓客②，荷锄翁③。
-
-xiān hè duì shén lónɡ
-仙鹤对神龙④。
-
-fènɡ ɡuān zhū shǎn shuò chī dài yù línɡ lónɡ
-凤冠珠闪烁⑤，螭带玉玲珑⑥。
-
-sān yuán jí dì cái qiān qǐnɡ yī pǐn dānɡ cháo lù wàn zhōnɡ
-三元及第才千顷⑦，一品当朝禄万钟⑧。
-
-huā è lóu jiān xiān lǐ pán ɡēn tiáo ɡuó mài 
-花萼楼间，仙李盘根调国脉⑨；
-
-chén xiānɡ tínɡ pàn jiāo yánɡ shàn chǒnɡ qǐ biān fēnɡ
-沉香亭畔，娇杨擅宠起边风⑩。
-
-qīnɡ duì dàn bó duì nónɡ
-清对淡，薄对浓。
-
-mù ɡǔ duì chén zhōnɡ
-暮鼓对晨钟⑪。
-
-shān chá duì shí jú yān suǒ duì yún fēnɡ
-山茶对石菊⑫，烟锁对云封⑬。
-
-jīn hàn dàn yù fú rónɡ
-金菡萏⑭，玉芙蓉⑮。
-
-lǜ qǐ duì qīnɡ fēnɡ
-绿绮对青锋⑯。
-
-zǎo tānɡ xiān sù jiǔ wǎn shí jì zhāo yōnɡ
-早汤先宿酒，晚食继朝饔⑰。
-
-tánɡ kù jīn qián nénɡ huà dié yán jīn bǎo jiàn huì chénɡ lónɡ
-唐库金钱能化蝶⑱，延津宝剑会成龙⑲。
-
-wū xiá lànɡ chuán yún yǔ huānɡ tánɡ shén nǚ miào 
-巫峡浪传，云雨荒唐神女庙⑳；
-
-dài zōnɡ yáo wànɡ ér sūn luó liè zhànɡ rén fēnɡ
-岱宗遥望，儿孙罗列丈人峰㉑。
-
-fán duì jiǎn dié duì chónɡ
-繁对简，叠对重。
-
-yì lǎn duì xīn yōnɡ
-意懒对心慵㉒。
-
-xiān wēnɡ duì shì bàn dào fàn duì rú zōnɡ
-仙翁对释伴㉓，道范对儒宗㉔。
-
-huā zhuó zhuó cǎo rónɡ rónɡ
-花灼灼㉕，草茸茸㉖。
-
-lànɡ dié duì kuánɡ fēnɡ
-浪蝶对狂蜂㉗。
-
-shù ɡān jūn zǐ zhú wǔ shù dà fū sōnɡ
-数竿君子竹㉘，五树大夫松㉙。
-
-ɡāo huánɡ miè xiànɡ pínɡ sān jié yú dì chénɡ yáo jí sì xiōnɡ
-高皇灭项凭三杰㉚，虞帝承尧殛四凶㉛。
-
-nèi yuàn jiā rén mǎn dì fēnɡ ɡuānɡ chóu bù jìn 
-内苑佳人，满地风光愁不尽㉜；
-
-biān ɡuān ɡuò kè lián tiān yān cǎo hàn wú qiónɡ
-边关过客，连天烟草憾无穷㉝。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| chén | duì | wǔ | xià | duì | dōnɡ |
+| 晨 | 对 | 午， | 夏 | 对 | 冬。 |
+| |
+| xià | xiǎnɡ | duì | ɡāo | chōnɡ |
+| 下 | 饷 | 对 | 高 | 舂①。 |
+| |
+| qīnɡ | chūn | duì | bái | zhòu | ɡǔ | bǎi | duì | cānɡ | sōnɡ |
+| 青 | 春 | 对 | 白 | 昼， | 古 | 柏 | 对 | 苍 | 松。 |
+| |
+| chuí | diào | kè | hè | chú | wēnɡ |
+| 垂 | 钓 | 客②， | 荷 | 锄 | 翁③。 |
+| |
+| xiān | hè | duì | shén | lónɡ |
+| 仙 | 鹤 | 对 | 神 | 龙④。 |
+| |
+| fènɡ | ɡuān | zhū | shǎn | shuò | chī | dài | yù | línɡ | lónɡ |
+| 凤 | 冠 | 珠 | 闪 | 烁⑤， | 螭 | 带 | 玉 | 玲 | 珑⑥。 |
+| |
+| sān | yuán | jí | dì | cái | qiān | qǐnɡ | yī | pǐn | dānɡ | cháo | lù | wàn | zhōnɡ |
+| 三 | 元 | 及 | 第 | 才 | 千 | 顷⑦， | 一 | 品 | 当 | 朝 | 禄 | 万 | 钟⑧。 |
+| |
+| huā | è lóu | jiān | xiān | lǐ | pán | ɡēn | tiáo | ɡuó | mài 
+| 花 | 萼 | 楼 | 间， | 仙 | 李 | 盘 | 根 | 调 | 国 | 脉 | ⑨ | ； |
+| |
+| chén | xiānɡ | tínɡ | pàn | jiāo | yánɡ | shàn | chǒnɡ | qǐ | biān | fēnɡ |
+| 沉 | 香 | 亭 | 畔， | 娇 | 杨 | 擅 | 宠 | 起 | 边 | 风⑩。 |
+| |
+| qīnɡ | duì | dàn | bó | duì | nónɡ |
+| 清 | 对 | 淡， | 薄 | 对 | 浓。 |
+| |
+| mù | ɡǔ | duì | chén | zhōnɡ |
+| 暮 | 鼓 | 对 | 晨 | 钟⑪。 |
+| |
+| shān | chá | duì | shí | jú | yān | suǒ | duì | yún | fēnɡ |
+| 山 | 茶 | 对 | 石 | 菊⑫， | 烟 | 锁 | 对 | 云 | 封⑬。 |
+| |
+| jīn | hàn | dàn | yù | fú | rónɡ |
+| 金 | 菡 | 萏⑭， | 玉 | 芙 | 蓉⑮。 |
+| |
+| lǜ | qǐ | duì | qīnɡ | fēnɡ |
+| 绿 | 绮 | 对 | 青 | 锋⑯。 |
+| |
+| zǎo | tānɡ | xiān | sù | jiǔ | wǎn | shí | jì | zhāo | yōnɡ |
+| 早 | 汤 | 先 | 宿 | 酒， | 晚 | 食 | 继 | 朝 | 饔⑰。 |
+| |
+| tánɡ | kù | jīn | qián | nénɡ | huà | dié | yán | jīn | bǎo | jiàn | huì | chénɡ | lónɡ |
+| 唐 | 库 | 金 | 钱 | 能 | 化 | 蝶⑱， | 延 | 津 | 宝 | 剑 | 会 | 成 | 龙⑲。 |
+| |
+| wū | xiá | lànɡ | chuán | yún | yǔ | huānɡ | tánɡ | shén | nǚ | miào 
+| 巫 | 峡 | 浪 | 传， | 云 | 雨 | 荒 | 唐 | 神 | 女 | 庙 | ⑳ | ； |
+| |
+| dài | zōnɡ | yáo | wànɡ | ér | sūn | luó | liè | zhànɡ | rén | fēnɡ |
+| 岱 | 宗 | 遥 | 望， | 儿 | 孙 | 罗 | 列 | 丈 | 人 | 峰㉑。 |
+| |
+| fán | duì | jiǎn | dié | duì | chónɡ |
+| 繁 | 对 | 简， | 叠 | 对 | 重。 |
+| |
+| yì | lǎn | duì | xīn | yōnɡ |
+| 意 | 懒 | 对 | 心 | 慵㉒。 |
+| |
+| xiān | wēnɡ | duì | shì | bàn | dào | fàn | duì | rú | zōnɡ |
+| 仙 | 翁 | 对 | 释 | 伴㉓， | 道 | 范 | 对 | 儒 | 宗㉔。 |
+| |
+| huā | zhuó | zhuó | cǎo | rónɡ | rónɡ |
+| 花 | 灼 | 灼㉕， | 草 | 茸 | 茸㉖。 |
+| |
+| lànɡ | dié | duì | kuánɡ | fēnɡ |
+| 浪 | 蝶 | 对 | 狂 | 蜂㉗。 |
+| |
+| shù | ɡān | jūn | zǐ | zhú | wǔ | shù | dà | fū | sōnɡ |
+| 数 | 竿 | 君 | 子 | 竹㉘， | 五 | 树 | 大 | 夫 | 松㉙。 |
+| |
+| ɡāo | huánɡ | miè | xiànɡ | pínɡ | sān | jié | yú | dì | chénɡ | yáo | jí | sì | xiōnɡ |
+| 高 | 皇 | 灭 | 项 | 凭 | 三 | 杰㉚， | 虞 | 帝 | 承 | 尧 | 殛 | 四 | 凶㉛。 |
+| |
+| nèi | yuàn | jiā | rén | mǎn | dì | fēnɡ | ɡuānɡ | chóu | bù | jìn 
+| 内 | 苑 | 佳 | 人， | 满 | 地 | 风 | 光 | 愁 | 不 | 尽 | ㉜ | ； |
+| |
+| biān | ɡuān | ɡuò | kè | lián | tiān | yān | cǎo | hàn | wú | qiónɡ |
+| 边 | 关 | 过 | 客， | 连 | 天 | 烟 | 草 | 憾 | 无 | 穷㉝。 |
 
 注解
 
@@ -518,59 +522,61 @@ biān ɡuān ɡuò kè lián tiān yān cǎo hàn wú qiónɡ
 
 三　江
 
-jī duì ǒu zhī duì shuānɡ
-奇对偶，只对双。
-
-dà hǎi duì chánɡ jiānɡ
-大海对长江。
-
-jīn pán duì yù zhǎn bǎo zhú duì yín ɡānɡ
-金盘对玉盏，宝烛对银。
-
-zhū qī jiàn bì shā chuānɡ
-朱漆槛①，碧纱窗②。
-
-wǔ diào duì ɡē qiānɡ
-舞调对歌腔。
-
-hàn xīnɡ tuī mǎ wǔ jiàn xià zhù lónɡ pánɡ
-汉兴推马武③，谏夏著龙逄④。
-
-sì shōu liè ɡuó qún wánɡ fú sān zhù ɡāo chénɡ zhònɡ dí xiánɡ
-四收列国群王伏⑤，三筑高城众敌降⑥。
-
-kuà fènɡ dēnɡ tái xiāo sǎ xiān jī qín nònɡ yù 
-跨凤登台，潇洒仙姬秦弄玉⑦；
-
-zhǎn shé dānɡ dào yīnɡ xiónɡ tiān zǐ hàn liú bānɡ
-斩蛇当道，英雄天子汉刘邦⑧。
-
-yán duì mào xiànɡ duì pánɡ
-颜对貌，像对庞。
-
-bù niǎn duì tú ɡānɡ
-步辇对徒杠⑨。
-
-tínɡ zhēn duì ɡē bǐ yì lǎn duì xīn xiánɡ
-停针对搁笔⑩，意懒对心降。
-
-dēnɡ shǎn shǎn yuè chuánɡ chuánɡ
-灯闪闪⑪，月幢幢⑫。
-
-lǎn pèi duì fēi shuānɡ
-揽辔对飞艭⑬。
-
-liǔ dī chí jùn mǎ huā yuàn fèi cūn mánɡ
-柳堤驰骏马⑭，花院吠村尨⑮。
-
-jiǔ liànɡ wēi hān qiónɡ xìnɡ jiá xiānɡ chén qiǎn yìn yù lián shuānɡ
-酒量微酣琼杏颊⑯，香尘浅印玉莲⑰。
-
-shī xiě dān fēnɡ hán nǚ yōu huái liú yù shuǐ 
-诗写丹枫，韩女幽怀流御水⑱；
-
-lèi tán bān zhú shùn fēi yí hàn jī xiānɡ jiānɡ
-泪弹斑竹，舜妃遗憾积湘江⑲。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| jī | duì | ǒu | zhī | duì | shuānɡ |
+| 奇 | 对 | 偶， | 只 | 对 | 双。 |
+| |
+| dà | hǎi | duì | chánɡ | jiānɡ |
+| 大 | 海 | 对 | 长 | 江。 |
+| |
+| jīn | pán | duì | yù | zhǎn | bǎo | zhú | duì | yín | ɡānɡ |
+| 金 | 盘 | 对 | 玉 | 盏， | 宝 | 烛 | 对 | 银。 |
+| |
+| zhū | qī | jiàn | bì | shā | chuānɡ |
+| 朱 | 漆 | 槛①， | 碧 | 纱 | 窗②。 |
+| |
+| wǔ | diào | duì | ɡē | qiānɡ |
+| 舞 | 调 | 对 | 歌 | 腔。 |
+| |
+| hàn | xīnɡ | tuī | mǎ | wǔ | jiàn | xià | zhù | lónɡ | pánɡ |
+| 汉 | 兴 | 推 | 马 | 武③， | 谏 | 夏 | 著 | 龙 | 逄④。 |
+| |
+| sì | shōu | liè | ɡuó | qún | wánɡ | fú | sān | zhù | ɡāo | chénɡ | zhònɡ | dí | xiánɡ |
+| 四 | 收 | 列 | 国 | 群 | 王 | 伏⑤， | 三 | 筑 | 高 | 城 | 众 | 敌 | 降⑥。 |
+| |
+| kuà | fènɡ | dēnɡ | tái | xiāo | sǎ | xiān | jī | qín | nònɡ | yù 
+| 跨 | 凤 | 登 | 台， | 潇 | 洒 | 仙 | 姬 | 秦 | 弄 | 玉 | ⑦ | ； |
+| |
+| zhǎn | shé | dānɡ | dào | yīnɡ | xiónɡ | tiān | zǐ | hàn | liú | bānɡ |
+| 斩 | 蛇 | 当 | 道， | 英 | 雄 | 天 | 子 | 汉 | 刘 | 邦⑧。 |
+| |
+| yán | duì | mào | xiànɡ | duì | pánɡ |
+| 颜 | 对 | 貌， | 像 | 对 | 庞。 |
+| |
+| bù | niǎn | duì | tú | ɡānɡ |
+| 步 | 辇 | 对 | 徒 | 杠⑨。 |
+| |
+| tínɡ | zhēn | duì | ɡē | bǐ | yì | lǎn | duì | xīn | xiánɡ |
+| 停 | 针 | 对 | 搁 | 笔⑩， | 意 | 懒 | 对 | 心 | 降。 |
+| |
+| dēnɡ | shǎn | shǎn | yuè | chuánɡ | chuánɡ |
+| 灯 | 闪 | 闪⑪， | 月 | 幢 | 幢⑫。 |
+| |
+| lǎn | pèi | duì | fēi | shuānɡ |
+| 揽 | 辔 | 对 | 飞 | 艭⑬。 |
+| |
+| liǔ | dī | chí | jùn | mǎ | huā | yuàn | fèi | cūn | mánɡ |
+| 柳 | 堤 | 驰 | 骏 | 马⑭， | 花 | 院 | 吠 | 村 | 尨⑮。 |
+| |
+| jiǔ | liànɡ | wēi | hān | qiónɡ | xìnɡ | jiá | xiānɡ | chén | qiǎn | yìn | yù | lián | shuānɡ |
+| 酒 | 量 | 微 | 酣 | 琼 | 杏 | 颊⑯， | 香 | 尘 | 浅 | 印 | 玉 | 莲⑰。 |
+| |
+| shī | xiě | dān | fēnɡ | hán | nǚ | yōu | huái | liú | yù | shuǐ 
+| 诗 | 写 | 丹 | 枫， | 韩 | 女 | 幽 | 怀 | 流 | 御 | 水 | ⑱ | ； |
+| |
+| lèi | tán | bān | zhú | shùn | fēi | yí | hàn | jī | xiānɡ | jiānɡ |
+| 泪 | 弹 | 斑 | 竹， | 舜 | 妃 | 遗 | 憾 | 积 | 湘 | 江⑲。 |
 
 注解
 
@@ -616,113 +622,115 @@ lèi tán bān zhú shùn fēi yí hàn jī xiānɡ jiānɡ
 
 四　支
 
-quán duì shí ɡàn duì zhī
-泉对石，干对枝。
-
-chuī zhú duì tán sī
-吹竹对弹丝①。
-
-shān tínɡ duì shuǐ xiè yīnɡ wǔ duì lú cí
-山亭对水榭②，鹦鹉对鸬鹚。
-
-wǔ sè bǐ shí xiānɡ cí
-五色笔③，十香词④。
-
-pō mò duì chuán zhī
-泼墨对传卮⑤。
-
-shén qí hán ɡàn huà xiónɡ hún lǐ línɡ shī
-神奇韩干画⑥，雄浑李陵诗⑦。
-
-jī chù huā jiē xīn duó jǐn yǒu rén xiānɡ jìnɡ dàn nínɡ zhī
-几处花街新夺锦⑧，有人香径淡凝脂⑨。
-
-wàn lǐ fēnɡ yān zhàn shì biān tóu zhēnɡ bǎo sài 
-万里烽烟，战士边头争保塞⑩；
-
-yì lí ɡāo yǔ nónɡ fū cūn wài jìn chénɡ shí
-一犁膏雨，农夫村外尽乘时⑪。
-
-zū duì hǎi fù duì shī
-葅对醢⑫，赋对诗。
-
-diǎn qī duì miáo zhī
-点漆对描脂⑬。
-
-fán zān duì zhū lǚ jiàn kè duì qín shī
-璠簪对珠履⑭，剑客对琴师。
-
-ɡū jiǔ jià mǎi shān zī
-沽酒价⑮，买山资⑯。
-
-ɡuó sè duì xiān zī
-国色对仙姿。
-
-wǎn xiá mínɡ sì jǐn chūn yǔ xì rú sī
-晚霞明似锦⑰，春雨细如丝⑱。
-
-liǔ bàn chánɡ dī qiān wàn shù huā hénɡ yě sì liǎnɡ sān zhī
-柳绊长堤千万树⑲，花横野寺两三枝⑳。
-
-zǐ ɡài huánɡ qí tiān xiànɡ yù zhān jiānɡ zuǒ dì 
-紫盖黄旗，天象预占江左地㉑；
-
-qīnɡ páo bái mǎ tónɡ yáo zhōnɡ yìnɡ shòu yánɡ ér
-青袍白马，童谣终应寿阳儿㉒。
-
-zhēn duì zàn fǒu duì zhī
-箴对赞，缶对卮。
-
-yínɡ zhào duì cán sī
-萤炤对蚕丝㉓。
-
-qīnɡ jū duì chánɡ xiù ruì cǎo duì línɡ zhī
-轻裾对长袖㉔，瑞草对灵芝㉕。
-
-liú tì cè duàn chánɡ shī
-流涕策㉖，断肠诗㉗。
-
-hóu shé duì yāo zhī
-喉舌对腰肢㉘。
-
-yún zhōnɡ xiónɡ hǔ jiànɡ tiān shànɡ fènɡ lín ér
-云中熊虎将㉙，天上凤麟儿㉚。
-
-yǔ miào qiān nián chuí jú yòu yáo jiē sān chǐ fù máo cí
-禹庙千年垂橘柚㉛，尧阶三尺覆茅茨㉜。
-
-xiānɡ zhú hán yān yāo xià qīnɡ shā lǒnɡ dài mào 
-湘竹含烟，腰下轻纱笼玳瑁㉝；
-
-hǎi tánɡ jīnɡ yǔ liǎn biān qīnɡ lèi shī yān zhī
-海棠经雨，脸边清泪湿胭脂㉞。
-
-zhēnɡ duì rànɡ wànɡ duì sī
-争对让，望对思。
-
-yě ɡé duì shān zhī
-野葛对山栀㉟。
-
-xiān fēnɡ duì dào ɡǔ tiān zào duì rén wéi
-仙风对道骨㊱，天造对人为。
-
-zhuān zhū jiàn bó lànɡ zhuī
-专诸剑㊲，博浪椎㊳。
-
-jīnɡ wěi duì ɡān zhī
-经纬对干支㊴。
-
-wèi zūn mín wù zhǔ dé zhònɡ dì wánɡ shī
-位尊民物主㊵，德重帝王师㊶。
-
-wànɡ qiè bù fánɡ rén qù yuǎn xīn mánɡ wú nài mǎ xínɡ chí
-望切不妨人去远㊷，心忙无奈马行迟㊸。
-
-jīn wū bì lái fù qǐ mào línɡ tí zhù bǐ 
-金屋闭来，赋乞茂陵题柱笔㊹；
-
-yù lóu chénɡ hòu jì xū chānɡ ɡǔ fù nánɡ cí
-玉楼成后，记须昌谷负囊词㊺。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| quán | duì | shí | ɡàn | duì | zhī |
+| 泉 | 对 | 石， | 干 | 对 | 枝。 |
+| |
+| chuī | zhú | duì | tán | sī |
+| 吹 | 竹 | 对 | 弹 | 丝①。 |
+| |
+| shān | tínɡ | duì | shuǐ | xiè | yīnɡ | wǔ | duì | lú | cí |
+| 山 | 亭 | 对 | 水 | 榭②， | 鹦 | 鹉 | 对 | 鸬 | 鹚。 |
+| |
+| wǔ | sè | bǐ | shí | xiānɡ | cí |
+| 五 | 色 | 笔③， | 十 | 香 | 词④。 |
+| |
+| pō | mò | duì | chuán | zhī |
+| 泼 | 墨 | 对 | 传 | 卮⑤。 |
+| |
+| shén | qí | hán | ɡàn | huà | xiónɡ | hún | lǐ | línɡ | shī |
+| 神 | 奇 | 韩 | 干 | 画⑥， | 雄 | 浑 | 李 | 陵 | 诗⑦。 |
+| |
+| jī | chù | huā | jiē | xīn | duó | jǐn | yǒu | rén | xiānɡ | jìnɡ | dàn | nínɡ | zhī |
+| 几 | 处 | 花 | 街 | 新 | 夺 | 锦⑧， | 有 | 人 | 香 | 径 | 淡 | 凝 | 脂⑨。 |
+| |
+| wàn | lǐ | fēnɡ | yān | zhàn | shì | biān | tóu | zhēnɡ | bǎo | sài 
+| 万 | 里 | 烽 | 烟， | 战 | 士 | 边 | 头 | 争 | 保 | 塞 | ⑩ | ； |
+| |
+| yì | lí | ɡāo | yǔ | nónɡ | fū | cūn | wài | jìn | chénɡ | shí |
+| 一 | 犁 | 膏 | 雨， | 农 | 夫 | 村 | 外 | 尽 | 乘 | 时⑪。 |
+| |
+| zū | duì | hǎi | fù | duì | shī |
+| 葅 | 对 | 醢⑫， | 赋 | 对 | 诗。 |
+| |
+| diǎn | qī | duì | miáo | zhī |
+| 点 | 漆 | 对 | 描 | 脂⑬。 |
+| |
+| fán | zān | duì | zhū | lǚ | jiàn | kè | duì | qín | shī |
+| 璠 | 簪 | 对 | 珠 | 履⑭， | 剑 | 客 | 对 | 琴 | 师。 |
+| |
+| ɡū | jiǔ | jià | mǎi | shān | zī |
+| 沽 | 酒 | 价⑮， | 买 | 山 | 资⑯。 |
+| |
+| ɡuó | sè | duì | xiān | zī |
+| 国 | 色 | 对 | 仙 | 姿。 |
+| |
+| wǎn | xiá | mínɡ | sì | jǐn | chūn | yǔ | xì | rú | sī |
+| 晚 | 霞 | 明 | 似 | 锦⑰， | 春 | 雨 | 细 | 如 | 丝⑱。 |
+| |
+| liǔ | bàn | chánɡ | dī | qiān | wàn | shù | huā | hénɡ | yě | sì | liǎnɡ | sān | zhī |
+| 柳 | 绊 | 长 | 堤 | 千 | 万 | 树⑲， | 花 | 横 | 野 | 寺 | 两 | 三 | 枝⑳。 |
+| |
+| zǐ | ɡài | huánɡ | qí | tiān | xiànɡ | yù | zhān | jiānɡ | zuǒ | dì 
+| 紫 | 盖 | 黄 | 旗， | 天 | 象 | 预 | 占 | 江 | 左 | 地 | ㉑ | ； |
+| |
+| qīnɡ | páo | bái | mǎ | tónɡ | yáo | zhōnɡ | yìnɡ | shòu | yánɡ | ér |
+| 青 | 袍 | 白 | 马， | 童 | 谣 | 终 | 应 | 寿 | 阳 | 儿㉒。 |
+| |
+| zhēn | duì | zàn | fǒu | duì | zhī |
+| 箴 | 对 | 赞， | 缶 | 对 | 卮。 |
+| |
+| yínɡ | zhào | duì | cán | sī |
+| 萤 | 炤 | 对 | 蚕 | 丝㉓。 |
+| |
+| qīnɡ | jū | duì | chánɡ | xiù | ruì | cǎo | duì | línɡ | zhī |
+| 轻 | 裾 | 对 | 长 | 袖㉔， | 瑞 | 草 | 对 | 灵 | 芝㉕。 |
+| |
+| liú | tì | cè | duàn | chánɡ | shī |
+| 流 | 涕 | 策㉖， | 断 | 肠 | 诗㉗。 |
+| |
+| hóu | shé | duì | yāo | zhī |
+| 喉 | 舌 | 对 | 腰 | 肢㉘。 |
+| |
+| yún | zhōnɡ | xiónɡ | hǔ | jiànɡ | tiān | shànɡ | fènɡ | lín | ér |
+| 云 | 中 | 熊 | 虎 | 将㉙， | 天 | 上 | 凤 | 麟 | 儿㉚。 |
+| |
+| yǔ | miào | qiān | nián | chuí | jú | yòu | yáo | jiē | sān | chǐ | fù | máo | cí |
+| 禹 | 庙 | 千 | 年 | 垂 | 橘 | 柚㉛， | 尧 | 阶 | 三 | 尺 | 覆 | 茅 | 茨㉜。 |
+| |
+| xiānɡ | zhú | hán | yān | yāo | xià | qīnɡ | shā | lǒnɡ | dài | mào 
+| 湘 | 竹 | 含 | 烟， | 腰 | 下 | 轻 | 纱 | 笼 | 玳 | 瑁 | ㉝ | ； |
+| |
+| hǎi | tánɡ | jīnɡ | yǔ | liǎn | biān | qīnɡ | lèi | shī | yān | zhī |
+| 海 | 棠 | 经 | 雨， | 脸 | 边 | 清 | 泪 | 湿 | 胭 | 脂㉞。 |
+| |
+| zhēnɡ | duì | rànɡ | wànɡ | duì | sī |
+| 争 | 对 | 让， | 望 | 对 | 思。 |
+| |
+| yě | ɡé | duì | shān | zhī |
+| 野 | 葛 | 对 | 山 | 栀㉟。 |
+| |
+| xiān | fēnɡ | duì | dào | ɡǔ | tiān | zào | duì | rén | wéi |
+| 仙 | 风 | 对 | 道 | 骨㊱， | 天 | 造 | 对 | 人 | 为。 |
+| |
+| zhuān | zhū | jiàn | bó | lànɡ | zhuī |
+| 专 | 诸 | 剑㊲， | 博 | 浪 | 椎㊳。 |
+| |
+| jīnɡ | wěi | duì | ɡān | zhī |
+| 经 | 纬 | 对 | 干 | 支㊴。 |
+| |
+| wèi | zūn | mín | wù | zhǔ | dé | zhònɡ | dì | wánɡ | shī |
+| 位 | 尊 | 民 | 物 | 主㊵， | 德 | 重 | 帝 | 王 | 师㊶。 |
+| |
+| wànɡ | qiè | bù | fánɡ | rén | qù | yuǎn | xīn | mánɡ | wú | nài | mǎ | xínɡ | chí |
+| 望 | 切 | 不 | 妨 | 人 | 去 | 远㊷， | 心 | 忙 | 无 | 奈 | 马 | 行 | 迟㊸。 |
+| |
+| jīn | wū | bì | lái | fù | qǐ | mào | línɡ | tí | zhù | bǐ 
+| 金 | 屋 | 闭 | 来， | 赋 | 乞 | 茂 | 陵 | 题 | 柱 | 笔 | ㊹ | ； |
+| |
+| yù | lóu | chénɡ | hòu | jì | xū | chānɡ | ɡǔ | fù | nánɡ | cí |
+| 玉 | 楼 | 成 | 后， | 记 | 须 | 昌 | 谷 | 负 | 囊 | 词㊺。 |
 
 注解
 
@@ -824,86 +832,88 @@ yù lóu chénɡ hòu jì xū chānɡ ɡǔ fù nánɡ cí
 
 五　微
 
-xián duì shènɡ shì duì fēi
-贤对圣，是对非。
-
-jué ào duì cān wēi
-觉奥对参微①。
-
-yú shū duì yàn zì cǎo shè duì chái fēi
-鱼书对雁字②，草舍对柴扉③。
-
-jī xiǎo chànɡ zhì zhāo fēi
-鸡晓唱④，雉朝飞⑤。
-
-hónɡ shòu duì lǜ féi
-红瘦对绿肥⑥。
-
-jǔ bēi yāo yuè yǐn qí mǎ tā huā ɡuī
-举杯邀月饮⑦，骑马踏花归⑧。
-
-huánɡ ɡài nénɡ chénɡ chì bì jié chén pínɡ shàn jiě bái dēnɡ wēi
-黄盖能成赤壁捷⑨，陈平善解白登危⑩。
-
-tài bái shū tánɡ pù quán chuí dì sān qiān zhànɡ 
-太白书堂，瀑泉垂地三千丈⑪；
-
-kǒnɡ mínɡ sì miào lǎo bǎi cān tiān sì shí wéi
-孔明祀庙，老柏参天四十围⑫。
-
-ɡē duì jiǎ wò duì wéi
-戈对甲，幄对帏。
-
-dànɡ dànɡ duì wēi wēi
-荡荡对巍巍⑬。
-
-yán tān duì shào pǔ jìnɡ jú duì yí wēi
-严滩对邵圃⑭，靖菊对夷薇⑮。
-
-zhān hónɡ jiàn bǔ fènɡ fēi
-占鸿渐⑯，卜凤飞⑰。
-
-hǔ bǎnɡ duì lónɡ qí
-虎榜对龙祈⑱。
-
-xīn zhōnɡ luó jǐn xiù kǒu nèi tǔ zhū jī
-心中罗锦绣，口内吐珠玑⑲。
-
-kuān hónɡ huò dá ɡāo huánɡ liànɡ chì zhà yīn yǎ bà wánɡ wēi
-宽宏豁达高皇量⑳，叱咤喑哑霸王威㉑。
-
-miè xiànɡ xīnɡ liú jiǎo tù jìn shí zǒu ɡǒu sǐ 
-灭项兴刘，狡兔尽时走狗死㉒；
-
-lián wú jù wèi pí xiū tún chù wò lónɡ ɡuī
-连吴拒魏，貔貅屯处卧龙归㉓。
-
-shuāi duì shènɡ mì duì xī
-衰对盛，密对稀。
-
-jì fú duì cháo yī
-祭服对朝衣㉔。
-
-jī chuānɡ duì yàn tǎ qiū bǎnɡ duì chūn wéi
-鸡窗对雁塔㉕，秋榜对春闱㉖。
-
-wū yī xiànɡ yàn zǐ jī
-乌衣巷㉗，燕子矶㉘。
-
-jiǔ bié duì chū ɡuī
-久别对初归㉙。
-
-tiān zī zhēn yǎo tiǎo shènɡ dé shí ɡuānɡ huī
-天姿真窈窕㉚，圣德实光辉㉛。
-
-pán táo zǐ què lái jīn mǔ lǐnɡ lì hónɡ chén jìn yù fēi
-蟠桃紫阙来金母㉜，岭荔红尘进玉妃㉝。
-
-bà shànɡ jūn yínɡ yà fù dān xīn zhuànɡ yù dǒu 
-灞上军营，亚父丹心撞玉斗㉞；
-
-chánɡ ān jiǔ shì zhé xiān kuánɡ xìnɡ huàn yín ɡuī
-长安酒市，谪仙狂兴换银龟㉟。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| xián | duì | shènɡ | shì | duì | fēi |
+| 贤 | 对 | 圣， | 是 | 对 | 非。 |
+| |
+| jué | ào | duì | cān | wēi |
+| 觉 | 奥 | 对 | 参 | 微①。 |
+| |
+| yú | shū | duì | yàn | zì | cǎo | shè | duì | chái | fēi |
+| 鱼 | 书 | 对 | 雁 | 字②， | 草 | 舍 | 对 | 柴 | 扉③。 |
+| |
+| jī | xiǎo | chànɡ | zhì | zhāo | fēi |
+| 鸡 | 晓 | 唱④， | 雉 | 朝 | 飞⑤。 |
+| |
+| hónɡ | shòu | duì | lǜ | féi |
+| 红 | 瘦 | 对 | 绿 | 肥⑥。 |
+| |
+| jǔ | bēi | yāo | yuè | yǐn | qí | mǎ | tā | huā | ɡuī |
+| 举 | 杯 | 邀 | 月 | 饮⑦， | 骑 | 马 | 踏 | 花 | 归⑧。 |
+| |
+| huánɡ | ɡài | nénɡ | chénɡ | chì | bì | jié | chén | pínɡ | shàn | jiě | bái | dēnɡ | wēi |
+| 黄 | 盖 | 能 | 成 | 赤 | 壁 | 捷⑨， | 陈 | 平 | 善 | 解 | 白 | 登 | 危⑩。 |
+| |
+| tài | bái | shū | tánɡ | pù | quán | chuí | dì | sān | qiān | zhànɡ 
+| 太 | 白 | 书 | 堂， | 瀑 | 泉 | 垂 | 地 | 三 | 千 | 丈 | ⑪ | ； |
+| |
+| kǒnɡ | mínɡ | sì | miào | lǎo | bǎi | cān | tiān | sì | shí | wéi |
+| 孔 | 明 | 祀 | 庙， | 老 | 柏 | 参 | 天 | 四 | 十 | 围⑫。 |
+| |
+| ɡē | duì | jiǎ | wò | duì | wéi |
+| 戈 | 对 | 甲， | 幄 | 对 | 帏。 |
+| |
+| dànɡ | dànɡ | duì | wēi | wēi |
+| 荡 | 荡 | 对 | 巍 | 巍⑬。 |
+| |
+| yán | tān | duì | shào | pǔ | jìnɡ | jú | duì | yí | wēi |
+| 严 | 滩 | 对 | 邵 | 圃⑭， | 靖 | 菊 | 对 | 夷 | 薇⑮。 |
+| |
+| zhān | hónɡ | jiàn | bǔ | fènɡ | fēi |
+| 占 | 鸿 | 渐⑯， | 卜 | 凤 | 飞⑰。 |
+| |
+| hǔ | bǎnɡ | duì | lónɡ | qí |
+| 虎 | 榜 | 对 | 龙 | 祈⑱。 |
+| |
+| xīn | zhōnɡ | luó | jǐn | xiù | kǒu | nèi | tǔ | zhū | jī |
+| 心 | 中 | 罗 | 锦 | 绣， | 口 | 内 | 吐 | 珠 | 玑⑲。 |
+| |
+| kuān | hónɡ | huò | dá | ɡāo | huánɡ | liànɡ | chì | zhà | yīn | yǎ | bà | wánɡ | wēi |
+| 宽 | 宏 | 豁 | 达 | 高 | 皇 | 量⑳， | 叱 | 咤 | 喑 | 哑 | 霸 | 王 | 威㉑。 |
+| |
+| miè | xiànɡ | xīnɡ | liú | jiǎo | tù | jìn | shí | zǒu | ɡǒu | sǐ 
+| 灭 | 项 | 兴 | 刘， | 狡 | 兔 | 尽 | 时 | 走 | 狗 | 死 | ㉒ | ； |
+| |
+| lián | wú | jù | wèi | pí | xiū | tún | chù | wò | lónɡ | ɡuī |
+| 连 | 吴 | 拒 | 魏， | 貔 | 貅 | 屯 | 处 | 卧 | 龙 | 归㉓。 |
+| |
+| shuāi | duì | shènɡ | mì | duì | xī |
+| 衰 | 对 | 盛， | 密 | 对 | 稀。 |
+| |
+| jì | fú | duì | cháo | yī |
+| 祭 | 服 | 对 | 朝 | 衣㉔。 |
+| |
+| jī | chuānɡ | duì | yàn | tǎ | qiū | bǎnɡ | duì | chūn | wéi |
+| 鸡 | 窗 | 对 | 雁 | 塔㉕， | 秋 | 榜 | 对 | 春 | 闱㉖。 |
+| |
+| wū | yī | xiànɡ | yàn | zǐ | jī |
+| 乌 | 衣 | 巷㉗， | 燕 | 子 | 矶㉘。 |
+| |
+| jiǔ | bié | duì | chū | ɡuī |
+| 久 | 别 | 对 | 初 | 归㉙。 |
+| |
+| tiān | zī | zhēn | yǎo | tiǎo | shènɡ | dé | shí | ɡuānɡ | huī |
+| 天 | 姿 | 真 | 窈 | 窕㉚， | 圣 | 德 | 实 | 光 | 辉㉛。 |
+| |
+| pán | táo | zǐ | què | lái | jīn | mǔ | lǐnɡ | lì | hónɡ | chén | jìn | yù | fēi |
+| 蟠 | 桃 | 紫 | 阙 | 来 | 金 | 母㉜， | 岭 | 荔 | 红 | 尘 | 进 | 玉 | 妃㉝。 |
+| |
+| bà | shànɡ | jūn | yínɡ | yà | fù | dān | xīn | zhuànɡ | yù | dǒu 
+| 灞 | 上 | 军 | 营， | 亚 | 父 | 丹 | 心 | 撞 | 玉 | 斗 | ㉞ | ； |
+| |
+| chánɡ | ān | jiǔ | shì | zhé | xiān | kuánɡ | xìnɡ | huàn | yín | ɡuī |
+| 长 | 安 | 酒 | 市， | 谪 | 仙 | 狂 | 兴 | 换 | 银 | 龟㉟。 |
 
 注解
 
@@ -985,86 +995,88 @@ chánɡ ān jiǔ shì zhé xiān kuánɡ xìnɡ huàn yín ɡuī
 
 六　鱼
 
-ɡēnɡ duì fàn liǔ duì yú
-羹对饭，柳对榆。
-
-duǎn xiù duì chánɡ jū
-短袖对长裾。
-
-jī ɡuān duì fènɡ wěi sháo yào duì fú qú
-鸡冠对凤尾①，芍药对芙蕖②。
-
-zhōu yǒu ruò hàn xiànɡ rú
-周有若③，汉相如④。
-
-wánɡ wū duì kuānɡ lú
-王屋对匡庐⑤。
-
-yuè mínɡ shān sì yuǎn fēnɡ xì shuǐ tínɡ xū
-月明山寺远⑥，风细水亭虚⑦。
-
-zhuànɡ shì yāo jiān sān chǐ jiàn nán ér fù nèi wǔ chē shū
-壮士腰间三尺剑⑧，男儿腹内五车书⑨。
-
-shū yǐnɡ àn xiānɡ hé jìnɡ ɡū shān méi ruǐ fànɡ 
-疏影暗香，和靖孤山梅蕊放⑩；
-
-qīnɡ yīn qīnɡ zhòu yuān mínɡ jiù zhái liǔ tiáo shū
-轻阴清昼，渊明旧宅柳条舒⑪。
-
-wú duì rǔ ěr duì yú
-吾对汝，尔对余。
-
-xuǎn shòu duì shēnɡ chú
-选授对升除⑫。
-
-shū xiānɡ duì yào ɡuì lěi sì duì yōu chú
-书箱对药柜，耒耜对耰锄⑬。
-
-shēn suī lǔ huí bù yú
-参虽鲁⑭，回不愚⑮。
-
-fá yuè duì yán lǘ
-阀阅对阎闾⑯。
-
-zhū hóu qiān shènɡ ɡuó mìnɡ fù qī xiānɡ chē
-诸侯千乘国⑰，命妇七香车⑱。
-
-chuān yún cǎi yào wén xiān nǚ tà xuě xún méi cè jiǎn lǘ
-穿云采药闻仙女⑲，踏雪寻梅策蹇驴⑳。
-
-yù tù jīn wū èr qì jīnɡ línɡ wéi rì yuè 
-玉兔金乌，二气精灵为日月㉑；
-
-luò ɡuī hé mǎ wǔ xínɡ shēnɡ kè zài tú shū
-洛龟河马，五行生克在图书㉒。
-
-qī duì zhènɡ mì duì shū
-欹对正，密对疏。
-
-nánɡ tuó duì bāo jū
-囊橐对苞苴㉓。
-
-luó fú duì hú jiào shuǐ qǔ duì shān yū
-罗浮对壶峤㉔，水曲对山纡。
-
-cān hè jià shì luán yú
-骖鹤驾㉕，侍鸾舆㉖。
-
-jié nì duì chánɡ jū
-桀溺对长沮㉗。
-
-bó hǔ biàn zhuānɡ zǐ dānɡ xiónɡ fénɡ jié yú
-搏虎卞庄子㉘，当熊冯婕妤㉙。
-
-nán yánɡ ɡāo shì yín liánɡ fù xī shǔ cái rén fù zǐ xū
-南阳高士吟梁父㉚，西蜀才人赋子虚㉛。
-
-sān jìnɡ fēnɡ ɡuānɡ bái shí huánɡ huā ɡōnɡ zhànɡ lǚ 
-三径风光，白石黄花供杖履㉜；
-
-wǔ hú yān jǐnɡ qīnɡ shān lǜ shuǐ zài qiáo yú
-五湖烟景，青山绿水在樵渔㉝。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ɡēnɡ | duì | fàn | liǔ | duì | yú |
+| 羹 | 对 | 饭， | 柳 | 对 | 榆。 |
+| |
+| duǎn | xiù | duì | chánɡ | jū |
+| 短 | 袖 | 对 | 长 | 裾。 |
+| |
+| jī | ɡuān | duì | fènɡ | wěi | sháo | yào | duì | fú | qú |
+| 鸡 | 冠 | 对 | 凤 | 尾①， | 芍 | 药 | 对 | 芙 | 蕖②。 |
+| |
+| zhōu | yǒu | ruò | hàn | xiànɡ | rú |
+| 周 | 有 | 若③， | 汉 | 相 | 如④。 |
+| |
+| wánɡ | wū | duì | kuānɡ | lú |
+| 王 | 屋 | 对 | 匡 | 庐⑤。 |
+| |
+| yuè | mínɡ | shān | sì | yuǎn | fēnɡ | xì | shuǐ | tínɡ | xū |
+| 月 | 明 | 山 | 寺 | 远⑥， | 风 | 细 | 水 | 亭 | 虚⑦。 |
+| |
+| zhuànɡ | shì | yāo | jiān | sān | chǐ | jiàn | nán | ér | fù | nèi | wǔ | chē | shū |
+| 壮 | 士 | 腰 | 间 | 三 | 尺 | 剑⑧， | 男 | 儿 | 腹 | 内 | 五 | 车 | 书⑨。 |
+| |
+| shū | yǐnɡ | àn | xiānɡ | hé | jìnɡ | ɡū | shān | méi | ruǐ | fànɡ 
+| 疏 | 影 | 暗 | 香， | 和 | 靖 | 孤 | 山 | 梅 | 蕊 | 放 | ⑩ | ； |
+| |
+| qīnɡ | yīn | qīnɡ | zhòu | yuān | mínɡ | jiù | zhái | liǔ | tiáo | shū |
+| 轻 | 阴 | 清 | 昼， | 渊 | 明 | 旧 | 宅 | 柳 | 条 | 舒⑪。 |
+| |
+| wú | duì | rǔ | ěr | duì | yú |
+| 吾 | 对 | 汝， | 尔 | 对 | 余。 |
+| |
+| xuǎn | shòu | duì | shēnɡ | chú |
+| 选 | 授 | 对 | 升 | 除⑫。 |
+| |
+| shū | xiānɡ | duì | yào | ɡuì | lěi | sì | duì | yōu | chú |
+| 书 | 箱 | 对 | 药 | 柜， | 耒 | 耜 | 对 | 耰 | 锄⑬。 |
+| |
+| shēn | suī | lǔ | huí | bù | yú |
+| 参 | 虽 | 鲁⑭， | 回 | 不 | 愚⑮。 |
+| |
+| fá | yuè | duì | yán | lǘ |
+| 阀 | 阅 | 对 | 阎 | 闾⑯。 |
+| |
+| zhū | hóu | qiān | shènɡ | ɡuó | mìnɡ | fù | qī | xiānɡ | chē |
+| 诸 | 侯 | 千 | 乘 | 国⑰， | 命 | 妇 | 七 | 香 | 车⑱。 |
+| |
+| chuān | yún | cǎi | yào | wén | xiān | nǚ | tà | xuě | xún | méi | cè | jiǎn | lǘ |
+| 穿 | 云 | 采 | 药 | 闻 | 仙 | 女⑲， | 踏 | 雪 | 寻 | 梅 | 策 | 蹇 | 驴⑳。 |
+| |
+| yù | tù | jīn | wū | èr | qì | jīnɡ | línɡ | wéi | rì | yuè 
+| 玉 | 兔 | 金 | 乌， | 二 | 气 | 精 | 灵 | 为 | 日 | 月 | ㉑ | ； |
+| |
+| luò | ɡuī | hé | mǎ | wǔ | xínɡ | shēnɡ | kè | zài | tú | shū |
+| 洛 | 龟 | 河 | 马， | 五 | 行 | 生 | 克 | 在 | 图 | 书㉒。 |
+| |
+| qī | duì | zhènɡ | mì | duì | shū |
+| 欹 | 对 | 正， | 密 | 对 | 疏。 |
+| |
+| nánɡ | tuó | duì | bāo | jū |
+| 囊 | 橐 | 对 | 苞 | 苴㉓。 |
+| |
+| luó | fú | duì | hú | jiào | shuǐ | qǔ | duì | shān | yū |
+| 罗 | 浮 | 对 | 壶 | 峤㉔， | 水 | 曲 | 对 | 山 | 纡。 |
+| |
+| cān | hè | jià | shì | luán | yú |
+| 骖 | 鹤 | 驾㉕， | 侍 | 鸾 | 舆㉖。 |
+| |
+| jié | nì | duì | chánɡ | jū |
+| 桀 | 溺 | 对 | 长 | 沮㉗。 |
+| |
+| bó | hǔ | biàn | zhuānɡ | zǐ | dānɡ | xiónɡ | fénɡ | jié | yú |
+| 搏 | 虎 | 卞 | 庄 | 子㉘， | 当 | 熊 | 冯 | 婕 | 妤㉙。 |
+| |
+| nán | yánɡ | ɡāo | shì | yín | liánɡ | fù | xī | shǔ | cái | rén | fù | zǐ | xū |
+| 南 | 阳 | 高 | 士 | 吟 | 梁 | 父㉚， | 西 | 蜀 | 才 | 人 | 赋 | 子 | 虚㉛。 |
+| |
+| sān | jìnɡ | fēnɡ | ɡuānɡ | bái | shí | huánɡ | huā | ɡōnɡ | zhànɡ | lǚ 
+| 三 | 径 | 风 | 光， | 白 | 石 | 黄 | 花 | 供 | 杖 | 履 | ㉜ | ； |
+| |
+| wǔ | hú | yān | jǐnɡ | qīnɡ | shān | lǜ | shuǐ | zài | qiáo | yú |
+| 五 | 湖 | 烟 | 景， | 青 | 山 | 绿 | 水 | 在 | 樵 | 渔㉝。 |
 
 注解
 
@@ -1138,113 +1150,115 @@ wǔ hú yān jǐnɡ qīnɡ shān lǜ shuǐ zài qiáo yú
 
 七　虞
 
-hónɡ duì bái yǒu duì wú
-红对白，有对无。
-
-bù ɡǔ duì tí hú
-布谷对提壶①。
-
-máo zhuī duì yǔ shàn tiān què duì huánɡ dū
-毛锥对羽扇②，天阙对皇都③。
-
-xiè hú dié zhènɡ zhè ɡū
-谢蝴蝶④，郑鹧鸪⑤。
-
-dǎo hǎi duì ɡuī hú
-蹈海对归湖⑥。
-
-huā féi chūn yǔ rùn zhú shòu wǎn fēnɡ shū
-花肥春雨润⑦，竹瘦晚风疏⑧。
-
-mài fàn dòu mí zhōnɡ chuànɡ hàn chún ɡēnɡ lú kuài jìnɡ ɡuī wú
-麦饭豆糜终创汉⑨，莼羹鲈脍竟归吴⑩。
-
-qín diào qīnɡ tán yánɡ liǔ yuè zhōnɡ qián qù tīnɡ 
-琴调轻弹，杨柳月中潜去听⑪；
-
-jiǔ qí xié ɡuà xìnɡ huā cūn lǐ ɡònɡ lái ɡū
-酒旗斜挂，杏花村里共来沽⑫。
-
-luó duì qǐ mínɡ duì shū
-罗对绮⑬，茗对蔬。
-
-bǎi xiù duì sōnɡ kū
-柏秀对松枯。
-
-zhōnɡ yuán duì shànɡ sì fǎn bì duì huán zhū
-中元对上巳⑭，返璧对还珠⑮。
-
-yún mènɡ zé dònɡ tínɡ hú
-云梦泽⑯，洞庭湖⑰。
-
-yù zhú duì bīnɡ hú
-玉烛对冰壶⑱。
-
-cānɡ tóu xī jiǎo dài lǜ bìn xiànɡ yá shū
-苍头犀角带⑲，绿鬓象牙梳⑳。
-
-sōnɡ yīn bái hè shēnɡ xiānɡ yìnɡ jìnɡ lǐ qīnɡ luán yǐnɡ bù ɡū
-松阴白鹤声相应㉑，镜里青鸾影不孤㉒。
-
-zhú hù bàn kāi duì yǒu bù zhī rén zài fǒu
-竹户半开，对牖不知人在否㉓。
-
-chái ɡuān shēn bì tínɡ chē huán yǒu kè lái wú
-柴关深闭，停车还有客来无㉔。
-
-bīn duì zhǔ bì duì nú
-宾对主，婢对奴。
-
-bǎo yā duì jīn fú
-宝鸭对金凫㉕。
-
-shēnɡ tánɡ duì rù shì ɡǔ sè duì tóu hú
-升堂对入室㉖，鼓瑟对投壶㉗。
-
-chān hé bì sònɡ lián zhū
-觇合璧，颂联珠㉘。
-
-tí wènɡ duì dānɡ lú
-提瓮对当垆㉙。
-
-yǎnɡ ɡāo hónɡ rì jìn wànɡ yuǎn bái yún ɡū
-仰高红日近㉚，望远白云孤㉛。
-
-xīn xiànɡ mì shū kūi èr yǒu jī yún fānɡ yù dònɡ sān wú
-歆向秘书窥二酉㉜，机云芳誉动三吴㉝。
-
-zǔ jiàn sān bēi lǎo qù chánɡ zhēn huā xià jiǔ 
-祖饯三杯，老去常斟花下酒㉞；
-
-huānɡ tián wǔ mǔ ɡuī lái dú hè yuè zhōnɡ chú
-荒田五亩，归来独荷月中锄㉟。
-
-jūn duì fù wèi duì wú
-君对父，魏对吴㊱。
-
-běi yuè duì xī hú
-北岳对西湖㊲。
-
-cài shū duì chá chuǎn jù shènɡ duì chānɡ pú
-菜蔬对茶荈㊳，苣蕂对菖蒲㊴。
-
-méi huā shù zhú yè fú
-梅花数㊵，竹叶符㊶。
-
-tínɡ yì duì shān hū
-廷议对山呼㊷。
-
-liǎnɡ dū bān ɡù fù bā zhèn kǒnɡ mínɡ tú
-两都班固赋㊸，八阵孔明图㊹。
-
-tián qìnɡ zǐ jīnɡ tánɡ xià mào wánɡ póu qīnɡ bǎi mù qián kū
-田庆紫荆堂下茂㊺，王裒青柏墓前枯㊻。
-
-chū sài zhōnɡ lánɡ dī yǒu rǔ shí ɡuī hàn shì 
-出塞中郎，羝有乳时归汉室㊼；
-
-zhì qín tài zǐ mǎ shēnɡ jiǎo rì fǎn yān dū
-质秦太子，马生角日返燕都㊽。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| hónɡ | duì | bái | yǒu | duì | wú |
+| 红 | 对 | 白， | 有 | 对 | 无。 |
+| |
+| bù | ɡǔ | duì | tí | hú |
+| 布 | 谷 | 对 | 提 | 壶①。 |
+| |
+| máo | zhuī | duì | yǔ | shàn | tiān | què | duì | huánɡ | dū |
+| 毛 | 锥 | 对 | 羽 | 扇②， | 天 | 阙 | 对 | 皇 | 都③。 |
+| |
+| xiè | hú | dié | zhènɡ | zhè | ɡū |
+| 谢 | 蝴 | 蝶④， | 郑 | 鹧 | 鸪⑤。 |
+| |
+| dǎo | hǎi | duì | ɡuī | hú |
+| 蹈 | 海 | 对 | 归 | 湖⑥。 |
+| |
+| huā | féi | chūn | yǔ | rùn | zhú | shòu | wǎn | fēnɡ | shū |
+| 花 | 肥 | 春 | 雨 | 润⑦， | 竹 | 瘦 | 晚 | 风 | 疏⑧。 |
+| |
+| mài | fàn | dòu | mí | zhōnɡ | chuànɡ | hàn | chún | ɡēnɡ | lú | kuài | jìnɡ | ɡuī | wú |
+| 麦 | 饭 | 豆 | 糜 | 终 | 创 | 汉⑨， | 莼 | 羹 | 鲈 | 脍 | 竟 | 归 | 吴⑩。 |
+| |
+| qín | diào | qīnɡ | tán | yánɡ | liǔ | yuè | zhōnɡ | qián | qù | tīnɡ 
+| 琴 | 调 | 轻 | 弹， | 杨 | 柳 | 月 | 中 | 潜 | 去 | 听 | ⑪ | ； |
+| |
+| jiǔ | qí | xié | ɡuà | xìnɡ | huā | cūn | lǐ | ɡònɡ | lái | ɡū |
+| 酒 | 旗 | 斜 | 挂， | 杏 | 花 | 村 | 里 | 共 | 来 | 沽⑫。 |
+| |
+| luó | duì | qǐ | mínɡ | duì | shū |
+| 罗 | 对 | 绮⑬， | 茗 | 对 | 蔬。 |
+| |
+| bǎi | xiù | duì | sōnɡ | kū |
+| 柏 | 秀 | 对 | 松 | 枯。 |
+| |
+| zhōnɡ | yuán | duì | shànɡ | sì | fǎn | bì | duì | huán | zhū |
+| 中 | 元 | 对 | 上 | 巳⑭， | 返 | 璧 | 对 | 还 | 珠⑮。 |
+| |
+| yún | mènɡ | zé | dònɡ | tínɡ | hú |
+| 云 | 梦 | 泽⑯， | 洞 | 庭 | 湖⑰。 |
+| |
+| yù | zhú | duì | bīnɡ | hú |
+| 玉 | 烛 | 对 | 冰 | 壶⑱。 |
+| |
+| cānɡ | tóu | xī | jiǎo | dài | lǜ | bìn | xiànɡ | yá | shū |
+| 苍 | 头 | 犀 | 角 | 带⑲， | 绿 | 鬓 | 象 | 牙 | 梳⑳。 |
+| |
+| sōnɡ | yīn | bái | hè | shēnɡ | xiānɡ | yìnɡ | jìnɡ | lǐ | qīnɡ | luán | yǐnɡ | bù | ɡū |
+| 松 | 阴 | 白 | 鹤 | 声 | 相 | 应㉑， | 镜 | 里 | 青 | 鸾 | 影 | 不 | 孤㉒。 |
+| |
+| zhú | hù | bàn | kāi | duì | yǒu | bù | zhī | rén | zài | fǒu |
+| 竹 | 户 | 半 | 开， | 对 | 牖 | 不 | 知 | 人 | 在 | 否㉓。 |
+| |
+| chái | ɡuān | shēn | bì | tínɡ | chē | huán | yǒu | kè | lái | wú |
+| 柴 | 关 | 深 | 闭， | 停 | 车 | 还 | 有 | 客 | 来 | 无㉔。 |
+| |
+| bīn | duì | zhǔ | bì | duì | nú |
+| 宾 | 对 | 主， | 婢 | 对 | 奴。 |
+| |
+| bǎo | yā | duì | jīn | fú |
+| 宝 | 鸭 | 对 | 金 | 凫㉕。 |
+| |
+| shēnɡ | tánɡ | duì | rù | shì | ɡǔ | sè | duì | tóu | hú |
+| 升 | 堂 | 对 | 入 | 室㉖， | 鼓 | 瑟 | 对 | 投 | 壶㉗。 |
+| |
+| chān | hé | bì | sònɡ | lián | zhū |
+| 觇 | 合 | 璧， | 颂 | 联 | 珠㉘。 |
+| |
+| tí | wènɡ | duì | dānɡ | lú |
+| 提 | 瓮 | 对 | 当 | 垆㉙。 |
+| |
+| yǎnɡ | ɡāo | hónɡ | rì | jìn | wànɡ | yuǎn | bái | yún | ɡū |
+| 仰 | 高 | 红 | 日 | 近㉚， | 望 | 远 | 白 | 云 | 孤㉛。 |
+| |
+| xīn | xiànɡ | mì | shū | kūi | èr | yǒu | jī | yún | fānɡ | yù | dònɡ | sān | wú |
+| 歆 | 向 | 秘 | 书 | 窥 | 二 | 酉㉜， | 机 | 云 | 芳 | 誉 | 动 | 三 | 吴㉝。 |
+| |
+| zǔ | jiàn | sān | bēi | lǎo | qù | chánɡ | zhēn | huā | xià | jiǔ 
+| 祖 | 饯 | 三 | 杯， | 老 | 去 | 常 | 斟 | 花 | 下 | 酒 | ㉞ | ； |
+| |
+| huānɡ | tián | wǔ | mǔ | ɡuī | lái | dú | hè | yuè | zhōnɡ | chú |
+| 荒 | 田 | 五 | 亩， | 归 | 来 | 独 | 荷 | 月 | 中 | 锄㉟。 |
+| |
+| jūn | duì | fù | wèi | duì | wú |
+| 君 | 对 | 父， | 魏 | 对 | 吴㊱。 |
+| |
+| běi | yuè | duì | xī | hú |
+| 北 | 岳 | 对 | 西 | 湖㊲。 |
+| |
+| cài | shū | duì | chá | chuǎn | jù | shènɡ | duì | chānɡ | pú |
+| 菜 | 蔬 | 对 | 茶 | 荈㊳， | 苣 | 蕂 | 对 | 菖 | 蒲㊴。 |
+| |
+| méi | huā | shù | zhú | yè | fú |
+| 梅 | 花 | 数㊵， | 竹 | 叶 | 符㊶。 |
+| |
+| tínɡ | yì | duì | shān | hū |
+| 廷 | 议 | 对 | 山 | 呼㊷。 |
+| |
+| liǎnɡ | dū | bān | ɡù | fù | bā | zhèn | kǒnɡ | mínɡ | tú |
+| 两 | 都 | 班 | 固 | 赋㊸， | 八 | 阵 | 孔 | 明 | 图㊹。 |
+| |
+| tián | qìnɡ | zǐ | jīnɡ | tánɡ | xià | mào | wánɡ | póu | qīnɡ | bǎi | mù | qián | kū |
+| 田 | 庆 | 紫 | 荆 | 堂 | 下 | 茂㊺， | 王 | 裒 | 青 | 柏 | 墓 | 前 | 枯㊻。 |
+| |
+| chū | sài | zhōnɡ | lánɡ | dī | yǒu | rǔ | shí | ɡuī | hàn | shì 
+| 出 | 塞 | 中 | 郎， | 羝 | 有 | 乳 | 时 | 归 | 汉 | 室 | ㊼ | ； |
+| |
+| zhì | qín | tài | zǐ | mǎ | shēnɡ | jiǎo | rì | fǎn | yān | dū |
+| 质 | 秦 | 太 | 子， | 马 | 生 | 角 | 日 | 返 | 燕 | 都㊽。 |
 
 注解
 
@@ -1352,86 +1366,88 @@ zhì qín tài zǐ mǎ shēnɡ jiǎo rì fǎn yān dū
 
 八　齐
 
-luán duì fènɡ quǎn duì jī
-鸾对凤①，犬对鸡②。
-
-sài běi duì ɡuān xī
-塞北对关西③。
-
-chánɡ shēnɡ duì yì zhì lǎo yòu duì máo ní
-长生对益智④，老幼对旄倪⑤。
-
-bān zhú cè jiǎn tónɡ ɡuī
-颁竹策⑥，剪桐圭⑦。
-
-bō zǎo duì zhēnɡ lí
-剥枣对蒸藜⑧。
-
-mián yāo rú ruò liǔ nèn shǒu sì róu yí
-绵腰如弱柳⑨，嫩手似柔荑⑩。
-
-jiǎo tù nénɡ chuān sān xué yǐn jiāo liáo quán jiè yì zhī qī
-狡兔能穿三穴隐⑪，鹪鹩权借一枝栖⑫。
-
-lù lǐ xiān shēnɡ cè zhànɡ chuí shēn fú shǎo zhǔ 
-甪里先生，策杖垂绅扶少主⑬；
-
-yū línɡ zhònɡ zǐ pì lú zhī lǚ lài xián qī
-於陵仲子，辟织履赖贤妻⑭。
-
-mínɡ duì fèi fàn duì qī
-鸣对吠⑮，泛对栖⑯。
-
-yàn yǔ duì yīnɡ tí
-燕语对莺啼⑰。
-
-shān hú duì mǎ nǎo hǔ pò duì bō lí
-珊瑚对玛瑙，琥珀对玻璃。
-
-jiànɡ xiàn lǎo bó zhōu lí
-绛县老⑱，伯州犁⑲。
-
-cè lǐ duì rán xī
-测蠡对燃犀⑳。
-
-yú huái kān zuō yìn táo lǐ zì chénɡ qī
-榆槐堪作荫㉑，桃李自成蹊㉒。
-
-tóu wū jiù nǚ xī mén bào lìn huàn fénɡ qī bǎi lǐ xī
-投巫救女西门豹㉓，赁浣逢妻百里奚㉔。
-
-què lǐ mén qiánɡ lòu xiànɡ ɡuī mó yuán bù lòu 
-阙里门墙，陋巷规模原不陋㉕；
-
-suí dī jī zhǐ mí lóu zōnɡ jī yǐ quán mí
-隋堤基址，迷楼踪迹已全迷㉖。
-
-yuè duì zhào chǔ duì qí
-越对赵㉗，楚对齐㉘。
-
-liǔ àn duì táo qī
-柳岸对桃蹊㉙。
-
-shā chuānɡ duì xiù hù huà lóu duì xiānɡ ɡuī
-纱窗对绣户㉚，画楼对香闺㉛。
-
-xiū yuè fǔ shànɡ tiān tī
-修月斧㉜，上天梯㉝。
-
-dì dōnɡ duì hónɡ ní
-蝃对虹霓㉞。
-
-xínɡ lè yóu chūn pǔ ɡōnɡ yú bìnɡ xià qí
-行乐游春圃㉟，工谀病夏畦㊱。
-
-lǐ ɡuǎnɡ bù fēnɡ kōnɡ shè hǔ wèi mínɡ dé lì wèi cún ní
-李广不封空射虎㊲，魏明得立为存麑㊳。
-
-àn pèi xú xínɡ xì liǔ ɡōnɡ chénɡ láo wánɡ jìnɡ 
-按辔徐行，细柳功成劳王敬㊴；
-
-wén shēnɡ shāo wò lín jīnɡ mínɡ zhèn zhǐ ér tí
-闻声稍卧，临泾名震止儿啼㊵。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| luán | duì | fènɡ | quǎn | duì | jī |
+| 鸾 | 对 | 凤①， | 犬 | 对 | 鸡②。 |
+| |
+| sài | běi | duì | ɡuān | xī |
+| 塞 | 北 | 对 | 关 | 西③。 |
+| |
+| chánɡ | shēnɡ | duì | yì | zhì | lǎo | yòu | duì | máo | ní |
+| 长 | 生 | 对 | 益 | 智④， | 老 | 幼 | 对 | 旄 | 倪⑤。 |
+| |
+| bān | zhú | cè | jiǎn | tónɡ | ɡuī |
+| 颁 | 竹 | 策⑥， | 剪 | 桐 | 圭⑦。 |
+| |
+| bō | zǎo | duì | zhēnɡ | lí |
+| 剥 | 枣 | 对 | 蒸 | 藜⑧。 |
+| |
+| mián | yāo | rú | ruò | liǔ | nèn | shǒu | sì | róu | yí |
+| 绵 | 腰 | 如 | 弱 | 柳⑨， | 嫩 | 手 | 似 | 柔 | 荑⑩。 |
+| |
+| jiǎo | tù | nénɡ | chuān | sān | xué | yǐn | jiāo | liáo | quán | jiè | yì | zhī | qī |
+| 狡 | 兔 | 能 | 穿 | 三 | 穴 | 隐⑪， | 鹪 | 鹩 | 权 | 借 | 一 | 枝 | 栖⑫。 |
+| |
+| lù | lǐ | xiān | shēnɡ | cè | zhànɡ | chuí | shēn | fú | shǎo | zhǔ 
+| 甪 | 里 | 先 | 生， | 策 | 杖 | 垂 | 绅 | 扶 | 少 | 主 | ⑬ | ； |
+| |
+| yū | línɡ | zhònɡ | zǐ | pì | lú | zhī | lǚ | lài | xián | qī |
+| 於 | 陵 | 仲 | 子， | 辟 | 织 | 履 | 赖 | 贤 | 妻⑭。 |
+| |
+| mínɡ | duì | fèi | fàn | duì | qī |
+| 鸣 | 对 | 吠⑮， | 泛 | 对 | 栖⑯。 |
+| |
+| yàn | yǔ | duì | yīnɡ | tí |
+| 燕 | 语 | 对 | 莺 | 啼⑰。 |
+| |
+| shān | hú | duì | mǎ | nǎo | hǔ | pò | duì | bō | lí |
+| 珊 | 瑚 | 对 | 玛 | 瑙， | 琥 | 珀 | 对 | 玻 | 璃。 |
+| |
+| jiànɡ | xiàn | lǎo | bó | zhōu | lí |
+| 绛 | 县 | 老⑱， | 伯 | 州 | 犁⑲。 |
+| |
+| cè | lǐ | duì | rán | xī |
+| 测 | 蠡 | 对 | 燃 | 犀⑳。 |
+| |
+| yú | huái | kān | zuō | yìn | táo | lǐ | zì | chénɡ | qī |
+| 榆 | 槐 | 堪 | 作 | 荫㉑， | 桃 | 李 | 自 | 成 | 蹊㉒。 |
+| |
+| tóu | wū | jiù | nǚ | xī | mén | bào | lìn | huàn | fénɡ | qī | bǎi | lǐ | xī |
+| 投 | 巫 | 救 | 女 | 西 | 门 | 豹㉓， | 赁 | 浣 | 逢 | 妻 | 百 | 里 | 奚㉔。 |
+| |
+| què | lǐ | mén | qiánɡ | lòu | xiànɡ | ɡuī | mó | yuán | bù | lòu 
+| 阙 | 里 | 门 | 墙， | 陋 | 巷 | 规 | 模 | 原 | 不 | 陋 | ㉕ | ； |
+| |
+| suí | dī | jī | zhǐ | mí | lóu | zōnɡ | jī | yǐ | quán | mí |
+| 隋 | 堤 | 基 | 址， | 迷 | 楼 | 踪 | 迹 | 已 | 全 | 迷㉖。 |
+| |
+| yuè | duì | zhào | chǔ | duì | qí |
+| 越 | 对 | 赵㉗， | 楚 | 对 | 齐㉘。 |
+| |
+| liǔ | àn | duì | táo | qī |
+| 柳 | 岸 | 对 | 桃 | 蹊㉙。 |
+| |
+| shā | chuānɡ | duì | xiù | hù | huà | lóu | duì | xiānɡ | ɡuī |
+| 纱 | 窗 | 对 | 绣 | 户㉚， | 画 | 楼 | 对 | 香 | 闺㉛。 |
+| |
+| xiū | yuè | fǔ | shànɡ | tiān | tī |
+| 修 | 月 | 斧㉜， | 上 | 天 | 梯㉝。 |
+| |
+| dì | dōnɡ | duì | hónɡ | ní |
+| 蝃 | 对 | 虹 | 霓㉞。 |
+| |
+| xínɡ | lè | yóu | chūn | pǔ | ɡōnɡ | yú | bìnɡ | xià | qí |
+| 行 | 乐 | 游 | 春 | 圃㉟， | 工 | 谀 | 病 | 夏 | 畦㊱。 |
+| |
+| lǐ | ɡuǎnɡ | bù | fēnɡ | kōnɡ | shè | hǔ | wèi | mínɡ | dé | lì | wèi | cún | ní |
+| 李 | 广 | 不 | 封 | 空 | 射 | 虎㊲， | 魏 | 明 | 得 | 立 | 为 | 存 | 麑㊳。 |
+| |
+| àn | pèi | xú | xínɡ | xì | liǔ | ɡōnɡ | chénɡ | láo | wánɡ | jìnɡ 
+| 按 | 辔 | 徐 | 行， | 细 | 柳 | 功 | 成 | 劳 | 王 | 敬 | ㊴ | ； |
+| |
+| wén | shēnɡ | shāo | wò | lín | jīnɡ | mínɡ | zhèn | zhǐ | ér | tí |
+| 闻 | 声 | 稍 | 卧， | 临 | 泾 | 名 | 震 | 止 | 儿 | 啼㊵。 |
 
 注解
 
@@ -1523,113 +1539,115 @@ wén shēnɡ shāo wò lín jīnɡ mínɡ zhèn zhǐ ér tí
 
 九　佳
 
-mén duì hù mò duì jiē
-门对户①，陌对街②。
-
-zhī yè duì ɡēn ɡāi
-枝叶对根荄③。
-
-dòu jī duì huī zhǔ fènɡ jì duì luán chāi
-斗鸡对挥麈④，凤髻对鸾钗⑤。
-
-dēnɡ chǔ xiù dù qín huái
-登楚岫⑥，渡秦淮⑦。
-
-zǐ fàn duì fū chāi
-子犯对夫差⑧。
-
-shí dǐnɡ lónɡ tóu suō yín zhēnɡ yàn chì pái
-石鼎龙头缩⑨，银筝雁翅排⑩。
-
-bǎi nián shī lǐ yán yú qìnɡ wàn lǐ fēnɡ yún rù zhuànɡ huái
-百年诗礼延余庆⑪，万里风云入壮怀⑫。
-
-nénɡ biàn mínɡ lún sǐ yǐ yě zāi bēi jì lù 
-能辨名伦，死矣野哉悲季路⑬；
-
-bù yóu jìnɡ dòu shēnɡ hū yú yě yǒu ɡāo chái
-不由径窦，生乎愚也有高柴⑭。
-
-ɡuān duì lǚ wà duì xié
-冠对履，袜对鞋。
-
-hǎi jiǎo duì tiān yá
-海角对天涯⑮。
-
-jī rén duì hǔ lǚ liù shì duì sān jiē
-鸡人对虎旅⑯，六市对三街⑰。
-
-chén zǔ dòu xì duī mái
-陈俎豆⑱，戏堆埋⑲。
-
-jiǎo jiǎo duì ái ái
-皎皎对皑皑⑳。
-
-xián xiànɡ jù dōnɡ ɡé liánɡ pénɡ jí xiǎo zhāi
-贤相聚东阁㉑，良朋集小斋㉒。
-
-mènɡ lǐ shān chuān shū yuè jué zhěn biān fēnɡ yuè jì qí xié
-梦里山川书越绝㉓，枕边风月记齐谐㉔。
-
-sān jìnɡ xiāo shū pénɡ zé ɡāo fēnɡ yí wǔ liǔ 
-三径萧疏，彭泽高风怡五柳㉕；
-
-liù cháo huá ɡuì lánɡ yá jiā qì zhònɡ sān huái
-六朝华贵，琅琊佳气种三槐㉖。
-
-qín duì jiǎn qiǎo duì ɡuāi
-勤对俭，巧对乖㉗。
-
-shuǐ xiè duì shān zhāi
-水榭对山斋㉘。
-
-bīnɡ táo duì xuě ǒu lòu jiàn duì ɡēnɡ pái
-冰桃对雪藕㉙，漏箭对更牌㉚。
-
-hán cuì xiù ɡuì jīnɡ chāi
-寒翠袖㉛，贵荆钗㉜。
-
-kānɡ kǎi duì huī xié
-慷慨对诙谐㉝。
-
-zhú jìnɡ fēnɡ shēnɡ lài huā qī yuè yǐnɡ shāi
-竹径风声籁㉞，花蹊月影筛㉟。
-
-xié nánɡ jiā yùn suí shí zhù hé chú chén hān dào chù mái
-携囊佳韵随时贮㊱，荷锄沉酣到处埋㊲。
-
-jiānɡ hǎi ɡū zōnɡ xuě lànɡ fēnɡ tāo jīnɡ lǚ mènɡ 
-江海孤踪，雪浪风涛惊旅梦㊳；
-
-xiānɡ ɡuān wàn lǐ yān luán yún shù qiē ɡuī huái
-乡关万里，烟峦云树切归怀㊴。
-
-qǐ duì zǐ ɡuì duì kǎi
-杞对梓㊵，桧对楷。
-
-shuǐ jì duì shān yá
-水际对山崖。
-
-wǔ qún duì ɡē xiù yù bì duì yáo jiē
-舞裙对歌袖，玉陛对瑶阶㊶。
-
-fēnɡ rù mèi yuè yínɡ huái
-风入袂㊷，月盈怀㊸。
-
-hǔ sì duì lánɡ chái
-虎兕对狼豺㊹。
-
-mǎ rónɡ tánɡ shànɡ zhànɡ yánɡ kǎn shuǐ zhōnɡ zhāi
-马融堂上帐㊺，羊侃水中斋㊻。
-
-běi miàn hónɡ ɡōnɡ yí shí jiè dōnɡ xún dài zhì dìnɡ fán chái
-北面黉宫宜拾芥㊼，东巡岱畤定燔柴㊽。
-
-jǐn lǎn chūn jiānɡ hénɡ dí dònɡ xiāo tōnɡ bì luò 
-锦缆春江，横笛洞箫通碧落㊾；
-
-huá dēnɡ yè yuè yí zān duò cuì biàn xiānɡ jiē
-华灯夜月，遗簪堕翠遍香街㊿。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| mén | duì | hù | mò | duì | jiē |
+| 门 | 对 | 户①， | 陌 | 对 | 街②。 |
+| |
+| zhī | yè | duì | ɡēn | ɡāi |
+| 枝 | 叶 | 对 | 根 | 荄③。 |
+| |
+| dòu | jī | duì | huī | zhǔ | fènɡ | jì | duì | luán | chāi |
+| 斗 | 鸡 | 对 | 挥 | 麈④， | 凤 | 髻 | 对 | 鸾 | 钗⑤。 |
+| |
+| dēnɡ | chǔ | xiù | dù | qín | huái |
+| 登 | 楚 | 岫⑥， | 渡 | 秦 | 淮⑦。 |
+| |
+| zǐ | fàn | duì | fū | chāi |
+| 子 | 犯 | 对 | 夫 | 差⑧。 |
+| |
+| shí | dǐnɡ | lónɡ | tóu | suō | yín | zhēnɡ | yàn | chì | pái |
+| 石 | 鼎 | 龙 | 头 | 缩⑨， | 银 | 筝 | 雁 | 翅 | 排⑩。 |
+| |
+| bǎi | nián | shī | lǐ | yán | yú | qìnɡ | wàn | lǐ | fēnɡ | yún | rù | zhuànɡ | huái |
+| 百 | 年 | 诗 | 礼 | 延 | 余 | 庆⑪， | 万 | 里 | 风 | 云 | 入 | 壮 | 怀⑫。 |
+| |
+| nénɡ | biàn | mínɡ | lún | sǐ | yǐ | yě | zāi | bēi | jì | lù 
+| 能 | 辨 | 名 | 伦， | 死 | 矣 | 野 | 哉 | 悲 | 季 | 路 | ⑬ | ； |
+| |
+| bù | yóu | jìnɡ | dòu | shēnɡ | hū | yú | yě | yǒu | ɡāo | chái |
+| 不 | 由 | 径 | 窦， | 生 | 乎 | 愚 | 也 | 有 | 高 | 柴⑭。 |
+| |
+| ɡuān | duì | lǚ | wà | duì | xié |
+| 冠 | 对 | 履， | 袜 | 对 | 鞋。 |
+| |
+| hǎi | jiǎo | duì | tiān | yá |
+| 海 | 角 | 对 | 天 | 涯⑮。 |
+| |
+| jī | rén | duì | hǔ | lǚ | liù | shì | duì | sān | jiē |
+| 鸡 | 人 | 对 | 虎 | 旅⑯， | 六 | 市 | 对 | 三 | 街⑰。 |
+| |
+| chén | zǔ | dòu | xì | duī | mái |
+| 陈 | 俎 | 豆⑱， | 戏 | 堆 | 埋⑲。 |
+| |
+| jiǎo | jiǎo | duì | ái | ái |
+| 皎 | 皎 | 对 | 皑 | 皑⑳。 |
+| |
+| xián | xiànɡ | jù | dōnɡ | ɡé | liánɡ | pénɡ | jí | xiǎo | zhāi |
+| 贤 | 相 | 聚 | 东 | 阁㉑， | 良 | 朋 | 集 | 小 | 斋㉒。 |
+| |
+| mènɡ | lǐ | shān | chuān | shū | yuè | jué | zhěn | biān | fēnɡ | yuè | jì | qí | xié |
+| 梦 | 里 | 山 | 川 | 书 | 越 | 绝㉓， | 枕 | 边 | 风 | 月 | 记 | 齐 | 谐㉔。 |
+| |
+| sān | jìnɡ | xiāo | shū | pénɡ | zé | ɡāo | fēnɡ | yí | wǔ | liǔ 
+| 三 | 径 | 萧 | 疏， | 彭 | 泽 | 高 | 风 | 怡 | 五 | 柳 | ㉕ | ； |
+| |
+| liù | cháo | huá | ɡuì | lánɡ | yá | jiā | qì | zhònɡ | sān | huái |
+| 六 | 朝 | 华 | 贵， | 琅 | 琊 | 佳 | 气 | 种 | 三 | 槐㉖。 |
+| |
+| qín | duì | jiǎn | qiǎo | duì | ɡuāi |
+| 勤 | 对 | 俭， | 巧 | 对 | 乖㉗。 |
+| |
+| shuǐ | xiè | duì | shān | zhāi |
+| 水 | 榭 | 对 | 山 | 斋㉘。 |
+| |
+| bīnɡ | táo | duì | xuě | ǒu | lòu | jiàn | duì | ɡēnɡ | pái |
+| 冰 | 桃 | 对 | 雪 | 藕㉙， | 漏 | 箭 | 对 | 更 | 牌㉚。 |
+| |
+| hán | cuì | xiù | ɡuì | jīnɡ | chāi |
+| 寒 | 翠 | 袖㉛， | 贵 | 荆 | 钗㉜。 |
+| |
+| kānɡ | kǎi | duì | huī | xié |
+| 慷 | 慨 | 对 | 诙 | 谐㉝。 |
+| |
+| zhú | jìnɡ | fēnɡ | shēnɡ | lài | huā | qī | yuè | yǐnɡ | shāi |
+| 竹 | 径 | 风 | 声 | 籁㉞， | 花 | 蹊 | 月 | 影 | 筛㉟。 |
+| |
+| xié | nánɡ | jiā | yùn | suí | shí | zhù | hé | chú | chén | hān | dào | chù | mái |
+| 携 | 囊 | 佳 | 韵 | 随 | 时 | 贮㊱， | 荷 | 锄 | 沉 | 酣 | 到 | 处 | 埋㊲。 |
+| |
+| jiānɡ | hǎi | ɡū | zōnɡ | xuě | lànɡ | fēnɡ | tāo | jīnɡ | lǚ | mènɡ 
+| 江 | 海 | 孤 | 踪， | 雪 | 浪 | 风 | 涛 | 惊 | 旅 | 梦 | ㊳ | ； |
+| |
+| xiānɡ | ɡuān | wàn | lǐ | yān | luán | yún | shù | qiē | ɡuī | huái |
+| 乡 | 关 | 万 | 里， | 烟 | 峦 | 云 | 树 | 切 | 归 | 怀㊴。 |
+| |
+| qǐ | duì | zǐ | ɡuì | duì | kǎi |
+| 杞 | 对 | 梓㊵， | 桧 | 对 | 楷。 |
+| |
+| shuǐ | jì | duì | shān | yá |
+| 水 | 际 | 对 | 山 | 崖。 |
+| |
+| wǔ | qún | duì | ɡē | xiù | yù | bì | duì | yáo | jiē |
+| 舞 | 裙 | 对 | 歌 | 袖， | 玉 | 陛 | 对 | 瑶 | 阶㊶。 |
+| |
+| fēnɡ | rù | mèi | yuè | yínɡ | huái |
+| 风 | 入 | 袂㊷， | 月 | 盈 | 怀㊸。 |
+| |
+| hǔ | sì | duì | lánɡ | chái |
+| 虎 | 兕 | 对 | 狼 | 豺㊹。 |
+| |
+| mǎ | rónɡ | tánɡ | shànɡ | zhànɡ | yánɡ | kǎn | shuǐ | zhōnɡ | zhāi |
+| 马 | 融 | 堂 | 上 | 帐㊺， | 羊 | 侃 | 水 | 中 | 斋㊻。 |
+| |
+| běi | miàn | hónɡ | ɡōnɡ | yí | shí | jiè | dōnɡ | xún | dài | zhì | dìnɡ | fán | chái |
+| 北 | 面 | 黉 | 宫 | 宜 | 拾 | 芥㊼， | 东 | 巡 | 岱 | 畤 | 定 | 燔 | 柴㊽。 |
+| |
+| jǐn | lǎn | chūn | jiānɡ | hénɡ | dí | dònɡ | xiāo | tōnɡ | bì | luò 
+| 锦 | 缆 | 春 | 江， | 横 | 笛 | 洞 | 箫 | 通 | 碧 | 落 | ㊾ | ； |
+| |
+| huá | dēnɡ | yè | yuè | yí | zān | duò | cuì | biàn | xiānɡ | jiē |
+| 华 | 灯 | 夜 | 月， | 遗 | 簪 | 堕 | 翠 | 遍 | 香 | 街㊿。 |
 
 注解
 
@@ -1741,86 +1759,88 @@ huá dēnɡ yè yuè yí zān duò cuì biàn xiānɡ jiē
 
 十　灰
 
-chūn duì xià xǐ duì āi
-春对夏，喜对哀。
-
-dà shǒu duì chánɡ cái
-大手对长才①。
-
-fēnɡ qīnɡ duì yuè lǎnɡ dì kuò duì tiān kāi
-风清对月朗②，地阔对天开。
-
-yóu lànɡ yuàn zuì pénɡ lái
-游阆苑③，醉蓬莱④。
-
-qī zhènɡ duì sān tái
-七政对三台⑤。
-
-qīnɡ lónɡ hú lǎo zhànɡ bái yàn yù rén chāi
-青龙壶老杖⑥，白燕玉人钗⑦。
-
-xiānɡ fēnɡ shí lǐ wànɡ xiān ɡé mínɡ yuè yì tiān sī zǐ tái
-香风十里望仙阁⑧，明月一天思子台⑨。
-
-yù jú bīnɡ táo wánɡ mǔ jī yīn qiú dào jiànɡ 
-玉橘冰桃，王母几因求道降⑩；
-
-lián zhōu lí zhànɡ zhēn rén yuán wèi dú shū lái
-莲舟藜杖，真人原为读书来⑪。
-
-zhāo duì mù qù duì lái
-朝对暮，去对来。
-
-shù yǐ duì kānɡ zāi
-庶矣对康哉⑫。
-
-mǎ ɡān duì jī lèi xìnɡ yǎn duì táo sāi
-马肝对鸡肋⑬，杏眼对桃腮。
-
-jiā xìnɡ shì hǎo huái kāi
-佳兴适⑭，好怀开⑮。
-
-shuò xuě duì chūn léi
-朔雪对春雷。
-
-yún yí zhī què ɡuàn rì shài fènɡ huánɡ tái
-云移鹊观⑯，日晒凤凰台⑰。
-
-hé biān shū qì yínɡ fānɡ cǎo lín xià qīnɡ fēnɡ dài luò méi
-河边淑气迎芳草，林下轻风待落梅⑱。
-
-liǔ mèi huā mínɡ yàn yǔ yīnɡ shēnɡ hún shì xiào 
-柳媚花明，燕语莺声浑是笑⑲；
-
-sōnɡ háo bǎi wǔ yuán tí hè lì zǒnɡ chénɡ āi
-松号柏舞，猿啼鹤唳总成哀⑳。
-
-zhōnɡ duì xìn bó duì ɡāi
-忠对信，博对该㉑。
-
-cǔn duó duì yí cāi
-忖度对疑猜。
-
-xiānɡ xiāo duì zhú àn què xǐ duì qiónɡ āi
-香消对烛暗㉒，鹊喜对蛩哀。
-
-jīn huā bào yù jìnɡ tái
-金花报㉓，玉镜台㉔。
-
-dǎo jiǎ duì xián bēi
-倒斝对衔杯㉕。
-
-yán diān hénɡ lǎo shù shí dènɡ fù cānɡ tái
-岩巅横老树㉖，石磴覆苍苔㉗。
-
-xuě mǎn shān zhōnɡ ɡāo shì wò yuè mínɡ lín xià měi rén lái
-雪满山中高士卧，月明林下美人来㉘。
-
-lǜ liǔ yán dī jiē yīn sū zǐ lái shí zhònɡ 
-绿柳沿堤，皆因苏子来时种㉙；
-
-bì táo mǎn ɡuàn jìn shì liú lánɡ qù hòu zāi
-碧桃满观，尽是刘郎去后栽㉚。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| chūn | duì | xià | xǐ | duì | āi |
+| 春 | 对 | 夏， | 喜 | 对 | 哀。 |
+| |
+| dà | shǒu | duì | chánɡ | cái |
+| 大 | 手 | 对 | 长 | 才①。 |
+| |
+| fēnɡ | qīnɡ | duì | yuè | lǎnɡ | dì | kuò | duì | tiān | kāi |
+| 风 | 清 | 对 | 月 | 朗②， | 地 | 阔 | 对 | 天 | 开。 |
+| |
+| yóu | lànɡ | yuàn | zuì | pénɡ | lái |
+| 游 | 阆 | 苑③， | 醉 | 蓬 | 莱④。 |
+| |
+| qī | zhènɡ | duì | sān | tái |
+| 七 | 政 | 对 | 三 | 台⑤。 |
+| |
+| qīnɡ | lónɡ | hú | lǎo | zhànɡ | bái | yàn | yù | rén | chāi |
+| 青 | 龙 | 壶 | 老 | 杖⑥， | 白 | 燕 | 玉 | 人 | 钗⑦。 |
+| |
+| xiānɡ | fēnɡ | shí | lǐ | wànɡ | xiān | ɡé | mínɡ | yuè | yì | tiān | sī | zǐ | tái |
+| 香 | 风 | 十 | 里 | 望 | 仙 | 阁⑧， | 明 | 月 | 一 | 天 | 思 | 子 | 台⑨。 |
+| |
+| yù | jú | bīnɡ | táo | wánɡ | mǔ | jī | yīn | qiú | dào | jiànɡ 
+| 玉 | 橘 | 冰 | 桃， | 王 | 母 | 几 | 因 | 求 | 道 | 降 | ⑩ | ； |
+| |
+| lián | zhōu | lí | zhànɡ | zhēn | rén | yuán | wèi | dú | shū | lái |
+| 莲 | 舟 | 藜 | 杖， | 真 | 人 | 原 | 为 | 读 | 书 | 来⑪。 |
+| |
+| zhāo | duì | mù | qù | duì | lái |
+| 朝 | 对 | 暮， | 去 | 对 | 来。 |
+| |
+| shù | yǐ | duì | kānɡ | zāi |
+| 庶 | 矣 | 对 | 康 | 哉⑫。 |
+| |
+| mǎ | ɡān | duì | jī | lèi | xìnɡ | yǎn | duì | táo | sāi |
+| 马 | 肝 | 对 | 鸡 | 肋⑬， | 杏 | 眼 | 对 | 桃 | 腮。 |
+| |
+| jiā | xìnɡ | shì | hǎo | huái | kāi |
+| 佳 | 兴 | 适⑭， | 好 | 怀 | 开⑮。 |
+| |
+| shuò | xuě | duì | chūn | léi |
+| 朔 | 雪 | 对 | 春 | 雷。 |
+| |
+| yún | yí | zhī | què | ɡuàn | rì | shài | fènɡ | huánɡ | tái |
+| 云 | 移 | 鹊 | 观⑯， | 日 | 晒 | 凤 | 凰 | 台⑰。 |
+| |
+| hé | biān | shū | qì | yínɡ | fānɡ | cǎo | lín | xià | qīnɡ | fēnɡ | dài | luò | méi |
+| 河 | 边 | 淑 | 气 | 迎 | 芳 | 草， | 林 | 下 | 轻 | 风 | 待 | 落 | 梅⑱。 |
+| |
+| liǔ | mèi | huā | mínɡ | yàn | yǔ | yīnɡ | shēnɡ | hún | shì | xiào 
+| 柳 | 媚 | 花 | 明， | 燕 | 语 | 莺 | 声 | 浑 | 是 | 笑 | ⑲ | ； |
+| |
+| sōnɡ | háo | bǎi | wǔ | yuán | tí | hè | lì | zǒnɡ | chénɡ | āi |
+| 松 | 号 | 柏 | 舞， | 猿 | 啼 | 鹤 | 唳 | 总 | 成 | 哀⑳。 |
+| |
+| zhōnɡ | duì | xìn | bó | duì | ɡāi |
+| 忠 | 对 | 信， | 博 | 对 | 该㉑。 |
+| |
+| cǔn | duó | duì | yí | cāi |
+| 忖 | 度 | 对 | 疑 | 猜。 |
+| |
+| xiānɡ | xiāo | duì | zhú | àn | què | xǐ | duì | qiónɡ | āi |
+| 香 | 消 | 对 | 烛 | 暗㉒， | 鹊 | 喜 | 对 | 蛩 | 哀。 |
+| |
+| jīn | huā | bào | yù | jìnɡ | tái |
+| 金 | 花 | 报㉓， | 玉 | 镜 | 台㉔。 |
+| |
+| dǎo | jiǎ | duì | xián | bēi |
+| 倒 | 斝 | 对 | 衔 | 杯㉕。 |
+| |
+| yán | diān | hénɡ | lǎo | shù | shí | dènɡ | fù | cānɡ | tái |
+| 岩 | 巅 | 横 | 老 | 树㉖， | 石 | 磴 | 覆 | 苍 | 苔㉗。 |
+| |
+| xuě | mǎn | shān | zhōnɡ | ɡāo | shì | wò | yuè | mínɡ | lín | xià | měi | rén | lái |
+| 雪 | 满 | 山 | 中 | 高 | 士 | 卧， | 月 | 明 | 林 | 下 | 美 | 人 | 来㉘。 |
+| |
+| lǜ | liǔ | yán | dī | jiē | yīn | sū | zǐ | lái | shí | zhònɡ 
+| 绿 | 柳 | 沿 | 堤， | 皆 | 因 | 苏 | 子 | 来 | 时 | 种 | ㉙ | ； |
+| |
+| bì | táo | mǎn | ɡuàn | jìn | shì | liú | lánɡ | qù | hòu | zāi |
+| 碧 | 桃 | 满 | 观， | 尽 | 是 | 刘 | 郎 | 去 | 后 | 栽㉚。 |
 
 注解
 
@@ -1898,83 +1918,88 @@ bì táo mǎn ɡuàn jìn shì liú lánɡ qù hòu zāi
 
 十一　真
 
-lián duì jú fènɡ duì lín
-莲对菊，凤对麟①。
-
-zhuó fù duì qīnɡ pín
-浊富对清贫②。
-
-yú zhuānɡ duì fó shè sōnɡ ɡài duì huā yīn
-渔庄对佛舍，松盖对花茵③。
-
-luó yuè sǒu ɡě tiān mín
-萝月叟④，葛天民⑤。
-
-ɡuó bǎo duì jiā zhēn
-国宝对家珍。
-
-cǎo yínɡ jīn liè mǎ huā zuì yù lóu rén
-草迎金埒马，花醉玉楼人⑥。
-
-cháo yàn sān chūn chánɡ huàn yǒu sài hónɡ bā yuè shǐ lái bīn
-巢燕三春尝唤友⑦，塞鸿八月始来宾⑧。
-
-ɡǔ wǎnɡ jīn lái shuí jiàn tài shān cénɡ zuò lì 
-古往今来，谁见泰山曾作砺⑨；
-
-tiān chánɡ dì jiǔ rén chuán cānɡ hǎi jǐ yánɡ chén
-天长地久，人传沧海几扬尘⑩。
-
-xiōnɡ duì dì lì duì mín
-兄对弟，吏对民。
-
-fù zǐ duì jūn chén
-父子对君臣。
-
-ɡōu dīnɡ duì fǔ jiǎ fù mǎo duì tónɡ yín
-勾丁对甫甲⑪，赴卯对同寅⑫。
-
-zhé ɡuì kè zān huā rén
-折桂客⑬，簪花人⑭。
-
-sì hào duì sān rén
-四皓对三仁⑮。
-
-wánɡ qiáo yún wài xì ɡuō tài yǔ zhōnɡ jīn
-王乔云外舄⑯，郭泰雨中巾⑰。
-
-rén jiāo hǎo yǒu qiú sān yì shì yǒu xián qī bèi wǔ lún
-人交好友求三益⑱，士有贤妻备五伦⑲。
-
-wén jiào nán xuān wǔ dì pínɡ mán kāi bǎi yuè 
-文教南宣，武帝平蛮开百越⑳；
-
-yì qí xī zhǐ hán hóu fú hàn juǎn sān qín
-义旗西指，韩侯扶汉卷三秦㉑。
-
-shēn duì yāo kǎn duì yín
-申对夭㉒，侃对訚㉓。
-
-ā wèi duì yīn chén
-阿魏对茵陈㉔。
-
-chǔ lán duì xiānɡ zhǐ bì liǔ duì qīnɡ yún
-楚兰对湘芷㉕，碧柳对青筠。
-
-huā fù fù yè zhēn zhēn
-花馥馥㉖，叶蓁蓁㉗。
-
-fěn jǐnɡ duì zhū chún
-粉颈对朱唇。
-
-cáo ɡōnɡ jiān shì ɡuǐ yáo dì zhì rú shén
-曹公奸似鬼㉘，尧帝智如神㉙。
-
-nán ruǎn cái lánɡ chā běi fù dōnɡ shī chǒu nǚ xiào xī pín
-南阮才郎差北富㉚，东施丑女效西颦㉛。
-
-sè yàn běi tánɡ cǎo hào wànɡ yōu yōu shèn shì
-色艳北堂，草号忘忧忧甚事？香xiānɡ浓nónɡ南nán国ɡuó，花huā名mínɡ含hán笑xiào笑xiào何hé人rén㉜？
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| lián | duì | jú | fènɡ | duì | lín |
+| 莲 | 对 | 菊， | 凤 | 对 | 麟①。 |
+| |
+| zhuó | fù | duì | qīnɡ | pín |
+| 浊 | 富 | 对 | 清 | 贫②。 |
+| |
+| yú | zhuānɡ | duì | fó | shè | sōnɡ | ɡài | duì | huā | yīn |
+| 渔 | 庄 | 对 | 佛 | 舍， | 松 | 盖 | 对 | 花 | 茵③。 |
+| |
+| luó | yuè | sǒu | ɡě | tiān | mín |
+| 萝 | 月 | 叟④， | 葛 | 天 | 民⑤。 |
+| |
+| ɡuó | bǎo | duì | jiā | zhēn |
+| 国 | 宝 | 对 | 家 | 珍。 |
+| |
+| cǎo | yínɡ | jīn | liè | mǎ | huā | zuì | yù | lóu | rén |
+| 草 | 迎 | 金 | 埒 | 马， | 花 | 醉 | 玉 | 楼 | 人⑥。 |
+| |
+| cháo | yàn | sān | chūn | chánɡ | huàn | yǒu | sài | hónɡ | bā | yuè | shǐ | lái | bīn |
+| 巢 | 燕 | 三 | 春 | 尝 | 唤 | 友⑦， | 塞 | 鸿 | 八 | 月 | 始 | 来 | 宾⑧。 |
+| |
+| ɡǔ | wǎnɡ | jīn | lái | shuí | jiàn | tài | shān | cénɡ | zuò | lì 
+| 古 | 往 | 今 | 来， | 谁 | 见 | 泰 | 山 | 曾 | 作 | 砺 | ⑨ | ； |
+| |
+| tiān | chánɡ | dì | jiǔ | rén | chuán | cānɡ | hǎi | jǐ | yánɡ | chén |
+| 天 | 长 | 地 | 久， | 人 | 传 | 沧 | 海 | 几 | 扬 | 尘⑩。 |
+| |
+| xiōnɡ | duì | dì | lì | duì | mín |
+| 兄 | 对 | 弟， | 吏 | 对 | 民。 |
+| |
+| fù | zǐ | duì | jūn | chén |
+| 父 | 子 | 对 | 君 | 臣。 |
+| |
+| ɡōu | dīnɡ | duì | fǔ | jiǎ | fù | mǎo | duì | tónɡ | yín |
+| 勾 | 丁 | 对 | 甫 | 甲⑪， | 赴 | 卯 | 对 | 同 | 寅⑫。 |
+| |
+| zhé | ɡuì | kè | zān | huā | rén |
+| 折 | 桂 | 客⑬， | 簪 | 花 | 人⑭。 |
+| |
+| sì | hào | duì | sān | rén |
+| 四 | 皓 | 对 | 三 | 仁⑮。 |
+| |
+| wánɡ | qiáo | yún | wài | xì | ɡuō | tài | yǔ | zhōnɡ | jīn |
+| 王 | 乔 | 云 | 外 | 舄⑯， | 郭 | 泰 | 雨 | 中 | 巾⑰。 |
+| |
+| rén | jiāo | hǎo | yǒu | qiú | sān | yì | shì | yǒu | xián | qī | bèi | wǔ | lún |
+| 人 | 交 | 好 | 友 | 求 | 三 | 益⑱， | 士 | 有 | 贤 | 妻 | 备 | 五 | 伦⑲。 |
+| |
+| wén | jiào | nán | xuān | wǔ | dì | pínɡ | mán | kāi | bǎi | yuè 
+| 文 | 教 | 南 | 宣， | 武 | 帝 | 平 | 蛮 | 开 | 百 | 越 | ⑳ | ； |
+| |
+| yì | qí | xī | zhǐ | hán | hóu | fú | hàn | juǎn | sān | qín |
+| 义 | 旗 | 西 | 指， | 韩 | 侯 | 扶 | 汉 | 卷 | 三 | 秦㉑。 |
+| |
+| shēn | duì | yāo | kǎn | duì | yín |
+| 申 | 对 | 夭㉒， | 侃 | 对 | 訚㉓。 |
+| |
+| ā | wèi | duì | yīn | chén |
+| 阿 | 魏 | 对 | 茵 | 陈㉔。 |
+| |
+| chǔ | lán | duì | xiānɡ | zhǐ | bì | liǔ | duì | qīnɡ | yún |
+| 楚 | 兰 | 对 | 湘 | 芷㉕， | 碧 | 柳 | 对 | 青 | 筠。 |
+| |
+| huā | fù | fù | yè | zhēn | zhēn |
+| 花 | 馥 | 馥㉖， | 叶 | 蓁 | 蓁㉗。 |
+| |
+| fěn | jǐnɡ | duì | zhū | chún |
+| 粉 | 颈 | 对 | 朱 | 唇。 |
+| |
+| cáo | ɡōnɡ | jiān | shì | ɡuǐ | yáo | dì | zhì | rú | shén |
+| 曹 | 公 | 奸 | 似 | 鬼㉘， | 尧 | 帝 | 智 | 如 | 神㉙。 |
+| |
+| nán | ruǎn | cái | lánɡ | chā | běi | fù | dōnɡ | shī | chǒu | nǚ | xiào | xī | pín |
+| 南 | 阮 | 才 | 郎 | 差 | 北 | 富㉚， | 东 | 施 | 丑 | 女 | 效 | 西 | 颦㉛。 |
+| |
+| sè | yàn | běi | tánɡ | cǎo | hào | wànɡ | yōu | yōu | shèn | shì |
+| 色 | 艳 | 北 | 堂， | 草 | 号 | 忘 | 忧 | 忧 | 甚 | 事 | ？ |
+| |
+| xiānɡ | nónɡ | nán | ɡuó | huā | mínɡ | hán | xiào | xiào | hé | rén |
+| 香 | 浓 | 南 | 国， | 花 | 名 | 含 | 笑 | 笑 | 何 | 人 | ㉜ | ？ |
 
 注解
 
@@ -2052,86 +2077,88 @@ sè yàn běi tánɡ cǎo hào wànɡ yōu yōu shèn shì
 
 十二　文
 
-yōu duì xǐ qī duì xīn
-忧对喜，戚对欣①。
-
-èr diǎn duì sān fén
-二典对三坟②。
-
-fó jīnɡ duì xiān yǔ xià nòu duì chūn yún
-佛经对仙语③，夏耨对春耘④。
-
-pēnɡ zǎo jiǔ jiǎn chūn qín
-烹早韭⑤，剪春芹⑥。
-
-mù yǔ duì zhāo yún
-暮雨对朝云⑦。
-
-zhú jiān xié bái jiē huā xià zuì hónɡ qún
-竹间斜白接⑧，花下醉红裙⑨。
-
-zhǎnɡ wò línɡ fú wǔ yuè lù yāo xuán bǎo jiàn qī xīnɡ wén
-掌握灵符五岳箓⑩，腰悬宝剑七星纹⑪。
-
-jīn suǒ wèi kāi shànɡ xiànɡ qū tīnɡ ɡōnɡ lòu yǒnɡ 
-金锁未开，上相趋听宫漏永⑫；
-
-zhū lián bàn juǎn qún liáo yǎnɡ duì yù lú xūn
-珠帘半卷，群僚仰对御炉熏⑬。
-
-cí duì fù lǎn duì qín
-词对赋，懒对勤。
-
-lèi jù duì qún fēn
-类聚对群分⑭。
-
-luán xiāo duì fènɡ dí dài cǎo duì xiānɡ yún
-鸾箫对凤笛，带草对香芸⑮。
-
-yān xǔ bǐ hán liǔ wén
-燕许笔⑯，韩柳文⑰。
-
-jiù huà duì xīn wén
-旧话对新闻。
-
-hè hè zhōu nán zhònɡ piān piān jìn yòu jūn
-赫赫周南仲⑱，翩翩晋右军⑲。
-
-liù ɡuó shuì chénɡ sū zǐ ɡuì liǎnɡ jīnɡ shōu fù ɡuō ɡōnɡ xūn
-六国说成苏子贵⑳，两京收复郭公勋㉑。
-
-hàn què chén shū kǎn kǎn zhōnɡ yán tuī jiǎ yì 
-汉阙陈书，侃侃忠言推贾谊㉒；
-
-tánɡ tínɡ duì cè yán yán zhí jiàn yǒu liú fén
-唐廷对策，岩岩直谏有刘贲㉓。
-
-yán duì xiào jì duì xūn
-言对笑，绩对勋。
-
-lù shǐ duì yánɡ fén
-鹿豕对羊㉔。
-
-xīnɡ ɡuān duì yuè shàn bǎ mèi duì shū qún
-星冠对月扇㉕，把袂对书裙㉖。
-
-tānɡ shì ɡě yuè xīnɡ yīn
-汤事葛㉗，说兴殷㉘。
-
-luó yuè duì sōnɡ yún
-萝月对松云㉙。
-
-xī chí qīnɡ niǎo shǐ běi sài hēi yā jūn
-西池青鸟使㉚，北塞黑鸦军㉛。
-
-wén wǔ chénɡ kānɡ wèi yí dài wèi wú shǔ hàn dìnɡ sān fēn
-文武成康为一代㉜，魏吴蜀汉定三分㉝。
-
-ɡuì yuàn qiū xiāo mínɡ yuè sān bēi yāo qū kè 
-桂苑秋宵，明月三杯邀曲客㉞；
-
-sōnɡ tínɡ xià rì xūn fēnɡ yì qǔ zòu tónɡ jūn
-松亭夏日，熏风一曲奏桐君㉟。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| yōu | duì | xǐ | qī | duì | xīn |
+| 忧 | 对 | 喜， | 戚 | 对 | 欣①。 |
+| |
+| èr | diǎn | duì | sān | fén |
+| 二 | 典 | 对 | 三 | 坟②。 |
+| |
+| fó | jīnɡ | duì | xiān | yǔ | xià | nòu | duì | chūn | yún |
+| 佛 | 经 | 对 | 仙 | 语③， | 夏 | 耨 | 对 | 春 | 耘④。 |
+| |
+| pēnɡ | zǎo | jiǔ | jiǎn | chūn | qín |
+| 烹 | 早 | 韭⑤， | 剪 | 春 | 芹⑥。 |
+| |
+| mù | yǔ | duì | zhāo | yún |
+| 暮 | 雨 | 对 | 朝 | 云⑦。 |
+| |
+| zhú | jiān | xié | bái | jiē | huā | xià | zuì | hónɡ | qún |
+| 竹 | 间 | 斜 | 白 | 接⑧， | 花 | 下 | 醉 | 红 | 裙⑨。 |
+| |
+| zhǎnɡ | wò | línɡ | fú | wǔ | yuè | lù | yāo | xuán | bǎo | jiàn | qī | xīnɡ | wén |
+| 掌 | 握 | 灵 | 符 | 五 | 岳 | 箓⑩， | 腰 | 悬 | 宝 | 剑 | 七 | 星 | 纹⑪。 |
+| |
+| jīn | suǒ | wèi | kāi | shànɡ | xiànɡ | qū | tīnɡ | ɡōnɡ | lòu | yǒnɡ 
+| 金 | 锁 | 未 | 开， | 上 | 相 | 趋 | 听 | 宫 | 漏 | 永 | ⑫ | ； |
+| |
+| zhū | lián | bàn | juǎn | qún | liáo | yǎnɡ | duì | yù | lú | xūn |
+| 珠 | 帘 | 半 | 卷， | 群 | 僚 | 仰 | 对 | 御 | 炉 | 熏⑬。 |
+| |
+| cí | duì | fù | lǎn | duì | qín |
+| 词 | 对 | 赋， | 懒 | 对 | 勤。 |
+| |
+| lèi | jù | duì | qún | fēn |
+| 类 | 聚 | 对 | 群 | 分⑭。 |
+| |
+| luán | xiāo | duì | fènɡ | dí | dài | cǎo | duì | xiānɡ | yún |
+| 鸾 | 箫 | 对 | 凤 | 笛， | 带 | 草 | 对 | 香 | 芸⑮。 |
+| |
+| yān | xǔ | bǐ | hán | liǔ | wén |
+| 燕 | 许 | 笔⑯， | 韩 | 柳 | 文⑰。 |
+| |
+| jiù | huà | duì | xīn | wén |
+| 旧 | 话 | 对 | 新 | 闻。 |
+| |
+| hè | hè | zhōu | nán | zhònɡ | piān | piān | jìn | yòu | jūn |
+| 赫 | 赫 | 周 | 南 | 仲⑱， | 翩 | 翩 | 晋 | 右 | 军⑲。 |
+| |
+| liù | ɡuó | shuì | chénɡ | sū | zǐ | ɡuì | liǎnɡ | jīnɡ | shōu | fù | ɡuō | ɡōnɡ | xūn |
+| 六 | 国 | 说 | 成 | 苏 | 子 | 贵⑳， | 两 | 京 | 收 | 复 | 郭 | 公 | 勋㉑。 |
+| |
+| hàn | què | chén | shū | kǎn | kǎn | zhōnɡ | yán | tuī | jiǎ | yì 
+| 汉 | 阙 | 陈 | 书， | 侃 | 侃 | 忠 | 言 | 推 | 贾 | 谊 | ㉒ | ； |
+| |
+| tánɡ | tínɡ | duì | cè | yán | yán | zhí | jiàn | yǒu | liú | fén |
+| 唐 | 廷 | 对 | 策， | 岩 | 岩 | 直 | 谏 | 有 | 刘 | 贲㉓。 |
+| |
+| yán | duì | xiào | jì | duì | xūn |
+| 言 | 对 | 笑， | 绩 | 对 | 勋。 |
+| |
+| lù | shǐ | duì | yánɡ | fén |
+| 鹿 | 豕 | 对 | 羊㉔。 |
+| |
+| xīnɡ | ɡuān | duì | yuè | shàn | bǎ | mèi | duì | shū | qún |
+| 星 | 冠 | 对 | 月 | 扇㉕， | 把 | 袂 | 对 | 书 | 裙㉖。 |
+| |
+| tānɡ | shì | ɡě | yuè | xīnɡ | yīn |
+| 汤 | 事 | 葛㉗， | 说 | 兴 | 殷㉘。 |
+| |
+| luó | yuè | duì | sōnɡ | yún |
+| 萝 | 月 | 对 | 松 | 云㉙。 |
+| |
+| xī | chí | qīnɡ | niǎo | shǐ | běi | sài | hēi | yā | jūn |
+| 西 | 池 | 青 | 鸟 | 使㉚， | 北 | 塞 | 黑 | 鸦 | 军㉛。 |
+| |
+| wén | wǔ | chénɡ | kānɡ | wèi | yí | dài | wèi | wú | shǔ | hàn | dìnɡ | sān | fēn |
+| 文 | 武 | 成 | 康 | 为 | 一 | 代㉜， | 魏 | 吴 | 蜀 | 汉 | 定 | 三 | 分㉝。 |
+| |
+| ɡuì | yuàn | qiū | xiāo | mínɡ | yuè | sān | bēi | yāo | qū | kè 
+| 桂 | 苑 | 秋 | 宵， | 明 | 月 | 三 | 杯 | 邀 | 曲 | 客 | ㉞ | ； |
+| |
+| sōnɡ | tínɡ | xià | rì | xūn | fēnɡ | yì | qǔ | zòu | tónɡ | jūn |
+| 松 | 亭 | 夏 | 日， | 熏 | 风 | 一 | 曲 | 奏 | 桐 | 君㉟。 |
 
 注解
 
@@ -2209,59 +2236,61 @@ sōnɡ tínɡ xià rì xūn fēnɡ yì qǔ zòu tónɡ jūn
 
 十三　元
 
-bēi duì zhǎnɡ jì duì kūn
-卑对长①，季对昆②。
-
-yǒnɡ xiànɡ duì chánɡ mén
-永巷对长门③。
-
-shān tínɡ duì shuǐ ɡé lǚ shè duì jūn tún
-山亭对水阁，旅舍对军屯④。
-
-yánɡ zǐ dù xiè ɡōnɡ dūn
-杨子渡⑤，谢公墩⑥。
-
-dé zhònɡ duì nián zūn
-德重对年尊⑦。
-
-chénɡ qián duì chū zhèn xí kǎn duì chónɡ kūn
-承乾对出震，习坎对重坤⑧。
-
-zhì shì bào jūn sī quǎn mǎ rén wánɡ yǎnɡ lǎo chá jī tún
-志士报君思犬马⑨，仁王养老察鸡豚⑩。
-
-yuǎn shuǐ pínɡ shā yǒu kè fàn zhōu táo yè dù 
-远水平沙，有客泛舟桃叶渡⑪；
-
-xié fēnɡ xì yǔ hé rén xié kē xìnɡ huā cūn
-斜风细雨，何人携榼杏花村⑫。
-
-jūn duì xiànɡ zǔ duì sūn
-君对相，祖对孙。
-
-xī zhào duì zhāo xūn
-夕照对朝曛⑬。
-
-lán tái duì ɡuì diàn hǎi dǎo duì shān cūn
-兰台对桂殿⑭，海岛对山村。
-
-bēi duò lèi fù zhāo hún
-碑堕泪⑮，赋招魂⑯。
-
-bào yuàn duì huái ēn
-报怨对怀恩。
-
-línɡ mái jīn tǔ qì tián zhònɡ yù shēnɡ ɡēn
-陵埋金吐气⑰，田种玉生根⑱。
-
-xiānɡ fǔ zhū lián chuí bái zhòu biān chénɡ huà jiǎo dònɡ huánɡ hūn
-相府珠帘垂白昼⑲，边城画角动黄昏⑳。
-
-fēnɡ yè bàn shān qiū qù yān xiá kān yǐ zhànɡ 
-枫叶半山，秋去烟霞堪倚杖㉑；
-
-lí huā mǎn dì yè lái fēnɡ yǔ bù kāi mén
-梨花满地，夜来风雨不开门㉒。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| bēi | duì | zhǎnɡ | jì | duì | kūn |
+| 卑 | 对 | 长①， | 季 | 对 | 昆②。 |
+| |
+| yǒnɡ | xiànɡ | duì | chánɡ | mén |
+| 永 | 巷 | 对 | 长 | 门③。 |
+| |
+| shān | tínɡ | duì | shuǐ | ɡé | lǚ | shè | duì | jūn | tún |
+| 山 | 亭 | 对 | 水 | 阁， | 旅 | 舍 | 对 | 军 | 屯④。 |
+| |
+| yánɡ | zǐ | dù | xiè | ɡōnɡ | dūn |
+| 杨 | 子 | 渡⑤， | 谢 | 公 | 墩⑥。 |
+| |
+| dé | zhònɡ | duì | nián | zūn |
+| 德 | 重 | 对 | 年 | 尊⑦。 |
+| |
+| chénɡ | qián | duì | chū | zhèn | xí | kǎn | duì | chónɡ | kūn |
+| 承 | 乾 | 对 | 出 | 震， | 习 | 坎 | 对 | 重 | 坤⑧。 |
+| |
+| zhì | shì | bào | jūn | sī | quǎn | mǎ | rén | wánɡ | yǎnɡ | lǎo | chá | jī | tún |
+| 志 | 士 | 报 | 君 | 思 | 犬 | 马⑨， | 仁 | 王 | 养 | 老 | 察 | 鸡 | 豚⑩。 |
+| |
+| yuǎn | shuǐ | pínɡ | shā | yǒu | kè | fàn | zhōu | táo | yè | dù 
+| 远 | 水 | 平 | 沙， | 有 | 客 | 泛 | 舟 | 桃 | 叶 | 渡 | ⑪ | ； |
+| |
+| xié | fēnɡ | xì | yǔ | hé | rén | xié | kē | xìnɡ | huā | cūn |
+| 斜 | 风 | 细 | 雨， | 何 | 人 | 携 | 榼 | 杏 | 花 | 村⑫。 |
+| |
+| jūn | duì | xiànɡ | zǔ | duì | sūn |
+| 君 | 对 | 相， | 祖 | 对 | 孙。 |
+| |
+| xī | zhào | duì | zhāo | xūn |
+| 夕 | 照 | 对 | 朝 | 曛⑬。 |
+| |
+| lán | tái | duì | ɡuì | diàn | hǎi | dǎo | duì | shān | cūn |
+| 兰 | 台 | 对 | 桂 | 殿⑭， | 海 | 岛 | 对 | 山 | 村。 |
+| |
+| bēi | duò | lèi | fù | zhāo | hún |
+| 碑 | 堕 | 泪⑮， | 赋 | 招 | 魂⑯。 |
+| |
+| bào | yuàn | duì | huái | ēn |
+| 报 | 怨 | 对 | 怀 | 恩。 |
+| |
+| línɡ | mái | jīn | tǔ | qì | tián | zhònɡ | yù | shēnɡ | ɡēn |
+| 陵 | 埋 | 金 | 吐 | 气⑰， | 田 | 种 | 玉 | 生 | 根⑱。 |
+| |
+| xiānɡ | fǔ | zhū | lián | chuí | bái | zhòu | biān | chénɡ | huà | jiǎo | dònɡ | huánɡ | hūn |
+| 相 | 府 | 珠 | 帘 | 垂 | 白 | 昼⑲， | 边 | 城 | 画 | 角 | 动 | 黄 | 昏⑳。 |
+| |
+| fēnɡ | yè | bàn | shān | qiū | qù | yān | xiá | kān | yǐ | zhànɡ 
+| 枫 | 叶 | 半 | 山， | 秋 | 去 | 烟 | 霞 | 堪 | 倚 | 杖 | ㉑ | ； |
+| |
+| lí | huā | mǎn | dì | yè | lái | fēnɡ | yǔ | bù | kāi | mén |
+| 梨 | 花 | 满 | 地， | 夜 | 来 | 风 | 雨 | 不 | 开 | 门㉒。 |
 
 注解
 
@@ -2323,86 +2352,88 @@ lí huā mǎn dì yè lái fēnɡ yǔ bù kāi mén
 
 十四　寒
 
-jiā duì ɡuó zhì duì ān
-家对国，治对安。
-
-dì zhǔ duì tiān ɡuān
-地主对天官①。
-
-kǎn nán duì lí nǚ zhōu ɡào duì yīn pán
-坎男对离女②，周诰对殷盘③。
-
-sān sān nuǎn jiǔ jiǔ hán
-三三暖④，九九寒⑤。
-
-dù zhuàn duì bāo tán
-杜撰对包弹⑥。
-
-ɡǔ bì qiónɡ shēnɡ zā xián tínɡ hè yǐnɡ dān
-古壁蛩声匝⑦，闲亭鹤影单⑧。
-
-yàn chū lián biān chūn jì jì yīnɡ wén zhěn shànɡ lòu shān shān
-燕出帘边春寂寂⑨，莺闻枕上漏珊珊⑩。
-
-chí liǔ yān piāo rì xī lánɡ ɡuī qīnɡ suǒ tà 
-池柳烟飘，日夕郎归青锁闼⑪；
-
-qì huā yǔ ɡuò yuè mínɡ rén yǐ yù lán ɡān
-砌花雨过，月明人倚玉栏干⑫。
-
-féi duì shòu zhǎi duì kuān
-肥对瘦，窄对宽。
-
-huánɡ quǎn duì qīnɡ luán
-黄犬对青鸾⑬。
-
-zhǐ huán duì yāo dài xǐ bō duì tóu ɡān
-指环对腰带，洗钵对投竿⑭。
-
-zhū nìnɡ jiàn jìn xián ɡuān
-诛佞剑⑮，进贤冠⑯。
-
-huà dònɡ duì diāo lán
-画栋对雕栏。
-
-shuānɡ chuí bái yù zhù jiǔ zhuǎn zǐ jīn dān
-双垂白玉筯⑰，九转紫金丹⑱。
-
-shǎn yòu tánɡ ɡāo huái shào bǎi hé yánɡ huā mǎn yì pān ān
-陕右棠高怀召伯⑲，河阳花满忆潘安⑳。
-
-mò shànɡ fānɡ chūn ruò liǔ dānɡ fēnɡ pī cǎi xiàn 
-陌上芳春，弱柳当风披彩线㉑；
-
-chí zhōnɡ qīnɡ xiǎo bì hé chénɡ lù pěnɡ zhū pán
-池中清晓，碧荷承露捧珠盘㉒。
-
-xínɡ duì wò tīnɡ duì kàn
-行对卧，听对看。
-
-lù dònɡ duì yú tān
-鹿洞对鱼滩㉓。
-
-jiāo ténɡ duì bào biàn hǔ jù duì lónɡ pán
-蛟腾对豹变㉔，虎踞对龙蟠㉕。
-
-fēnɡ lǐn lǐn xuě màn màn
-风凛凛㉖，雪漫漫㉗。
-
-shǒu là duì xīn suān
-手辣对心酸㉘。
-
-yīnɡ yīnɡ duì yàn yàn xiǎo xiǎo duì duān duān
-莺莺对燕燕㉙，小小对端端㉚。
-
-lán shuǐ yuǎn cónɡ qiān jiàn luò yù shān ɡāo bìnɡ liǎnɡ fēnɡ hán
-蓝水远从千涧落，玉山高并两峰寒㉛。
-
-zhì shènɡ bù fán xī xì liù línɡ chén zǔ dòu 
-至圣不凡，嬉戏六龄陈俎豆㉜；
-
-lǎo lái dà xiào chénɡ huān qī zhì wǔ bān lán
-老莱大孝，承欢七秩舞斑斓㉝。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| jiā | duì | ɡuó | zhì | duì | ān |
+| 家 | 对 | 国， | 治 | 对 | 安。 |
+| |
+| dì | zhǔ | duì | tiān | ɡuān |
+| 地 | 主 | 对 | 天 | 官①。 |
+| |
+| kǎn | nán | duì | lí | nǚ | zhōu | ɡào | duì | yīn | pán |
+| 坎 | 男 | 对 | 离 | 女②， | 周 | 诰 | 对 | 殷 | 盘③。 |
+| |
+| sān | sān | nuǎn | jiǔ | jiǔ | hán |
+| 三 | 三 | 暖④， | 九 | 九 | 寒⑤。 |
+| |
+| dù | zhuàn | duì | bāo | tán |
+| 杜 | 撰 | 对 | 包 | 弹⑥。 |
+| |
+| ɡǔ | bì | qiónɡ | shēnɡ | zā | xián | tínɡ | hè | yǐnɡ | dān |
+| 古 | 壁 | 蛩 | 声 | 匝⑦， | 闲 | 亭 | 鹤 | 影 | 单⑧。 |
+| |
+| yàn | chū | lián | biān | chūn | jì | jì | yīnɡ | wén | zhěn | shànɡ | lòu | shān | shān |
+| 燕 | 出 | 帘 | 边 | 春 | 寂 | 寂⑨， | 莺 | 闻 | 枕 | 上 | 漏 | 珊 | 珊⑩。 |
+| |
+| chí | liǔ | yān | piāo | rì | xī | lánɡ | ɡuī | qīnɡ | suǒ | tà 
+| 池 | 柳 | 烟 | 飘， | 日 | 夕 | 郎 | 归 | 青 | 锁 | 闼 | ⑪ | ； |
+| |
+| qì | huā | yǔ | ɡuò | yuè | mínɡ | rén | yǐ | yù | lán | ɡān |
+| 砌 | 花 | 雨 | 过， | 月 | 明 | 人 | 倚 | 玉 | 栏 | 干⑫。 |
+| |
+| féi | duì | shòu | zhǎi | duì | kuān |
+| 肥 | 对 | 瘦， | 窄 | 对 | 宽。 |
+| |
+| huánɡ | quǎn | duì | qīnɡ | luán |
+| 黄 | 犬 | 对 | 青 | 鸾⑬。 |
+| |
+| zhǐ | huán | duì | yāo | dài | xǐ | bō | duì | tóu | ɡān |
+| 指 | 环 | 对 | 腰 | 带， | 洗 | 钵 | 对 | 投 | 竿⑭。 |
+| |
+| zhū | nìnɡ | jiàn | jìn | xián | ɡuān |
+| 诛 | 佞 | 剑⑮， | 进 | 贤 | 冠⑯。 |
+| |
+| huà | dònɡ | duì | diāo | lán |
+| 画 | 栋 | 对 | 雕 | 栏。 |
+| |
+| shuānɡ | chuí | bái | yù | zhù | jiǔ | zhuǎn | zǐ | jīn | dān |
+| 双 | 垂 | 白 | 玉 | 筯⑰， | 九 | 转 | 紫 | 金 | 丹⑱。 |
+| |
+| shǎn | yòu | tánɡ | ɡāo | huái | shào | bǎi | hé | yánɡ | huā | mǎn | yì | pān | ān |
+| 陕 | 右 | 棠 | 高 | 怀 | 召 | 伯⑲， | 河 | 阳 | 花 | 满 | 忆 | 潘 | 安⑳。 |
+| |
+| mò | shànɡ | fānɡ | chūn | ruò | liǔ | dānɡ | fēnɡ | pī | cǎi | xiàn 
+| 陌 | 上 | 芳 | 春， | 弱 | 柳 | 当 | 风 | 披 | 彩 | 线 | ㉑ | ； |
+| |
+| chí | zhōnɡ | qīnɡ | xiǎo | bì | hé | chénɡ | lù | pěnɡ | zhū | pán |
+| 池 | 中 | 清 | 晓， | 碧 | 荷 | 承 | 露 | 捧 | 珠 | 盘㉒。 |
+| |
+| xínɡ | duì | wò | tīnɡ | duì | kàn |
+| 行 | 对 | 卧， | 听 | 对 | 看。 |
+| |
+| lù | dònɡ | duì | yú | tān |
+| 鹿 | 洞 | 对 | 鱼 | 滩㉓。 |
+| |
+| jiāo | ténɡ | duì | bào | biàn | hǔ | jù | duì | lónɡ | pán |
+| 蛟 | 腾 | 对 | 豹 | 变㉔， | 虎 | 踞 | 对 | 龙 | 蟠㉕。 |
+| |
+| fēnɡ | lǐn | lǐn | xuě | màn | màn |
+| 风 | 凛 | 凛㉖， | 雪 | 漫 | 漫㉗。 |
+| |
+| shǒu | là | duì | xīn | suān |
+| 手 | 辣 | 对 | 心 | 酸㉘。 |
+| |
+| yīnɡ | yīnɡ | duì | yàn | yàn | xiǎo | xiǎo | duì | duān | duān |
+| 莺 | 莺 | 对 | 燕 | 燕㉙， | 小 | 小 | 对 | 端 | 端㉚。 |
+| |
+| lán | shuǐ | yuǎn | cónɡ | qiān | jiàn | luò | yù | shān | ɡāo | bìnɡ | liǎnɡ | fēnɡ | hán |
+| 蓝 | 水 | 远 | 从 | 千 | 涧 | 落， | 玉 | 山 | 高 | 并 | 两 | 峰 | 寒㉛。 |
+| |
+| zhì | shènɡ | bù | fán | xī | xì | liù | línɡ | chén | zǔ | dòu 
+| 至 | 圣 | 不 | 凡， | 嬉 | 戏 | 六 | 龄 | 陈 | 俎 | 豆 | ㉜ | ； |
+| |
+| lǎo | lái | dà | xiào | chénɡ | huān | qī | zhì | wǔ | bān | lán |
+| 老 | 莱 | 大 | 孝， | 承 | 欢 | 七 | 秩 | 舞 | 斑 | 斓㉝。 |
 
 注解
 
@@ -2476,59 +2507,61 @@ lǎo lái dà xiào chénɡ huān qī zhì wǔ bān lán
 
 十五　删
 
-lín duì wù lǐnɡ duì luán
-林对坞，岭对峦。
-
-zhòu yǒnɡ duì chūn xián
-昼永对春闲①。
-
-móu shēn duì wànɡ zhònɡ rèn dà duì tóu jiān
-谋深对望重②，任大对投艰③。
-
-qún niǎo niǎo pèi shān shān
-裙袅袅④，佩珊珊⑤。
-
-shǒu sài duì dānɡ ɡuān
-守塞对当关⑥。
-
-mì yún qiān lǐ hé xīn yuè yì ɡōu wān
-密云千里合⑦，新月一钩弯⑧。
-
-shū bǎo jūn chén jiē zònɡ yì zhónɡ huá fù mǔ shì yín wán
-叔宝君臣皆纵逸⑨，重华父母是嚚顽⑩。
-
-mínɡ dònɡ dì jī xī shǔ sān sū lái rì xià 
-名动帝畿，西蜀三苏来日下⑪；
-
-zhuànɡ yóu jīnɡ luò dōnɡ wú èr lù qǐ yún jiān
-壮游京洛，东吴二陆起云间⑫。
-
-lín duì fǎnɡ lìn duì qiān
-临对仿，吝对悭⑬。
-
-tǎo nì duì pínɡ mán
-讨逆对平蛮⑭。
-
-zhōnɡ ɡān duì yì dǎn wù bìn duì yún huán
-忠肝对义胆⑮，雾鬓对云鬟⑯。
-
-mái bǐ zhǒnɡ làn kē shān
-埋笔冢⑰，烂柯山⑱。
-
-yuè mào duì tiān yán
-月貌对天颜⑲。
-
-lónɡ qián zhōnɡ dé yuè niǎo juàn yì zhī hái
-龙潜终得跃⑳，鸟倦亦知还㉑。
-
-lǒnɡ shù fēi lái yīnɡ wǔ lǜ xiānɡ yún tí chù zhè ɡū bān
-陇树飞来鹦鹉绿㉒，湘筠啼处鹧鸪斑㉓。
-
-qiū lù hénɡ jiānɡ sū zǐ yuè mínɡ yóu chì bì 
-秋露横江，苏子月明游赤壁㉔；
-
-dònɡ xuě mí lǐnɡ hán ɡōnɡ xuě yōnɡ ɡuò lán ɡuān
-冻雪迷岭，韩公雪拥过蓝关㉕。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| lín | duì | wù | lǐnɡ | duì | luán |
+| 林 | 对 | 坞， | 岭 | 对 | 峦。 |
+| |
+| zhòu | yǒnɡ | duì | chūn | xián |
+| 昼 | 永 | 对 | 春 | 闲①。 |
+| |
+| móu | shēn | duì | wànɡ | zhònɡ | rèn | dà | duì | tóu | jiān |
+| 谋 | 深 | 对 | 望 | 重②， | 任 | 大 | 对 | 投 | 艰③。 |
+| |
+| qún | niǎo | niǎo | pèi | shān | shān |
+| 裙 | 袅 | 袅④， | 佩 | 珊 | 珊⑤。 |
+| |
+| shǒu | sài | duì | dānɡ | ɡuān |
+| 守 | 塞 | 对 | 当 | 关⑥。 |
+| |
+| mì | yún | qiān | lǐ | hé | xīn | yuè | yì | ɡōu | wān |
+| 密 | 云 | 千 | 里 | 合⑦， | 新 | 月 | 一 | 钩 | 弯⑧。 |
+| |
+| shū | bǎo | jūn | chén | jiē | zònɡ | yì | zhónɡ | huá | fù | mǔ | shì | yín | wán |
+| 叔 | 宝 | 君 | 臣 | 皆 | 纵 | 逸⑨， | 重 | 华 | 父 | 母 | 是 | 嚚 | 顽⑩。 |
+| |
+| mínɡ | dònɡ | dì | jī | xī | shǔ | sān | sū | lái | rì | xià 
+| 名 | 动 | 帝 | 畿， | 西 | 蜀 | 三 | 苏 | 来 | 日 | 下 | ⑪ | ； |
+| |
+| zhuànɡ | yóu | jīnɡ | luò | dōnɡ | wú | èr | lù | qǐ | yún | jiān |
+| 壮 | 游 | 京 | 洛， | 东 | 吴 | 二 | 陆 | 起 | 云 | 间⑫。 |
+| |
+| lín | duì | fǎnɡ | lìn | duì | qiān |
+| 临 | 对 | 仿， | 吝 | 对 | 悭⑬。 |
+| |
+| tǎo | nì | duì | pínɡ | mán |
+| 讨 | 逆 | 对 | 平 | 蛮⑭。 |
+| |
+| zhōnɡ | ɡān | duì | yì | dǎn | wù | bìn | duì | yún | huán |
+| 忠 | 肝 | 对 | 义 | 胆⑮， | 雾 | 鬓 | 对 | 云 | 鬟⑯。 |
+| |
+| mái | bǐ | zhǒnɡ | làn | kē | shān |
+| 埋 | 笔 | 冢⑰， | 烂 | 柯 | 山⑱。 |
+| |
+| yuè | mào | duì | tiān | yán |
+| 月 | 貌 | 对 | 天 | 颜⑲。 |
+| |
+| lónɡ | qián | zhōnɡ | dé | yuè | niǎo | juàn | yì | zhī | hái |
+| 龙 | 潜 | 终 | 得 | 跃⑳， | 鸟 | 倦 | 亦 | 知 | 还㉑。 |
+| |
+| lǒnɡ | shù | fēi | lái | yīnɡ | wǔ | lǜ | xiānɡ | yún | tí | chù | zhè | ɡū | bān |
+| 陇 | 树 | 飞 | 来 | 鹦 | 鹉 | 绿㉒， | 湘 | 筠 | 啼 | 处 | 鹧 | 鸪 | 斑㉓。 |
+| |
+| qiū | lù | hénɡ | jiānɡ | sū | zǐ | yuè | mínɡ | yóu | chì | bì 
+| 秋 | 露 | 横 | 江， | 苏 | 子 | 月 | 明 | 游 | 赤 | 壁 | ㉔ | ； |
+| |
+| dònɡ | xuě | mí | lǐnɡ | hán | ɡōnɡ | xuě | yōnɡ | ɡuò | lán | ɡuān |
+| 冻 | 雪 | 迷 | 岭， | 韩 | 公 | 雪 | 拥 | 过 | 蓝 | 关㉕。 |
 
 注解
 
@@ -2590,113 +2623,115 @@ dònɡ xuě mí lǐnɡ hán ɡōnɡ xuě yōnɡ ɡuò lán ɡuān
 
 一　先
 
-hán duì shǔ rì duì nián
-寒对暑，日对年。
-
-cù jū duì qiū qiān
-蹴踘对秋千①。
-
-dān shān duì bì shuǐ dàn yǔ duì qīnɡ yān
-丹山对碧水，淡雨对轻烟。
-
-ɡē wǎn zhuǎn mào chán juān
-歌宛转②，貌婵娟③。
-
-xuě fù duì yún jiān
-雪赋对云笺④。
-
-huānɡ lú qī nán yàn shū liǔ zào qiū chán
-荒芦栖南雁⑤，疏柳噪秋蝉⑥。
-
-xǐ ěr shànɡ fénɡ ɡāo shì xiào zhé yāo kěn shòu xiǎo ér lián
-洗耳尚逢高士笑⑦，折腰肯受小儿怜⑧。
-
-ɡuō tài fàn zhōu zhé jiǎo bàn chuí méi zǐ yǔ 
-郭泰泛舟，折角半垂梅子雨⑨；
-
-shān jiǎn qí mǎ jiē lí dǎo zhuó xìnɡ huā tiān 
-山简骑马，接篱倒着杏花天⑩。
-
-qīnɡ duì zhònɡ féi duì jiān
-轻对重，肥对坚⑪。
-
-bì yù duì qīnɡ qián
-碧玉对青钱⑫。
-
-jiāo hán duì dǎo shòu jiǔ shènɡ duì shī xiān
-郊寒对岛瘦⑬，酒圣对诗仙⑭。
-
-yī yù shù bù jīn lián
-依玉树⑮，步金莲⑯。
-
-záo jǐnɡ duì ɡēnɡ tián
-凿井对耕田⑰。
-
-dù fǔ qīnɡ xiāo lì biān sháo bái zhòu mián
-杜甫清宵立⑱，边韶白昼眠⑲。
-
-háo yǐn kè tūn bō dǐ yuè hān yóu rén zuì shuǐ zhōnɡ tiān
-豪饮客吞波底月，酣游人醉水中天⑳。
-
-dòu cǎo qīnɡ jiāo shù hánɡ bǎo mǎ sī jīn lè 
-斗草青郊，数行宝马嘶金勒㉑；
-
-kàn huā zǐ mò shí lǐ xiānɡ chē yōnɡ cuì diàn
-看花紫陌，十里香车拥翠钿㉒。
-
-yín duì yǒnɡ xiào duì chuán
-吟对咏，校对传。
-
-lè yǐ duì qī rán
-乐矣对凄然。
-
-fēnɡ pénɡ duì xuě yàn dǒnɡ xìnɡ duì zhōu lián
-风鹏对雪雁㉓，董杏对周莲㉔。
-
-chūn jiǔ shí suì sān qiān
-春九十㉕，岁三千㉖。
-
-zhōnɡ ɡǔ duì ɡuǎn xián
-钟鼓对管弦。
-
-rù shān fénɡ zǎi xiānɡ wú shì jí shén xiān
-入山逢宰相㉗，无事即神仙㉘。
-
-xiá yìnɡ wǔ línɡ táo dàn dàn yān huānɡ suí dī liǔ mián mián
-霞映武陵桃淡淡㉙，烟荒隋堤柳绵绵㉚。
-
-qī wǎn yuè tuán chuò bà qīnɡ fēnɡ shēnɡ yè xià 
-七碗月团，啜罢清风生腋下㉛；
-
-sān bēi yún yè yǐn yú hónɡ yǔ yùn sāi biān
-三杯云液，饮余红雨晕腮边㉜。
-
-zhōnɡ duì wài hòu duì xiān
-中对外，后对先。
-
-shù xià duì huā qián
-树下对花前㉝。
-
-yù zhù duì jīn wū dié zhànɡ duì pínɡ chuān
-玉柱对金屋㉞，叠嶂对平川㉟。
-
-sūn zǐ cè zǔ shēnɡ biān
-孙子策㊱，祖生鞭㊲。
-
-shènɡ xí duì huá yán
-盛席对华筵㊳。
-
-jiě zuì zhī chá lì xiāo chóu shí jiǔ quán
-解醉知茶力㊴，消愁识酒权㊵。
-
-cǎi jiǎn jì hé kāi dōnɡ zhǎo jǐn zhuānɡ fú yàn fàn wēn quán
-彩剪芰荷开东沼㊶，锦妆凫雁泛温泉㊷。
-
-dì nǚ xián shí hǎi zhōnɡ yí pò wéi jīnɡ wèi 
-帝女衔石，海中遗魄为精卫㊸；
-
-shǔ wánɡ jiào yuè zhī shànɡ yóu hún huà dù juān
-蜀王叫月，枝上游魂化杜鹃㊹。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| hán | duì | shǔ | rì | duì | nián |
+| 寒 | 对 | 暑， | 日 | 对 | 年。 |
+| |
+| cù | jū | duì | qiū | qiān |
+| 蹴 | 踘 | 对 | 秋 | 千①。 |
+| |
+| dān | shān | duì | bì | shuǐ | dàn | yǔ | duì | qīnɡ | yān |
+| 丹 | 山 | 对 | 碧 | 水， | 淡 | 雨 | 对 | 轻 | 烟。 |
+| |
+| ɡē | wǎn | zhuǎn | mào | chán | juān |
+| 歌 | 宛 | 转②， | 貌 | 婵 | 娟③。 |
+| |
+| xuě | fù | duì | yún | jiān |
+| 雪 | 赋 | 对 | 云 | 笺④。 |
+| |
+| huānɡ | lú | qī | nán | yàn | shū | liǔ | zào | qiū | chán |
+| 荒 | 芦 | 栖 | 南 | 雁⑤， | 疏 | 柳 | 噪 | 秋 | 蝉⑥。 |
+| |
+| xǐ | ěr | shànɡ | fénɡ | ɡāo | shì | xiào | zhé | yāo | kěn | shòu | xiǎo | ér | lián |
+| 洗 | 耳 | 尚 | 逢 | 高 | 士 | 笑⑦， | 折 | 腰 | 肯 | 受 | 小 | 儿 | 怜⑧。 |
+| |
+| ɡuō | tài | fàn | zhōu | zhé | jiǎo | bàn | chuí | méi | zǐ | yǔ 
+| 郭 | 泰 | 泛 | 舟， | 折 | 角 | 半 | 垂 | 梅 | 子 | 雨 | ⑨ | ； |
+| |
+| shān | jiǎn | qí | mǎ | jiē | lí | dǎo | zhuó | xìnɡ | huā | tiān 
+| 山 | 简 | 骑 | 马， | 接 | 篱 | 倒 | 着 | 杏 | 花 | 天⑩。 |
+| |
+| qīnɡ | duì | zhònɡ | féi | duì | jiān |
+| 轻 | 对 | 重， | 肥 | 对 | 坚⑪。 |
+| |
+| bì | yù | duì | qīnɡ | qián |
+| 碧 | 玉 | 对 | 青 | 钱⑫。 |
+| |
+| jiāo | hán | duì | dǎo | shòu | jiǔ | shènɡ | duì | shī | xiān |
+| 郊 | 寒 | 对 | 岛 | 瘦⑬， | 酒 | 圣 | 对 | 诗 | 仙⑭。 |
+| |
+| yī | yù | shù | bù | jīn | lián |
+| 依 | 玉 | 树⑮， | 步 | 金 | 莲⑯。 |
+| |
+| záo | jǐnɡ | duì | ɡēnɡ | tián |
+| 凿 | 井 | 对 | 耕 | 田⑰。 |
+| |
+| dù | fǔ | qīnɡ | xiāo | lì | biān | sháo | bái | zhòu | mián |
+| 杜 | 甫 | 清 | 宵 | 立⑱， | 边 | 韶 | 白 | 昼 | 眠⑲。 |
+| |
+| háo | yǐn | kè | tūn | bō | dǐ | yuè | hān | yóu | rén | zuì | shuǐ | zhōnɡ | tiān |
+| 豪 | 饮 | 客 | 吞 | 波 | 底 | 月， | 酣 | 游 | 人 | 醉 | 水 | 中 | 天⑳。 |
+| |
+| dòu | cǎo | qīnɡ | jiāo | shù | hánɡ | bǎo | mǎ | sī | jīn | lè 
+| 斗 | 草 | 青 | 郊， | 数 | 行 | 宝 | 马 | 嘶 | 金 | 勒 | ㉑ | ； |
+| |
+| kàn | huā | zǐ | mò | shí | lǐ | xiānɡ | chē | yōnɡ | cuì | diàn |
+| 看 | 花 | 紫 | 陌， | 十 | 里 | 香 | 车 | 拥 | 翠 | 钿㉒。 |
+| |
+| yín | duì | yǒnɡ | xiào | duì | chuán |
+| 吟 | 对 | 咏， | 校 | 对 | 传。 |
+| |
+| lè | yǐ | duì | qī | rán |
+| 乐 | 矣 | 对 | 凄 | 然。 |
+| |
+| fēnɡ | pénɡ | duì | xuě | yàn | dǒnɡ | xìnɡ | duì | zhōu | lián |
+| 风 | 鹏 | 对 | 雪 | 雁㉓， | 董 | 杏 | 对 | 周 | 莲㉔。 |
+| |
+| chūn | jiǔ | shí | suì | sān | qiān |
+| 春 | 九 | 十㉕， | 岁 | 三 | 千㉖。 |
+| |
+| zhōnɡ | ɡǔ | duì | ɡuǎn | xián |
+| 钟 | 鼓 | 对 | 管 | 弦。 |
+| |
+| rù | shān | fénɡ | zǎi | xiānɡ | wú | shì | jí | shén | xiān |
+| 入 | 山 | 逢 | 宰 | 相㉗， | 无 | 事 | 即 | 神 | 仙㉘。 |
+| |
+| xiá | yìnɡ | wǔ | línɡ | táo | dàn | dàn | yān | huānɡ | suí | dī | liǔ | mián | mián |
+| 霞 | 映 | 武 | 陵 | 桃 | 淡 | 淡㉙， | 烟 | 荒 | 隋 | 堤 | 柳 | 绵 | 绵㉚。 |
+| |
+| qī | wǎn | yuè | tuán | chuò | bà | qīnɡ | fēnɡ | shēnɡ | yè | xià 
+| 七 | 碗 | 月 | 团， | 啜 | 罢 | 清 | 风 | 生 | 腋 | 下 | ㉛ | ； |
+| |
+| sān | bēi | yún | yè | yǐn | yú | hónɡ | yǔ | yùn | sāi | biān |
+| 三 | 杯 | 云 | 液， | 饮 | 余 | 红 | 雨 | 晕 | 腮 | 边㉜。 |
+| |
+| zhōnɡ | duì | wài | hòu | duì | xiān |
+| 中 | 对 | 外， | 后 | 对 | 先。 |
+| |
+| shù | xià | duì | huā | qián |
+| 树 | 下 | 对 | 花 | 前㉝。 |
+| |
+| yù | zhù | duì | jīn | wū | dié | zhànɡ | duì | pínɡ | chuān |
+| 玉 | 柱 | 对 | 金 | 屋㉞， | 叠 | 嶂 | 对 | 平 | 川㉟。 |
+| |
+| sūn | zǐ | cè | zǔ | shēnɡ | biān |
+| 孙 | 子 | 策㊱， | 祖 | 生 | 鞭㊲。 |
+| |
+| shènɡ | xí | duì | huá | yán |
+| 盛 | 席 | 对 | 华 | 筵㊳。 |
+| |
+| jiě | zuì | zhī | chá | lì | xiāo | chóu | shí | jiǔ | quán |
+| 解 | 醉 | 知 | 茶 | 力㊴， | 消 | 愁 | 识 | 酒 | 权㊵。 |
+| |
+| cǎi | jiǎn | jì | hé | kāi | dōnɡ | zhǎo | jǐn | zhuānɡ | fú | yàn | fàn | wēn | quán |
+| 彩 | 剪 | 芰 | 荷 | 开 | 东 | 沼㊶， | 锦 | 妆 | 凫 | 雁 | 泛 | 温 | 泉㊷。 |
+| |
+| dì | nǚ | xián | shí | hǎi | zhōnɡ | yí | pò | wéi | jīnɡ | wèi 
+| 帝 | 女 | 衔 | 石， | 海 | 中 | 遗 | 魄 | 为 | 精 | 卫 | ㊸ | ； |
+| |
+| shǔ | wánɡ | jiào | yuè | zhī | shànɡ | yóu | hún | huà | dù | juān |
+| 蜀 | 王 | 叫 | 月， | 枝 | 上 | 游 | 魂 | 化 | 杜 | 鹃㊹。 |
 
 注解
 
@@ -2808,86 +2843,88 @@ shǔ wánɡ jiào yuè zhī shànɡ yóu hún huà dù juān
 
 二　萧
 
-qín duì ɡuǎn fǔ duì piáo
-琴对管，釜对瓢①。
-
-shuǐ ɡuài duì huā yāo
-水怪对花妖②。
-
-qiū shēnɡ duì chūn sè bái jiān duì hónɡ xiāo
-秋声对春色③，白缣对红绡④。
-
-chén wǔ dài shì sān cháo
-臣五代⑤，事三朝⑥。
-
-dǒu bǐnɡ duì ɡōnɡ yāo
-斗柄对弓腰⑦。
-
-zuì kè ɡē jīn lǚ jiā rén pǐn yù xiāo
-醉客歌金缕⑧，佳人品玉箫⑨。
-
-fēnɡ dìnɡ luò huā xián bù sǎo shuānɡ yú cán yè shī nán shāo
-风定落花闲不扫⑩，霜余残叶湿难烧⑪。
-
-qiān zǎi xìnɡ zhōu shànɡ fù yì ɡān tóu wèi shuǐ 
-千载兴周，尚父一竿投渭水⑫；
-
-bǎi nián bà yuè qián wánɡ wàn nǔ shè jiānɡ cháo
-百年霸越，钱王万弩射江潮⑬。
-
-rónɡ duì cuì xī duì zhāo
-荣对悴⑭，夕对朝⑮。
-
-lù dì duì yún xiāo
-露地对云霄⑯。
-
-shānɡ yí duì zhōu dǐnɡ yǐn hù duì yú sháo
-商彝对周鼎⑰，殷濩对虞韶⑱。
-
-fán sù kǒu xiǎo mán yāo
-樊素口，小蛮腰⑲。
-
-liù zhào duì sān miáo
-六诏对三苗⑳。
-
-cháo tiān chē yì yì chū sài mǎ xiāo xiāo
-朝天车奕奕㉑，出塞马萧萧㉒。
-
-ɡōnɡ zǐ yōu lán chónɡ fàn ɡě wánɡ sūn jué cǎo zhènɡ lián biāo
-公子幽兰重泛舸㉓，王孙芳草正联镳㉔。
-
-pān yuè ɡāo huái cénɡ xiànɡ qiū tiān yín xī shuài 
-潘岳高怀，曾向秋天吟蟋蟀㉕；
-
-wánɡ wéi qīnɡ xìnɡ chánɡ yú xuě yè huà bā jiāo
-王维清兴，尝于雪夜画芭蕉㉖。
-
-ɡēnɡ duì dú mù duì qiáo
-耕对读，牧对樵㉗。
-
-hǔ pò duì qiónɡ yáo
-琥珀对琼瑶㉘。
-
-tù háo duì hónɡ zhǎo ɡuì jí duì lán ráo
-兔毫对鸿爪㉙，桂楫对兰桡㉚。
-
-yú qián zǎo lù cánɡ jiāo
-鱼潜藻㉛，鹿藏蕉㉜。
-
-shuǐ yuǎn duì shān yáo
-水远对山遥㉝。
-
-xiānɡ línɡ nénɡ ɡǔ sè yínɡ nǚ jiě chuī xiāo
-湘灵能鼓瑟㉞，嬴女解吹箫㉟。
-
-xuě diǎn hán méi hénɡ xiǎo yuàn fēnɡ chuī ruò liǔ fù pínɡ qiáo
-雪点寒梅横小院㊱，风吹弱柳覆平桥㊲。
-
-yuè yǒu tōnɡ xiāo jiànɡ là bà shí ɡuānɡ bù jiǎn 
-月牖通宵，绛蜡罢时光不减㊳；
-
-fēnɡ lián dānɡ zhòu diāo pán tínɡ hòu zhuàn nán xiāo
-风帘当昼，雕盘停后篆难消㊴。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| qín | duì | ɡuǎn | fǔ | duì | piáo |
+| 琴 | 对 | 管， | 釜 | 对 | 瓢①。 |
+| |
+| shuǐ | ɡuài | duì | huā | yāo |
+| 水 | 怪 | 对 | 花 | 妖②。 |
+| |
+| qiū | shēnɡ | duì | chūn | sè | bái | jiān | duì | hónɡ | xiāo |
+| 秋 | 声 | 对 | 春 | 色③， | 白 | 缣 | 对 | 红 | 绡④。 |
+| |
+| chén | wǔ | dài | shì | sān | cháo |
+| 臣 | 五 | 代⑤， | 事 | 三 | 朝⑥。 |
+| |
+| dǒu | bǐnɡ | duì | ɡōnɡ | yāo |
+| 斗 | 柄 | 对 | 弓 | 腰⑦。 |
+| |
+| zuì | kè | ɡē | jīn | lǚ | jiā | rén | pǐn | yù | xiāo |
+| 醉 | 客 | 歌 | 金 | 缕⑧， | 佳 | 人 | 品 | 玉 | 箫⑨。 |
+| |
+| fēnɡ | dìnɡ | luò | huā | xián | bù | sǎo | shuānɡ | yú | cán | yè | shī | nán | shāo |
+| 风 | 定 | 落 | 花 | 闲 | 不 | 扫⑩， | 霜 | 余 | 残 | 叶 | 湿 | 难 | 烧⑪。 |
+| |
+| qiān | zǎi | xìnɡ | zhōu | shànɡ | fù | yì | ɡān | tóu | wèi | shuǐ 
+| 千 | 载 | 兴 | 周， | 尚 | 父 | 一 | 竿 | 投 | 渭 | 水 | ⑫ | ； |
+| |
+| bǎi | nián | bà | yuè | qián | wánɡ | wàn | nǔ | shè | jiānɡ | cháo |
+| 百 | 年 | 霸 | 越， | 钱 | 王 | 万 | 弩 | 射 | 江 | 潮⑬。 |
+| |
+| rónɡ | duì | cuì | xī | duì | zhāo |
+| 荣 | 对 | 悴⑭， | 夕 | 对 | 朝⑮。 |
+| |
+| lù | dì | duì | yún | xiāo |
+| 露 | 地 | 对 | 云 | 霄⑯。 |
+| |
+| shānɡ | yí | duì | zhōu | dǐnɡ | yǐn | hù | duì | yú | sháo |
+| 商 | 彝 | 对 | 周 | 鼎⑰， | 殷 | 濩 | 对 | 虞 | 韶⑱。 |
+| |
+| fán | sù | kǒu | xiǎo | mán | yāo |
+| 樊 | 素 | 口， | 小 | 蛮 | 腰⑲。 |
+| |
+| liù | zhào | duì | sān | miáo |
+| 六 | 诏 | 对 | 三 | 苗⑳。 |
+| |
+| cháo | tiān | chē | yì | yì | chū | sài | mǎ | xiāo | xiāo |
+| 朝 | 天 | 车 | 奕 | 奕㉑， | 出 | 塞 | 马 | 萧 | 萧㉒。 |
+| |
+| ɡōnɡ | zǐ | yōu | lán | chónɡ | fàn | ɡě | wánɡ | sūn | jué | cǎo | zhènɡ | lián | biāo |
+| 公 | 子 | 幽 | 兰 | 重 | 泛 | 舸㉓， | 王 | 孙 | 芳 | 草 | 正 | 联 | 镳㉔。 |
+| |
+| pān | yuè | ɡāo | huái | cénɡ | xiànɡ | qiū | tiān | yín | xī | shuài 
+| 潘 | 岳 | 高 | 怀， | 曾 | 向 | 秋 | 天 | 吟 | 蟋 | 蟀 | ㉕ | ； |
+| |
+| wánɡ | wéi | qīnɡ | xìnɡ | chánɡ | yú | xuě | yè | huà | bā | jiāo |
+| 王 | 维 | 清 | 兴， | 尝 | 于 | 雪 | 夜 | 画 | 芭 | 蕉㉖。 |
+| |
+| ɡēnɡ | duì | dú | mù | duì | qiáo |
+| 耕 | 对 | 读， | 牧 | 对 | 樵㉗。 |
+| |
+| hǔ | pò | duì | qiónɡ | yáo |
+| 琥 | 珀 | 对 | 琼 | 瑶㉘。 |
+| |
+| tù | háo | duì | hónɡ | zhǎo | ɡuì | jí | duì | lán | ráo |
+| 兔 | 毫 | 对 | 鸿 | 爪㉙， | 桂 | 楫 | 对 | 兰 | 桡㉚。 |
+| |
+| yú | qián | zǎo | lù | cánɡ | jiāo |
+| 鱼 | 潜 | 藻㉛， | 鹿 | 藏 | 蕉㉜。 |
+| |
+| shuǐ | yuǎn | duì | shān | yáo |
+| 水 | 远 | 对 | 山 | 遥㉝。 |
+| |
+| xiānɡ | línɡ | nénɡ | ɡǔ | sè | yínɡ | nǚ | jiě | chuī | xiāo |
+| 湘 | 灵 | 能 | 鼓 | 瑟㉞， | 嬴 | 女 | 解 | 吹 | 箫㉟。 |
+| |
+| xuě | diǎn | hán | méi | hénɡ | xiǎo | yuàn | fēnɡ | chuī | ruò | liǔ | fù | pínɡ | qiáo |
+| 雪 | 点 | 寒 | 梅 | 横 | 小 | 院㊱， | 风 | 吹 | 弱 | 柳 | 覆 | 平 | 桥㊲。 |
+| |
+| yuè | yǒu | tōnɡ | xiāo | jiànɡ | là | bà | shí | ɡuānɡ | bù | jiǎn 
+| 月 | 牖 | 通 | 宵， | 绛 | 蜡 | 罢 | 时 | 光 | 不 | 减 | ㊳ | ； |
+| |
+| fēnɡ | lián | dānɡ | zhòu | diāo | pán | tínɡ | hòu | zhuàn | nán | xiāo |
+| 风 | 帘 | 当 | 昼， | 雕 | 盘 | 停 | 后 | 篆 | 难 | 消㊴。 |
 
 注解
 
@@ -2979,86 +3016,88 @@ fēnɡ lián dānɡ zhòu diāo pán tínɡ hòu zhuàn nán xiāo
 
 三　肴
 
-shī duì lǐ ɡuà duì yáo
-诗对礼①，卦对爻②。
-
-yàn yǐn duì yīnɡ tiáo
-燕引对莺调③。
-
-chén zhōnɡ duì mù ɡǔ yě zhuàn duì shān yáo
-晨钟对暮鼓④，野馔对山肴⑤。
-
-zhì fānɡ rǔ què shǐ cháo
-雉方乳，鹊始巢⑥。
-
-měnɡ hǔ duì shén áo
-猛虎对神獒⑦。
-
-shū xīnɡ fú xìnɡ yè hào yuè shànɡ sōnɡ shāo
-疏星浮荇叶⑧，皓月上松梢⑨。
-
-wéi bānɡ zì ɡǔ tuī hú liǎn cónɡ zhènɡ yú jīn kuì dòu shāo
-为邦自古推瑚琏⑩，从政于今愧斗筲⑪。
-
-ɡuǎn bào xiānɡ zhī nénɡ jiāo wànɡ xínɡ jiāo qī yǒu 
-管鲍相知，能交忘形胶漆友⑫；
-
-lìn lián yǒu xì zhōnɡ duì wěn jǐnɡ sǐ shēnɡ jiāo
-蔺廉有隙，终对刎颈死生交⑬。
-
-ɡē duì wǔ xiào duì cháo
-歌对舞，笑对嘲。
-
-ěr yǔ duì shén jiāo
-耳语对神交⑭。
-
-yān wū duì hài shǐ tǎ suǐ duì luán jiāo
-焉乌对亥豕⑮，獭髓对鸾胶⑯。
-
-yí jiǔ jìnɡ mò qīnɡ pāo
-宜久敬，莫轻抛⑰。
-
-yí qì duì tónɡ bāo
-一气对同胞⑱。
-
-zhài zūn ɡān bù bèi zhānɡ lù niàn tí páo
-祭遵甘布被⑲，张禄念绨袍⑳。
-
-huā jìnɡ fēnɡ lái fénɡ kè fǎnɡ chái fēi yuè dào yǒu sēnɡ qiāo
-花径风来逢客访㉑，柴扉月到有僧敲㉒。
-
-yè yǔ yuán zhōnɡ yì kē bù diāo wánɡ zǐ nài 
-夜雨园中，一颗不雕王子柰㉓；
-
-qiū fēnɡ jiānɡ shànɡ sān chónɡ cénɡ juǎn dù ɡōnɡ máo
-秋风江上，三重曾卷杜公茅㉔。
-
-yá duì shè lǐn duì páo
-衙对舍，廪对庖㉕。
-
-yù qìnɡ duì jīn náo
-玉磬对金铙㉖。
-
-zhú lín duì méi lǐnɡ qǐ fènɡ duì ténɡ jiāo
-竹林对梅岭㉗，起凤对腾蛟㉘。
-
-jiāo xiāo zhànɡ shòu jǐn páo
-鲛绡帐㉙，兽锦袍㉚。
-
-lù ɡuǒ duì fēnɡ shāo
-露果对风梢㉛。
-
-yánɡ zhōu shū jú yòu jīnɡ tǔ ɡònɡ jīnɡ máo
-扬州输橘柚，荆土贡菁茅㉜。
-
-duàn shé mái dì chēnɡ sūn shū dù yǐ zuò qiáo shí sònɡ jiāo
-断蛇埋地称孙叔㉝，渡蚁作桥识宋郊㉞。
-
-hǎo mènɡ nán chénɡ qiónɡ xiǎnɡ jiē qián piān jī jī 
-好梦难成，蛩响阶前偏唧唧㉟；
-
-liánɡ pénɡ yuǎn dào jī shēnɡ chuānɡ wài zhènɡ xiāo xiāo
-良朋远到，鸡声窗外正嘐嘐㊱。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| shī | duì | lǐ | ɡuà | duì | yáo |
+| 诗 | 对 | 礼①， | 卦 | 对 | 爻②。 |
+| |
+| yàn | yǐn | duì | yīnɡ | tiáo |
+| 燕 | 引 | 对 | 莺 | 调③。 |
+| |
+| chén | zhōnɡ | duì | mù | ɡǔ | yě | zhuàn | duì | shān | yáo |
+| 晨 | 钟 | 对 | 暮 | 鼓④， | 野 | 馔 | 对 | 山 | 肴⑤。 |
+| |
+| zhì | fānɡ | rǔ | què | shǐ | cháo |
+| 雉 | 方 | 乳， | 鹊 | 始 | 巢⑥。 |
+| |
+| měnɡ | hǔ | duì | shén | áo |
+| 猛 | 虎 | 对 | 神 | 獒⑦。 |
+| |
+| shū | xīnɡ | fú | xìnɡ | yè | hào | yuè | shànɡ | sōnɡ | shāo |
+| 疏 | 星 | 浮 | 荇 | 叶⑧， | 皓 | 月 | 上 | 松 | 梢⑨。 |
+| |
+| wéi | bānɡ | zì | ɡǔ | tuī | hú | liǎn | cónɡ | zhènɡ | yú | jīn | kuì | dòu | shāo |
+| 为 | 邦 | 自 | 古 | 推 | 瑚 | 琏⑩， | 从 | 政 | 于 | 今 | 愧 | 斗 | 筲⑪。 |
+| |
+| ɡuǎn | bào | xiānɡ | zhī | nénɡ | jiāo | wànɡ | xínɡ | jiāo | qī | yǒu 
+| 管 | 鲍 | 相 | 知， | 能 | 交 | 忘 | 形 | 胶 | 漆 | 友 | ⑫ | ； |
+| |
+| lìn | lián | yǒu | xì | zhōnɡ | duì | wěn | jǐnɡ | sǐ | shēnɡ | jiāo |
+| 蔺 | 廉 | 有 | 隙， | 终 | 对 | 刎 | 颈 | 死 | 生 | 交⑬。 |
+| |
+| ɡē | duì | wǔ | xiào | duì | cháo |
+| 歌 | 对 | 舞， | 笑 | 对 | 嘲。 |
+| |
+| ěr | yǔ | duì | shén | jiāo |
+| 耳 | 语 | 对 | 神 | 交⑭。 |
+| |
+| yān | wū | duì | hài | shǐ | tǎ | suǐ | duì | luán | jiāo |
+| 焉 | 乌 | 对 | 亥 | 豕⑮， | 獭 | 髓 | 对 | 鸾 | 胶⑯。 |
+| |
+| yí | jiǔ | jìnɡ | mò | qīnɡ | pāo |
+| 宜 | 久 | 敬， | 莫 | 轻 | 抛⑰。 |
+| |
+| yí | qì | duì | tónɡ | bāo |
+| 一 | 气 | 对 | 同 | 胞⑱。 |
+| |
+| zhài | zūn | ɡān | bù | bèi | zhānɡ | lù | niàn | tí | páo |
+| 祭 | 遵 | 甘 | 布 | 被⑲， | 张 | 禄 | 念 | 绨 | 袍⑳。 |
+| |
+| huā | jìnɡ | fēnɡ | lái | fénɡ | kè | fǎnɡ | chái | fēi | yuè | dào | yǒu | sēnɡ | qiāo |
+| 花 | 径 | 风 | 来 | 逢 | 客 | 访㉑， | 柴 | 扉 | 月 | 到 | 有 | 僧 | 敲㉒。 |
+| |
+| yè | yǔ | yuán | zhōnɡ | yì | kē | bù | diāo | wánɡ | zǐ | nài 
+| 夜 | 雨 | 园 | 中， | 一 | 颗 | 不 | 雕 | 王 | 子 | 柰 | ㉓ | ； |
+| |
+| qiū | fēnɡ | jiānɡ | shànɡ | sān | chónɡ | cénɡ | juǎn | dù | ɡōnɡ | máo |
+| 秋 | 风 | 江 | 上， | 三 | 重 | 曾 | 卷 | 杜 | 公 | 茅㉔。 |
+| |
+| yá | duì | shè | lǐn | duì | páo |
+| 衙 | 对 | 舍， | 廪 | 对 | 庖㉕。 |
+| |
+| yù | qìnɡ | duì | jīn | náo |
+| 玉 | 磬 | 对 | 金 | 铙㉖。 |
+| |
+| zhú | lín | duì | méi | lǐnɡ | qǐ | fènɡ | duì | ténɡ | jiāo |
+| 竹 | 林 | 对 | 梅 | 岭㉗， | 起 | 凤 | 对 | 腾 | 蛟㉘。 |
+| |
+| jiāo | xiāo | zhànɡ | shòu | jǐn | páo |
+| 鲛 | 绡 | 帐㉙， | 兽 | 锦 | 袍㉚。 |
+| |
+| lù | ɡuǒ | duì | fēnɡ | shāo |
+| 露 | 果 | 对 | 风 | 梢㉛。 |
+| |
+| yánɡ | zhōu | shū | jú | yòu | jīnɡ | tǔ | ɡònɡ | jīnɡ | máo |
+| 扬 | 州 | 输 | 橘 | 柚， | 荆 | 土 | 贡 | 菁 | 茅㉜。 |
+| |
+| duàn | shé | mái | dì | chēnɡ | sūn | shū | dù | yǐ | zuò | qiáo | shí | sònɡ | jiāo |
+| 断 | 蛇 | 埋 | 地 | 称 | 孙 | 叔㉝， | 渡 | 蚁 | 作 | 桥 | 识 | 宋 | 郊㉞。 |
+| |
+| hǎo | mènɡ | nán | chénɡ | qiónɡ | xiǎnɡ | jiē | qián | piān | jī | jī 
+| 好 | 梦 | 难 | 成， | 蛩 | 响 | 阶 | 前 | 偏 | 唧 | 唧 | ㉟ | ； |
+| |
+| liánɡ | pénɡ | yuǎn | dào | jī | shēnɡ | chuānɡ | wài | zhènɡ | xiāo | xiāo |
+| 良 | 朋 | 远 | 到， | 鸡 | 声 | 窗 | 外 | 正 | 嘐 | 嘐㊱。 |
 
 注解
 
@@ -3136,86 +3175,88 @@ liánɡ pénɡ yuǎn dào jī shēnɡ chuānɡ wài zhènɡ xiāo xiāo
 
 四　豪
 
-jiāo duì cí dí duì hāo
-茭对茨，荻对蒿。
-
-shān lù duì jiānɡ ɡāo
-山麓对江皋①。
-
-yīnɡ huánɡ duì dié bǎn mài lànɡ duì sōnɡ tāo
-莺簧对蝶板②，麦浪对松涛③。
-
-qí jì zú fènɡ huánɡ máo
-骐骥足④，凤凰毛⑤。
-
-měi yù duì jiā bāo
-美誉对嘉褒⑥。
-
-wén rén kūi dù jiǎn xué shì shū tù háo
-文人窥蠹简⑦，学士书兔毫⑧。
-
-mǎ yuán nán zhēnɡ zài yì yǐ zhānɡ qiān xī shǐ jìn pú táo
-马援南征载薏苡⑨，张骞西使进葡萄⑩。
-
-biàn kǒu xuán hé wàn yǔ qiān yán chánɡ wěi wěi 
-辩口悬河，万语千言常亹亹⑪；
-
-cí yuán dǎo xiá lián piān lěi dú zì tāo tāo
-词源倒峡，连篇累牍自滔滔⑫。
-
-méi duì xìnɡ lǐ duì táo
-梅对杏，李对桃。
-
-yù pǔ duì jīnɡ máo
-棫朴对旌旄⑬。
-
-jiǔ xiān duì shī shǐ dé zé duì ēn ɡāo
-酒仙对诗史⑭，德泽对恩膏⑮。
-
-xuán yí tà mènɡ sān dāo
-悬一榻⑯，梦三刀⑰。
-
-zhuō yì duì ɡuì láo
-拙逸对贵劳⑱。
-
-yù tánɡ huā zhú rào jīn diàn yuè lún ɡāo
-玉堂花烛绕⑲，金殿月轮高⑳。
-
-ɡū shān kàn hè pán yún xià shǔ dào wén yuán xiànɡ yuè háo
-孤山看鹤盘云下㉑，蜀道闻猿向月号㉒。
-
-wàn shì cónɡ rén yǒu huā yǒu jiǔ yīnɡ zì lè 
-万事从人，有花有酒应自乐；
-
-bǎi nián jiē kè yì qiū yí hè jìn wú háo
-百年皆客，一丘一壑尽吾豪㉓。
-
-tái duì shěnɡ shǔ duì cáo
-台对省㉔，署对曹㉕。
-
-fēn mèi duì tónɡ páo
-分袂对同袍㉖。
-
-mínɡ qín duì jī jiàn fǎn zhé duì huí cáo
-鸣琴对击剑㉗，返辙对回艚㉘。
-
-liánɡ jiè zhù cāo zhuō dāo
-良借箸㉙，操捉刀㉚。
-
-xiānɡ chá duì chún láo
-香茶对醇醪㉛。
-
-dī quán ɡuī hǎi dà kuì tǔ jī shān ɡāo
-滴泉归海大，篑土积山高㉜。
-
-shí shì kè lái jiān què shé huà tánɡ bīn zhì yǐn yánɡ ɡāo
-石室客来煎雀舌㉝，画堂宾至饮羊羔㉞。
-
-bèi zhé jiǎ shēnɡ xiānɡ shuǐ qī liánɡ yín fú niǎo 
-被谪贾生，湘水凄凉吟鸟㉟；
-
-zāo chán qū zǐ jiānɡ tán qiáo cuì zhù lí sāo
-遭谗屈子，江潭憔悴著离骚㊱。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| jiāo | duì | cí | dí | duì | hāo |
+| 茭 | 对 | 茨， | 荻 | 对 | 蒿。 |
+| |
+| shān | lù | duì | jiānɡ | ɡāo |
+| 山 | 麓 | 对 | 江 | 皋①。 |
+| |
+| yīnɡ | huánɡ | duì | dié | bǎn | mài | lànɡ | duì | sōnɡ | tāo |
+| 莺 | 簧 | 对 | 蝶 | 板②， | 麦 | 浪 | 对 | 松 | 涛③。 |
+| |
+| qí | jì | zú | fènɡ | huánɡ | máo |
+| 骐 | 骥 | 足④， | 凤 | 凰 | 毛⑤。 |
+| |
+| měi | yù | duì | jiā | bāo |
+| 美 | 誉 | 对 | 嘉 | 褒⑥。 |
+| |
+| wén | rén | kūi | dù | jiǎn | xué | shì | shū | tù | háo |
+| 文 | 人 | 窥 | 蠹 | 简⑦， | 学 | 士 | 书 | 兔 | 毫⑧。 |
+| |
+| mǎ | yuán | nán | zhēnɡ | zài | yì | yǐ | zhānɡ | qiān | xī | shǐ | jìn | pú | táo |
+| 马 | 援 | 南 | 征 | 载 | 薏 | 苡⑨， | 张 | 骞 | 西 | 使 | 进 | 葡 | 萄⑩。 |
+| |
+| biàn | kǒu | xuán | hé | wàn | yǔ | qiān | yán | chánɡ | wěi | wěi 
+| 辩 | 口 | 悬 | 河， | 万 | 语 | 千 | 言 | 常 | 亹 | 亹 | ⑪ | ； |
+| |
+| cí | yuán | dǎo | xiá | lián | piān | lěi | dú | zì | tāo | tāo |
+| 词 | 源 | 倒 | 峡， | 连 | 篇 | 累 | 牍 | 自 | 滔 | 滔⑫。 |
+| |
+| méi | duì | xìnɡ | lǐ | duì | táo |
+| 梅 | 对 | 杏， | 李 | 对 | 桃。 |
+| |
+| yù | pǔ | duì | jīnɡ | máo |
+| 棫 | 朴 | 对 | 旌 | 旄⑬。 |
+| |
+| jiǔ | xiān | duì | shī | shǐ | dé | zé | duì | ēn | ɡāo |
+| 酒 | 仙 | 对 | 诗 | 史⑭， | 德 | 泽 | 对 | 恩 | 膏⑮。 |
+| |
+| xuán | yí | tà | mènɡ | sān | dāo |
+| 悬 | 一 | 榻⑯， | 梦 | 三 | 刀⑰。 |
+| |
+| zhuō | yì | duì | ɡuì | láo |
+| 拙 | 逸 | 对 | 贵 | 劳⑱。 |
+| |
+| yù | tánɡ | huā | zhú | rào | jīn | diàn | yuè | lún | ɡāo |
+| 玉 | 堂 | 花 | 烛 | 绕⑲， | 金 | 殿 | 月 | 轮 | 高⑳。 |
+| |
+| ɡū | shān | kàn | hè | pán | yún | xià | shǔ | dào | wén | yuán | xiànɡ | yuè | háo |
+| 孤 | 山 | 看 | 鹤 | 盘 | 云 | 下㉑， | 蜀 | 道 | 闻 | 猿 | 向 | 月 | 号㉒。 |
+| |
+| wàn | shì | cónɡ | rén | yǒu | huā | yǒu | jiǔ | yīnɡ | zì | lè 
+| 万 | 事 | 从 | 人， | 有 | 花 | 有 | 酒 | 应 | 自 | 乐 | ； |
+| |
+| bǎi | nián | jiē | kè | yì | qiū | yí | hè | jìn | wú | háo |
+| 百 | 年 | 皆 | 客， | 一 | 丘 | 一 | 壑 | 尽 | 吾 | 豪㉓。 |
+| |
+| tái | duì | shěnɡ | shǔ | duì | cáo |
+| 台 | 对 | 省㉔， | 署 | 对 | 曹㉕。 |
+| |
+| fēn | mèi | duì | tónɡ | páo |
+| 分 | 袂 | 对 | 同 | 袍㉖。 |
+| |
+| mínɡ | qín | duì | jī | jiàn | fǎn | zhé | duì | huí | cáo |
+| 鸣 | 琴 | 对 | 击 | 剑㉗， | 返 | 辙 | 对 | 回 | 艚㉘。 |
+| |
+| liánɡ | jiè | zhù | cāo | zhuō | dāo |
+| 良 | 借 | 箸㉙， | 操 | 捉 | 刀㉚。 |
+| |
+| xiānɡ | chá | duì | chún | láo |
+| 香 | 茶 | 对 | 醇 | 醪㉛。 |
+| |
+| dī | quán | ɡuī | hǎi | dà | kuì | tǔ | jī | shān | ɡāo |
+| 滴 | 泉 | 归 | 海 | 大， | 篑 | 土 | 积 | 山 | 高㉜。 |
+| |
+| shí | shì | kè | lái | jiān | què | shé | huà | tánɡ | bīn | zhì | yǐn | yánɡ | ɡāo |
+| 石 | 室 | 客 | 来 | 煎 | 雀 | 舌㉝， | 画 | 堂 | 宾 | 至 | 饮 | 羊 | 羔㉞。 |
+| |
+| bèi | zhé | jiǎ | shēnɡ | xiānɡ | shuǐ | qī | liánɡ | yín | fú | niǎo 
+| 被 | 谪 | 贾 | 生， | 湘 | 水 | 凄 | 凉 | 吟 | 鸟 | ㉟ | ； |
+| |
+| zāo | chán | qū | zǐ | jiānɡ | tán | qiáo | cuì | zhù | lí | sāo |
+| 遭 | 谗 | 屈 | 子， | 江 | 潭 | 憔 | 悴 | 著 | 离 | 骚㊱。 |
 
 注解
 
@@ -3293,113 +3334,115 @@ zāo chán qū zǐ jiānɡ tán qiáo cuì zhù lí sāo
 
 五　歌
 
-wēi duì jù shǎo duì duō
-微对巨，少对多。
-
-zhí ɡàn duì pínɡ kē
-直干对平柯①。
-
-fēnɡ méi duì dié shǐ yǔ lì duì yān suō
-蜂媒对蝶使②，雨笠对烟蓑③。
-
-méi dàn sǎo miàn wēi tuó
-眉淡扫④，面微酡⑤。
-
-miào wǔ duì qīnɡ ɡē
-妙舞对清歌⑥。
-
-qīnɡ shān cái xià ɡě báo mèi jiǎn chūn luó
-轻衫裁夏葛⑦，薄袂剪春罗⑧。
-
-jiànɡ xiànɡ jiān xínɡ tánɡ lǐ jìnɡ bà wánɡ zá yònɡ hàn xiāo hé
-将相兼行唐李靖⑨，霸王杂用汉萧何⑩。
-
-yuè běn yīn jīnɡ qǐ yǒu yì qī cénɡ qiè yào 
-月本阴精，岂有羿妻曾窃药⑪；
-
-xīnɡ wéi yè xiù lànɡ chuán zhī nǚ màn tóu suō
-星为夜宿，浪传织女漫投梭⑫。
-
-cí duì shàn nüè duì kē
-慈对善，虐对苛。
-
-piāo miǎo duì pó suō
-缥缈对婆娑⑬。
-
-zhǎnɡ yánɡ duì xì liǔ nèn ruǐ duì hán suō
-长杨对细柳⑭，嫩蕊对寒莎⑮。
-
-zhuī fēnɡ mǎ wǎn rì ɡē
-追风马⑯，挽日戈⑰。
-
-yù yè duì jīn bō
-玉液对金波⑱。
-
-zǐ zhào xián dān fènɡ huánɡ tínɡ huàn bái é
-紫诏衔丹凤⑲，黄庭换白鹅⑳。
-
-huà ɡé jiānɡ chénɡ méi zuò diào lán zhōu yě dù zhú wéi ɡē
-画阁江城梅作调㉑，兰舟野渡竹为歌㉒。
-
-mén wài xuě fēi cuò rèn kōnɡ zhōnɡ piāo liǔ xù 
-门外雪飞，错认空中飘柳絮㉓；
-
-yán biān bào xiǎnɡ wù yí tiān bàn luò yín hé
-岩边瀑响，误疑天半落银河㉔。
-
-sōnɡ duì zhú xìnɡ duì hé
-松对竹，荇对荷㉕。
-
-bì lì duì ténɡ luó
-薜荔对藤萝㉖。
-
-tī yún duì bù yuè qiáo chànɡ duì yú ɡē
-梯云对步月㉗，樵唱对渔歌㉘。
-
-shēnɡ dǐnɡ zhì tīnɡ jīnɡ é
-升鼎雉㉙，听经鹅㉚。
-
-běi hǎi duì dōnɡ pō
-北海对东坡㉛。
-
-wú lánɡ āi fèi zhái shào zǐ lè xínɡ wō
-吴郎哀废宅㉜，邵子乐行窝㉝。
-
-lì shuǐ liánɡ jīn jiē dài yě kūn shān měi yù zǒnɡ xū mó
-丽水良金皆待冶㉞，昆山美玉总须磨㉟。
-
-yǔ ɡuò huánɡ zhōu liú lí sè càn huá qīnɡ wǎ 
-雨过皇州，琉璃色灿华清瓦㊱；
-
-fēnɡ lái dì yuàn hé jì xiānɡ piāo tài yè bō
-风来帝苑，荷芰香飘太液波㊲。
-
-lónɡ duì jiàn cháo duì wō
-笼对槛，巢对窝。
-
-jí dì duì dēnɡ kē
-及第对登科㊳。
-
-bīnɡ qīnɡ duì yù rùn dì lì duì rén hé
-冰清对玉润㊴，地利对人和㊵。
-
-hán qín hǔ rónɡ jià é
-韩擒虎㊶，荣驾鹅㊷。
-
-qīnɡ nǚ duì sù é
-青女对素娥㊸。
-
-pò tóu zhū cǐ hù zhé chǐ xiè kūn suō
-破头朱泚笏㊹，折齿谢鲲梭㊺。
-
-liú kè jiǔ bēi yìnɡ hèn shǎo dònɡ rén shī jù bù xū duō
-留客酒杯应恨少㊻，动人诗句不须多㊼。
-
-lǜ yě nínɡ yān dàn tīnɡ cūn qián shuānɡ mù dí 
-绿野凝烟，但听村前双牧笛㊽；
-
-cānɡ jiānɡ jī xuě wéi kàn tān shànɡ yì yú suō
-沧江积雪，惟看滩上一鱼蓑㊾。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| wēi | duì | jù | shǎo | duì | duō |
+| 微 | 对 | 巨， | 少 | 对 | 多。 |
+| |
+| zhí | ɡàn | duì | pínɡ | kē |
+| 直 | 干 | 对 | 平 | 柯①。 |
+| |
+| fēnɡ | méi | duì | dié | shǐ | yǔ | lì | duì | yān | suō |
+| 蜂 | 媒 | 对 | 蝶 | 使②， | 雨 | 笠 | 对 | 烟 | 蓑③。 |
+| |
+| méi | dàn | sǎo | miàn | wēi | tuó |
+| 眉 | 淡 | 扫④， | 面 | 微 | 酡⑤。 |
+| |
+| miào | wǔ | duì | qīnɡ | ɡē |
+| 妙 | 舞 | 对 | 清 | 歌⑥。 |
+| |
+| qīnɡ | shān | cái | xià | ɡě | báo | mèi | jiǎn | chūn | luó |
+| 轻 | 衫 | 裁 | 夏 | 葛⑦， | 薄 | 袂 | 剪 | 春 | 罗⑧。 |
+| |
+| jiànɡ | xiànɡ | jiān | xínɡ | tánɡ | lǐ | jìnɡ | bà | wánɡ | zá | yònɡ | hàn | xiāo | hé |
+| 将 | 相 | 兼 | 行 | 唐 | 李 | 靖⑨， | 霸 | 王 | 杂 | 用 | 汉 | 萧 | 何⑩。 |
+| |
+| yuè | běn | yīn | jīnɡ | qǐ | yǒu | yì | qī | cénɡ | qiè | yào 
+| 月 | 本 | 阴 | 精， | 岂 | 有 | 羿 | 妻 | 曾 | 窃 | 药 | ⑪ | ； |
+| |
+| xīnɡ | wéi | yè | xiù | lànɡ | chuán | zhī | nǚ | màn | tóu | suō |
+| 星 | 为 | 夜 | 宿， | 浪 | 传 | 织 | 女 | 漫 | 投 | 梭⑫。 |
+| |
+| cí | duì | shàn | nüè | duì | kē |
+| 慈 | 对 | 善， | 虐 | 对 | 苛。 |
+| |
+| piāo | miǎo | duì | pó | suō |
+| 缥 | 缈 | 对 | 婆 | 娑⑬。 |
+| |
+| zhǎnɡ | yánɡ | duì | xì | liǔ | nèn | ruǐ | duì | hán | suō |
+| 长 | 杨 | 对 | 细 | 柳⑭， | 嫩 | 蕊 | 对 | 寒 | 莎⑮。 |
+| |
+| zhuī | fēnɡ | mǎ | wǎn | rì | ɡē |
+| 追 | 风 | 马⑯， | 挽 | 日 | 戈⑰。 |
+| |
+| yù | yè | duì | jīn | bō |
+| 玉 | 液 | 对 | 金 | 波⑱。 |
+| |
+| zǐ | zhào | xián | dān | fènɡ | huánɡ | tínɡ | huàn | bái | é |
+| 紫 | 诏 | 衔 | 丹 | 凤⑲， | 黄 | 庭 | 换 | 白 | 鹅⑳。 |
+| |
+| huà | ɡé | jiānɡ | chénɡ | méi | zuò | diào | lán | zhōu | yě | dù | zhú | wéi | ɡē |
+| 画 | 阁 | 江 | 城 | 梅 | 作 | 调㉑， | 兰 | 舟 | 野 | 渡 | 竹 | 为 | 歌㉒。 |
+| |
+| mén | wài | xuě | fēi | cuò | rèn | kōnɡ | zhōnɡ | piāo | liǔ | xù 
+| 门 | 外 | 雪 | 飞， | 错 | 认 | 空 | 中 | 飘 | 柳 | 絮 | ㉓ | ； |
+| |
+| yán | biān | bào | xiǎnɡ | wù | yí | tiān | bàn | luò | yín | hé |
+| 岩 | 边 | 瀑 | 响， | 误 | 疑 | 天 | 半 | 落 | 银 | 河㉔。 |
+| |
+| sōnɡ | duì | zhú | xìnɡ | duì | hé |
+| 松 | 对 | 竹， | 荇 | 对 | 荷㉕。 |
+| |
+| bì | lì | duì | ténɡ | luó |
+| 薜 | 荔 | 对 | 藤 | 萝㉖。 |
+| |
+| tī | yún | duì | bù | yuè | qiáo | chànɡ | duì | yú | ɡē |
+| 梯 | 云 | 对 | 步 | 月㉗， | 樵 | 唱 | 对 | 渔 | 歌㉘。 |
+| |
+| shēnɡ | dǐnɡ | zhì | tīnɡ | jīnɡ | é |
+| 升 | 鼎 | 雉㉙， | 听 | 经 | 鹅㉚。 |
+| |
+| běi | hǎi | duì | dōnɡ | pō |
+| 北 | 海 | 对 | 东 | 坡㉛。 |
+| |
+| wú | lánɡ | āi | fèi | zhái | shào | zǐ | lè | xínɡ | wō |
+| 吴 | 郎 | 哀 | 废 | 宅㉜， | 邵 | 子 | 乐 | 行 | 窝㉝。 |
+| |
+| lì | shuǐ | liánɡ | jīn | jiē | dài | yě | kūn | shān | měi | yù | zǒnɡ | xū | mó |
+| 丽 | 水 | 良 | 金 | 皆 | 待 | 冶㉞， | 昆 | 山 | 美 | 玉 | 总 | 须 | 磨㉟。 |
+| |
+| yǔ | ɡuò | huánɡ | zhōu | liú | lí | sè | càn | huá | qīnɡ | wǎ 
+| 雨 | 过 | 皇 | 州， | 琉 | 璃 | 色 | 灿 | 华 | 清 | 瓦 | ㊱ | ； |
+| |
+| fēnɡ | lái | dì | yuàn | hé | jì | xiānɡ | piāo | tài | yè | bō |
+| 风 | 来 | 帝 | 苑， | 荷 | 芰 | 香 | 飘 | 太 | 液 | 波㊲。 |
+| |
+| lónɡ | duì | jiàn | cháo | duì | wō |
+| 笼 | 对 | 槛， | 巢 | 对 | 窝。 |
+| |
+| jí | dì | duì | dēnɡ | kē |
+| 及 | 第 | 对 | 登 | 科㊳。 |
+| |
+| bīnɡ | qīnɡ | duì | yù | rùn | dì | lì | duì | rén | hé |
+| 冰 | 清 | 对 | 玉 | 润㊴， | 地 | 利 | 对 | 人 | 和㊵。 |
+| |
+| hán | qín | hǔ | rónɡ | jià | é |
+| 韩 | 擒 | 虎㊶， | 荣 | 驾 | 鹅㊷。 |
+| |
+| qīnɡ | nǚ | duì | sù | é |
+| 青 | 女 | 对 | 素 | 娥㊸。 |
+| |
+| pò | tóu | zhū | cǐ | hù | zhé | chǐ | xiè | kūn | suō |
+| 破 | 头 | 朱 | 泚 | 笏㊹， | 折 | 齿 | 谢 | 鲲 | 梭㊺。 |
+| |
+| liú | kè | jiǔ | bēi | yìnɡ | hèn | shǎo | dònɡ | rén | shī | jù | bù | xū | duō |
+| 留 | 客 | 酒 | 杯 | 应 | 恨 | 少㊻， | 动 | 人 | 诗 | 句 | 不 | 须 | 多㊼。 |
+| |
+| lǜ | yě | nínɡ | yān | dàn | tīnɡ | cūn | qián | shuānɡ | mù | dí 
+| 绿 | 野 | 凝 | 烟， | 但 | 听 | 村 | 前 | 双 | 牧 | 笛 | ㊽ | ； |
+| |
+| cānɡ | jiānɡ | jī | xuě | wéi | kàn | tān | shànɡ | yì | yú | suō |
+| 沧 | 江 | 积 | 雪， | 惟 | 看 | 滩 | 上 | 一 | 鱼 | 蓑㊾。 |
 
 注解
 
@@ -3515,113 +3558,115 @@ cānɡ jiānɡ jī xuě wéi kàn tān shànɡ yì yú suō
 
 六　麻
 
-qīnɡ duì zhuó měi duì jiā
-清对浊，美对嘉。
-
-bǐ lìn duì jīn kuā
-鄙吝对矜夸①。
-
-huā xū duì liǔ yǎn wū jiǎo duì yán yá
-花须对柳眼②，屋角对檐牙③。
-
-zhì hé zhái bó wànɡ chá
-志和宅④，博望槎⑤。
-
-qiū shí duì chūn huá
-秋实对春华⑥。
-
-qián lú pēnɡ bái xuě kūn dǐnɡ liàn dān shā
-乾炉烹白雪⑦，坤鼎炼丹砂⑧。
-
-shēn xiāo wànɡ lěnɡ shā chǎnɡ yuè biān sài tīnɡ cán yě shù jiā
-深宵望冷沙场月⑨，边塞听残野戍笳⑩。
-
-mǎn yuàn sōnɡ fēnɡ zhōnɡ shēnɡ yǐn yǐn wéi sēnɡ shè 
-满院松风，钟声隐隐为僧舍⑪；
-
-bàn chuānɡ huā yuè xī yǐnɡ yī yī shì dào jiā
-半窗花月，锡影依依是道家⑫。
-
-léi duì diàn wù duì xiá
-雷对电，雾对霞。
-
-yǐ zhèn duì fēnɡ yá
-蚁阵对蜂衙⑬。
-
-jì méi duì huái jú niànɡ jiǔ duì pēnɡ chá
-寄梅对怀橘⑭，酿酒对烹茶⑮。
-
-yí nán cǎo yì mǔ huā
-宜男草⑯，益母花⑰。
-
-yánɡ liǔ duì jiān jiā
-杨柳对蒹葭⑱。
-
-bān jī cí dì niǎn cài yǎn qì hú jiā
-班姬辞帝辇⑲，蔡琰泣胡笳⑳。
-
-wǔ xiè ɡē lóu qiān wàn hù zhú lí máo shè liǎnɡ sān jiā
-舞榭歌楼千万户，竹篱茅舍两三家㉑。
-
-shān zhěn bàn chuánɡ yuè mínɡ shí mènɡ fēi sài wài 
-珊枕半床，月明时梦飞塞外㉒；
-
-yín zhēnɡ yì qǔ huā luò chù rén zài tiān yá
-银筝一曲，花落处人在天涯㉓。
-
-yuán duì quē zhènɡ duì xié
-圆对缺，正对斜。
-
-xiào yǔ duì zī jiē
-笑语对咨嗟㉔。
-
-shěn yāo duì pān bìn mènɡ sǔn duì lú chá
-沈腰对潘鬓㉕，孟笋对卢茶㉖。
-
-bǎi shé niǎo liǎnɡ tóu shé
-百舌鸟㉗，两头蛇㉘。
-
-dì lǐ duì xiān jiā
-帝里对仙家㉙。
-
-yáo rén fū shuài tǔ shùn dé bèi liú shā
-尧仁敷率土㉚，舜德被流沙㉛。
-
-qiáo shànɡ shòu shū cénɡ nà lǚ bì jiān tí jù yǐ lǒnɡ shā
-桥上授书曾纳履㉜，壁间题句已笼纱㉝。
-
-yuǎn sài tiáo tiáo xuě qì fēnɡ shā hé kě jí 
-远塞迢迢，雪碛风沙何可极㉞；
-
-chánɡ shā miǎo miǎo xuě tāo yān lànɡ xìn wú yá
-长沙渺渺，雪涛烟浪信无涯㉟。
-
-shū duì mì pǔ duì huá
-疏对密，朴对华。
-
-yì hú duì cí yā
-义鹘对慈鸦㊱。
-
-hè qún duì yàn zhèn bái zhù duì huánɡ má
-鹤群对雁阵㊲，白苎对黄麻㊳。
-
-dú sān dào yín bā chā
-读三到㊴，吟八叉㊵。
-
-sù jìnɡ duì xuān huá
-肃静对喧哗。
-
-wéi qí jiān bǎ diào chén lǐ bìnɡ fú ɡuā
-围棋兼把钓㊶，沉李并浮瓜㊷。
-
-yǔ kè piàn shí nénɡ zhǔ shí hú chán qiān jié sì zhēnɡ shā
-羽客片时能煮石㊸，狐禅千劫似蒸沙㊹。
-
-dǎnɡ wèi cū háo jīn zhànɡ lǒnɡ xiānɡ zhēn měi jiǔ 
-党尉粗豪，金帐笼香斟美酒；
-
-táo shēnɡ qīnɡ yì yín dānɡ rónɡ xuě chuò tuán chá
-陶生清逸，银铛融雪啜团茶㊺。
+| | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| qīnɡ | duì | zhuó | měi | duì | jiā |
+| 清 | 对 | 浊， | 美 | 对 | 嘉。 |
+| |
+| bǐ | lìn | duì | jīn | kuā |
+| 鄙 | 吝 | 对 | 矜 | 夸①。 |
+| |
+| huā | xū | duì | liǔ | yǎn | wū | jiǎo | duì | yán | yá |
+| 花 | 须 | 对 | 柳 | 眼②， | 屋 | 角 | 对 | 檐 | 牙③。 |
+| |
+| zhì | hé | zhái | bó | wànɡ | chá |
+| 志 | 和 | 宅④， | 博 | 望 | 槎⑤。 |
+| |
+| qiū | shí | duì | chūn | huá |
+| 秋 | 实 | 对 | 春 | 华⑥。 |
+| |
+| qián | lú | pēnɡ | bái | xuě | kūn | dǐnɡ | liàn | dān | shā |
+| 乾 | 炉 | 烹 | 白 | 雪⑦， | 坤 | 鼎 | 炼 | 丹 | 砂⑧。 |
+| |
+| shēn | xiāo | wànɡ | lěnɡ | shā | chǎnɡ | yuè | biān | sài | tīnɡ | cán | yě | shù | jiā |
+| 深 | 宵 | 望 | 冷 | 沙 | 场 | 月⑨， | 边 | 塞 | 听 | 残 | 野 | 戍 | 笳⑩。 |
+| |
+| mǎn | yuàn | sōnɡ | fēnɡ | zhōnɡ | shēnɡ | yǐn | yǐn | wéi | sēnɡ | shè 
+| 满 | 院 | 松 | 风， | 钟 | 声 | 隐 | 隐 | 为 | 僧 | 舍 | ⑪ | ； |
+| |
+| bàn | chuānɡ | huā | yuè | xī | yǐnɡ | yī | yī | shì | dào | jiā |
+| 半 | 窗 | 花 | 月， | 锡 | 影 | 依 | 依 | 是 | 道 | 家⑫。 |
+| |
+| léi | duì | diàn | wù | duì | xiá |
+| 雷 | 对 | 电， | 雾 | 对 | 霞。 |
+| |
+| yǐ | zhèn | duì | fēnɡ | yá |
+| 蚁 | 阵 | 对 | 蜂 | 衙⑬。 |
+| |
+| jì | méi | duì | huái | jú | niànɡ | jiǔ | duì | pēnɡ | chá |
+| 寄 | 梅 | 对 | 怀 | 橘⑭， | 酿 | 酒 | 对 | 烹 | 茶⑮。 |
+| |
+| yí | nán | cǎo | yì | mǔ | huā |
+| 宜 | 男 | 草⑯， | 益 | 母 | 花⑰。 |
+| |
+| yánɡ | liǔ | duì | jiān | jiā |
+| 杨 | 柳 | 对 | 蒹 | 葭⑱。 |
+| |
+| bān | jī | cí | dì | niǎn | cài | yǎn | qì | hú | jiā |
+| 班 | 姬 | 辞 | 帝 | 辇⑲， | 蔡 | 琰 | 泣 | 胡 | 笳⑳。 |
+| |
+| wǔ | xiè | ɡē | lóu | qiān | wàn | hù | zhú | lí | máo | shè | liǎnɡ | sān | jiā |
+| 舞 | 榭 | 歌 | 楼 | 千 | 万 | 户， | 竹 | 篱 | 茅 | 舍 | 两 | 三 | 家㉑。 |
+| |
+| shān | zhěn | bàn | chuánɡ | yuè | mínɡ | shí | mènɡ | fēi | sài | wài 
+| 珊 | 枕 | 半 | 床， | 月 | 明 | 时 | 梦 | 飞 | 塞 | 外 | ㉒ | ； |
+| |
+| yín | zhēnɡ | yì | qǔ | huā | luò | chù | rén | zài | tiān | yá |
+| 银 | 筝 | 一 | 曲， | 花 | 落 | 处 | 人 | 在 | 天 | 涯㉓。 |
+| |
+| yuán | duì | quē | zhènɡ | duì | xié |
+| 圆 | 对 | 缺， | 正 | 对 | 斜。 |
+| |
+| xiào | yǔ | duì | zī | jiē |
+| 笑 | 语 | 对 | 咨 | 嗟㉔。 |
+| |
+| shěn | yāo | duì | pān | bìn | mènɡ | sǔn | duì | lú | chá |
+| 沈 | 腰 | 对 | 潘 | 鬓㉕， | 孟 | 笋 | 对 | 卢 | 茶㉖。 |
+| |
+| bǎi | shé | niǎo | liǎnɡ | tóu | shé |
+| 百 | 舌 | 鸟㉗， | 两 | 头 | 蛇㉘。 |
+| |
+| dì | lǐ | duì | xiān | jiā |
+| 帝 | 里 | 对 | 仙 | 家㉙。 |
+| |
+| yáo | rén | fū | shuài | tǔ | shùn | dé | bèi | liú | shā |
+| 尧 | 仁 | 敷 | 率 | 土㉚， | 舜 | 德 | 被 | 流 | 沙㉛。 |
+| |
+| qiáo | shànɡ | shòu | shū | cénɡ | nà | lǚ | bì | jiān | tí | jù | yǐ | lǒnɡ | shā |
+| 桥 | 上 | 授 | 书 | 曾 | 纳 | 履㉜， | 壁 | 间 | 题 | 句 | 已 | 笼 | 纱㉝。 |
+| |
+| yuǎn | sài | tiáo | tiáo | xuě | qì | fēnɡ | shā | hé | kě | jí 
+| 远 | 塞 | 迢 | 迢， | 雪 | 碛 | 风 | 沙 | 何 | 可 | 极 | ㉞ | ； |
+| |
+| chánɡ | shā | miǎo | miǎo | xuě | tāo | yān | lànɡ | xìn | wú | yá |
+| 长 | 沙 | 渺 | 渺， | 雪 | 涛 | 烟 | 浪 | 信 | 无 | 涯㉟。 |
+| |
+| shū | duì | mì | pǔ | duì | huá |
+| 疏 | 对 | 密， | 朴 | 对 | 华。 |
+| |
+| yì | hú | duì | cí | yā |
+| 义 | 鹘 | 对 | 慈 | 鸦㊱。 |
+| |
+| hè | qún | duì | yàn | zhèn | bái | zhù | duì | huánɡ | má |
+| 鹤 | 群 | 对 | 雁 | 阵㊲， | 白 | 苎 | 对 | 黄 | 麻㊳。 |
+| |
+| dú | sān | dào | yín | bā | chā |
+| 读 | 三 | 到㊴， | 吟 | 八 | 叉㊵。 |
+| |
+| sù | jìnɡ | duì | xuān | huá |
+| 肃 | 静 | 对 | 喧 | 哗。 |
+| |
+| wéi | qí | jiān | bǎ | diào | chén | lǐ | bìnɡ | fú | ɡuā |
+| 围 | 棋 | 兼 | 把 | 钓㊶， | 沉 | 李 | 并 | 浮 | 瓜㊷。 |
+| |
+| yǔ | kè | piàn | shí | nénɡ | zhǔ | shí | hú | chán | qiān | jié | sì | zhēnɡ | shā |
+| 羽 | 客 | 片 | 时 | 能 | 煮 | 石㊸， | 狐 | 禅 | 千 | 劫 | 似 | 蒸 | 沙㊹。 |
+| |
+| dǎnɡ | wèi | cū | háo | jīn | zhànɡ | lǒnɡ | xiānɡ | zhēn | měi | jiǔ 
+| 党 | 尉 | 粗 | 豪， | 金 | 帐 | 笼 | 香 | 斟 | 美 | 酒 | ； |
+| |
+| táo | shēnɡ | qīnɡ | yì | yín | dānɡ | rónɡ | xuě | chuò | tuán | chá |
+| 陶 | 生 | 清 | 逸， | 银 | 铛 | 融 | 雪 | 啜 | 团 | 茶㊺。 |
 
 注解
 
@@ -3723,113 +3768,115 @@ táo shēnɡ qīnɡ yì yín dānɡ rónɡ xuě chuò tuán chá
 
 七　阳
 
-tái duì ɡé zhǎo duì tánɡ
-台对阁，沼对塘。
-
-zhāo yǔ duì xī yánɡ
-朝雨对夕阳①。
-
-yóu rén duì yǐn shì xiè nǚ duì qiū niánɡ
-游人对隐士②，谢女对秋娘③。
-
-sān cùn shé jiǔ huí chánɡ
-三寸舌④，九回肠⑤。
-
-yù yè duì qiónɡ jiānɡ
-玉液对琼浆⑥。
-
-qín huánɡ zhào dǎn jìnɡ xú zhào fǎn hún xiānɡ
-秦皇照胆镜⑦，徐肇返魂香⑧。
-
-qīnɡ pínɡ yè xiào fú rónɡ xiá huánɡ juǎn shí tān bì lì chuánɡ
-青萍夜啸芙蓉匣⑨，黄卷时摊薜荔床⑩。
-
-yuán hēnɡ lì zhēn tiān dì yì jī chénɡ huà yù 
-元亨利贞，天地一机成化育⑪；
-
-rén yì lǐ zhì shènɡ xián qiān ɡǔ lì ɡānɡ chánɡ
-仁义礼智，圣贤千古立纲常⑫。
-
-hónɡ duì bái lǜ duì huánɡ
-红对白，绿对黄。
-
-zhòu yǒnɡ duì ɡēnɡ chánɡ
-昼永对更长⑬。
-
-lónɡ fēi duì fènɡ wǔ jǐn lǎn duì yá qiánɡ
-龙飞对凤舞⑭，锦缆对牙樯⑮。
-
-yún biàn shǐ xuě yī niánɡ
-云弁使⑯，雪衣娘⑰。
-
-ɡù ɡuó duì tā xiānɡ
-故国对他乡⑱。
-
-xiónɡ wén nénɡ xǐ è yàn qǔ wèi qiú huánɡ
-雄文能徙鳄⑲，艳曲为求凰⑳。
-
-jiǔ rì ɡāo fēnɡ jīnɡ luò mào mù chūn qū shuǐ xǐ liú shānɡ
-九日高峰惊落帽㉑，暮春曲水喜流觞㉒。
-
-sēnɡ zhàn mínɡ shān yún rào mào lín cánɡ ɡǔ diàn 
-僧占名山，云绕茂林藏古殿㉓；
-
-kè qī shènɡ dì fēnɡ piāo luò yè xiǎnɡ kōnɡ lánɡ
-客栖胜地，风飘落叶响空廊㉔。
-
-shuāi duì zhuànɡ ruò duì qiánɡ
-衰对壮，弱对强。
-
-yàn shì duì xīn zhuānɡ
-艳饰对新妆㉕。
-
-yù lónɡ duì sī mǎ pò zhú duì chuān yánɡ
-御龙对司马㉖，破竹对穿杨㉗。
-
-dú bān mǎ shí qiú yánɡ
-读班马㉘，识求羊㉙。
-
-shuǐ sè duì shān ɡuānɡ
-水色对山光。
-
-xiān qí cánɡ lǜ jú kè zhěn mènɡ huánɡ liánɡ
-仙棋藏绿橘㉚，客枕梦黄粱㉛。
-
-chí cǎo rù shī yīn yǒu mènɡ hǎi tánɡ dài hèn wèi wú xiānɡ
-池草入诗因有梦㉜，海棠带恨为无香㉝。
-
-fēnɡ qǐ huà tánɡ lián bó yǐnɡ fān qīnɡ xìnɡ zhǎo 
-风起画堂，帘箔影翻青荇沼㉞；
-
-yuè xié jīn jǐnɡ lù lú shēnɡ dù bì wú qiánɡ
-月斜金井，辘轳声度碧梧墙㉟。
-
-chén duì zǐ dì duì wánɡ
-臣对子，帝对王。
-
-rì yuè duì fēnɡ shuānɡ
-日月对风霜。
-
-wū tái duì zǐ fǔ xuě yǒu duì yún fánɡ
-乌台对紫府㊱，雪牖对云房㊲。
-
-xiānɡ shān shè zhòu jǐn tánɡ
-香山社㊳，昼锦堂㊴。
-
-bù wū duì yán lánɡ
-蔀屋对岩廊㊵。
-
-fēn jiāo tú nèi bì wén xìnɡ shì ɡāo liánɡ
-芬椒涂内壁㊶，文杏饰高梁㊷。
-
-pín nǚ xìnɡ fēn dōnɡ bì yǐnɡ yōu rén ɡāo wò běi chuānɡ liánɡ
-贫女幸分东壁影㊸，幽人高卧北窗凉㊹。
-
-xiù ɡé tàn chūn lì rì bàn lǒnɡ qīnɡ jìnɡ sè 
-绣阁探春，丽日半笼青镜色㊺；
-
-shuǐ tínɡ zuì xià xūn fēnɡ chánɡ tòu bì tǒnɡ xiānɡ
-水亭醉夏，熏风常透碧筒香㊻。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| tái | duì | ɡé | zhǎo | duì | tánɡ |
+| 台 | 对 | 阁， | 沼 | 对 | 塘。 |
+| |
+| zhāo | yǔ | duì | xī | yánɡ |
+| 朝 | 雨 | 对 | 夕 | 阳①。 |
+| |
+| yóu | rén | duì | yǐn | shì | xiè | nǚ | duì | qiū | niánɡ |
+| 游 | 人 | 对 | 隐 | 士②， | 谢 | 女 | 对 | 秋 | 娘③。 |
+| |
+| sān | cùn | shé | jiǔ | huí | chánɡ |
+| 三 | 寸 | 舌④， | 九 | 回 | 肠⑤。 |
+| |
+| yù | yè | duì | qiónɡ | jiānɡ |
+| 玉 | 液 | 对 | 琼 | 浆⑥。 |
+| |
+| qín | huánɡ | zhào | dǎn | jìnɡ | xú | zhào | fǎn | hún | xiānɡ |
+| 秦 | 皇 | 照 | 胆 | 镜⑦， | 徐 | 肇 | 返 | 魂 | 香⑧。 |
+| |
+| qīnɡ | pínɡ | yè | xiào | fú | rónɡ | xiá | huánɡ | juǎn | shí | tān | bì | lì | chuánɡ |
+| 青 | 萍 | 夜 | 啸 | 芙 | 蓉 | 匣⑨， | 黄 | 卷 | 时 | 摊 | 薜 | 荔 | 床⑩。 |
+| |
+| yuán | hēnɡ | lì | zhēn | tiān | dì | yì | jī | chénɡ | huà | yù 
+| 元 | 亨 | 利 | 贞， | 天 | 地 | 一 | 机 | 成 | 化 | 育 | ⑪ | ； |
+| |
+| rén | yì | lǐ | zhì | shènɡ | xián | qiān | ɡǔ | lì | ɡānɡ | chánɡ |
+| 仁 | 义 | 礼 | 智， | 圣 | 贤 | 千 | 古 | 立 | 纲 | 常⑫。 |
+| |
+| hónɡ | duì | bái | lǜ | duì | huánɡ |
+| 红 | 对 | 白， | 绿 | 对 | 黄。 |
+| |
+| zhòu | yǒnɡ | duì | ɡēnɡ | chánɡ |
+| 昼 | 永 | 对 | 更 | 长⑬。 |
+| |
+| lónɡ | fēi | duì | fènɡ | wǔ | jǐn | lǎn | duì | yá | qiánɡ |
+| 龙 | 飞 | 对 | 凤 | 舞⑭， | 锦 | 缆 | 对 | 牙 | 樯⑮。 |
+| |
+| yún | biàn | shǐ | xuě | yī | niánɡ |
+| 云 | 弁 | 使⑯， | 雪 | 衣 | 娘⑰。 |
+| |
+| ɡù | ɡuó | duì | tā | xiānɡ |
+| 故 | 国 | 对 | 他 | 乡⑱。 |
+| |
+| xiónɡ | wén | nénɡ | xǐ | è yàn | qǔ | wèi | qiú | huánɡ |
+| 雄 | 文 | 能 | 徙 | 鳄⑲， | 艳 | 曲 | 为 | 求 | 凰⑳。 |
+| |
+| jiǔ | rì | ɡāo | fēnɡ | jīnɡ | luò | mào | mù | chūn | qū | shuǐ | xǐ | liú | shānɡ |
+| 九 | 日 | 高 | 峰 | 惊 | 落 | 帽㉑， | 暮 | 春 | 曲 | 水 | 喜 | 流 | 觞㉒。 |
+| |
+| sēnɡ | zhàn | mínɡ | shān | yún | rào | mào | lín | cánɡ | ɡǔ | diàn 
+| 僧 | 占 | 名 | 山， | 云 | 绕 | 茂 | 林 | 藏 | 古 | 殿 | ㉓ | ； |
+| |
+| kè | qī | shènɡ | dì | fēnɡ | piāo | luò | yè | xiǎnɡ | kōnɡ | lánɡ |
+| 客 | 栖 | 胜 | 地， | 风 | 飘 | 落 | 叶 | 响 | 空 | 廊㉔。 |
+| |
+| shuāi | duì | zhuànɡ | ruò | duì | qiánɡ |
+| 衰 | 对 | 壮， | 弱 | 对 | 强。 |
+| |
+| yàn | shì | duì | xīn | zhuānɡ |
+| 艳 | 饰 | 对 | 新 | 妆㉕。 |
+| |
+| yù | lónɡ | duì | sī | mǎ | pò | zhú | duì | chuān | yánɡ |
+| 御 | 龙 | 对 | 司 | 马㉖， | 破 | 竹 | 对 | 穿 | 杨㉗。 |
+| |
+| dú | bān | mǎ | shí | qiú | yánɡ |
+| 读 | 班 | 马㉘， | 识 | 求 | 羊㉙。 |
+| |
+| shuǐ | sè | duì | shān | ɡuānɡ |
+| 水 | 色 | 对 | 山 | 光。 |
+| |
+| xiān | qí | cánɡ | lǜ | jú | kè | zhěn | mènɡ | huánɡ | liánɡ |
+| 仙 | 棋 | 藏 | 绿 | 橘㉚， | 客 | 枕 | 梦 | 黄 | 粱㉛。 |
+| |
+| chí | cǎo | rù | shī | yīn | yǒu | mènɡ | hǎi | tánɡ | dài | hèn | wèi | wú | xiānɡ |
+| 池 | 草 | 入 | 诗 | 因 | 有 | 梦㉜， | 海 | 棠 | 带 | 恨 | 为 | 无 | 香㉝。 |
+| |
+| fēnɡ | qǐ | huà | tánɡ | lián | bó | yǐnɡ | fān | qīnɡ | xìnɡ | zhǎo 
+| 风 | 起 | 画 | 堂， | 帘 | 箔 | 影 | 翻 | 青 | 荇 | 沼 | ㉞ | ； |
+| |
+| yuè | xié | jīn | jǐnɡ | lù | lú | shēnɡ | dù | bì | wú | qiánɡ |
+| 月 | 斜 | 金 | 井， | 辘 | 轳 | 声 | 度 | 碧 | 梧 | 墙㉟。 |
+| |
+| chén | duì | zǐ | dì | duì | wánɡ |
+| 臣 | 对 | 子， | 帝 | 对 | 王。 |
+| |
+| rì | yuè | duì | fēnɡ | shuānɡ |
+| 日 | 月 | 对 | 风 | 霜。 |
+| |
+| wū | tái | duì | zǐ | fǔ | xuě | yǒu | duì | yún | fánɡ |
+| 乌 | 台 | 对 | 紫 | 府㊱， | 雪 | 牖 | 对 | 云 | 房㊲。 |
+| |
+| xiānɡ | shān | shè | zhòu | jǐn | tánɡ |
+| 香 | 山 | 社㊳， | 昼 | 锦 | 堂㊴。 |
+| |
+| bù | wū | duì | yán | lánɡ |
+| 蔀 | 屋 | 对 | 岩 | 廊㊵。 |
+| |
+| fēn | jiāo | tú | nèi | bì | wén | xìnɡ | shì | ɡāo | liánɡ |
+| 芬 | 椒 | 涂 | 内 | 壁㊶， | 文 | 杏 | 饰 | 高 | 梁㊷。 |
+| |
+| pín | nǚ | xìnɡ | fēn | dōnɡ | bì | yǐnɡ | yōu | rén | ɡāo | wò | běi | chuānɡ | liánɡ |
+| 贫 | 女 | 幸 | 分 | 东 | 壁 | 影㊸， | 幽 | 人 | 高 | 卧 | 北 | 窗 | 凉㊹。 |
+| |
+| xiù | ɡé | tàn | chūn | lì | rì | bàn | lǒnɡ | qīnɡ | jìnɡ | sè 
+| 绣 | 阁 | 探 | 春， | 丽 | 日 | 半 | 笼 | 青 | 镜 | 色 | ㊺ | ； |
+| |
+| shuǐ | tínɡ | zuì | xià | xūn | fēnɡ | chánɡ | tòu | bì | tǒnɡ | xiānɡ |
+| 水 | 亭 | 醉 | 夏， | 熏 | 风 | 常 | 透 | 碧 | 筒 | 香㊻。 |
 
 注解
 
@@ -3931,86 +3978,88 @@ shuǐ tínɡ zuì xià xūn fēnɡ chánɡ tòu bì tǒnɡ xiānɡ
 
 八　庚
 
-xínɡ duì mào sè duì shēnɡ
-形对貌，色对声。
-
-xià yì duì zhōu jīnɡ
-夏邑对周京①。
-
-jiānɡ yún duì jiàn shù yù qìnɡ duì yín zhēnɡ
-江云对涧树，玉磬对银筝②。
-
-rén lǎo lǎo wǒ qīnɡ qīnɡ
-人老老③，我卿卿④。
-
-xiǎo yàn duì chūn yīnɡ
-晓燕对春莺。
-
-xuán shuānɡ chōnɡ yù chǔ bái lù zhù jīn jīnɡ
-玄霜舂玉杵⑤，白露贮金茎⑥。
-
-ɡǔ kè jūn shān qiū nònɡ dí xiān rén ɡōu lǐnɡ yè chuī shēnɡ
-贾客君山秋弄笛⑦，仙人缑岭夜吹笙⑧。
-
-dì yè dú xīnɡ jìn dào hàn ɡāo nénɡ yònɡ jiànɡ 
-帝业独兴，尽道汉高能用将⑨；
-
-fù shū kōnɡ dú shuí yán zhào kuò shàn zhī bīnɡ
-父书空读，谁言赵括善知兵⑩。
-
-ɡōnɡ duì yè xìnɡ duì qínɡ
-功对业，性对情。
-
-yuè shànɡ duì yún xínɡ
-月上对云行⑪。
-
-chénɡ lónɡ duì fù jì lánɡ yuàn duì pénɡ yínɡ
-乘龙对附骥⑫，阆苑对蓬瀛⑬。
-
-chūn qiū bǐ yuè dàn pínɡ
-春秋笔⑭，月旦评⑮。
-
-dōnɡ zuò duì xī chénɡ
-东作对西成⑯。
-
-suí zhū ɡuānɡ zhào shènɡ hé bì jià lián chénɡ
-隋珠光照乘，和璧价连城⑰。
-
-sān jiàn sān rén tánɡ jiànɡ yǒnɡ yì qín yí hè zhào ɡōnɡ qīnɡ
-三箭三人唐将勇⑱，一琴一鹤赵公清⑲。
-
-hàn dì qiú xián zhào fǎnɡ yán tān fénɡ ɡù jiù 
-汉帝求贤，诏访严滩逢故旧⑳；
-
-sònɡ tínɡ yōu lǎo nián zūn luò shè zhònɡ qí yīnɡ
-宋廷优老，年尊洛社重耆英㉑。
-
-hūn duì dàn huì duì mínɡ
-昏对旦，晦对明。
-
-jiǔ yǔ duì xīn qínɡ
-久雨对新晴。
-
-liǎo wān duì huā ɡǎnɡ zhú yǒu duì méi xiōnɡ
-蓼湾对花港㉒，竹友对梅兄㉓。
-
-huánɡ shí sǒu dān qiū shēnɡ
-黄石叟㉔，丹丘生㉕。
-
-quǎn fèi duì jī mínɡ
-犬吠对鸡鸣㉖。
-
-mù shān yún wài duàn xīn shuǐ yuè zhōnɡ pínɡ
-暮山云外断，新水月中平㉗。
-
-bàn tà qīnɡ fēnɡ yí wǔ mènɡ yì lí hǎo yǔ chèn chūn ɡēnɡ
-半榻清风宜午梦㉘，一犁好雨趁春耕㉙。
-
-wánɡ dàn dēnɡ yōnɡ wù wǒ shí nián chí zuò xiànɡ 
-王旦登庸，误我十年迟作相㉚；
-
-liú fén bù dì kuì tā duō shì zǎo chénɡ mínɡ
-刘蕡不第，愧他多士早成名㉛。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| xínɡ | duì | mào | sè | duì | shēnɡ |
+| 形 | 对 | 貌， | 色 | 对 | 声。 |
+| |
+| xià | yì | duì | zhōu | jīnɡ |
+| 夏 | 邑 | 对 | 周 | 京①。 |
+| |
+| jiānɡ | yún | duì | jiàn | shù | yù | qìnɡ | duì | yín | zhēnɡ |
+| 江 | 云 | 对 | 涧 | 树， | 玉 | 磬 | 对 | 银 | 筝②。 |
+| |
+| rén | lǎo | lǎo | wǒ | qīnɡ | qīnɡ |
+| 人 | 老 | 老③， | 我 | 卿 | 卿④。 |
+| |
+| xiǎo | yàn | duì | chūn | yīnɡ |
+| 晓 | 燕 | 对 | 春 | 莺。 |
+| |
+| xuán | shuānɡ | chōnɡ | yù | chǔ | bái | lù | zhù | jīn | jīnɡ |
+| 玄 | 霜 | 舂 | 玉 | 杵⑤， | 白 | 露 | 贮 | 金 | 茎⑥。 |
+| |
+| ɡǔ | kè | jūn | shān | qiū | nònɡ | dí | xiān | rén | ɡōu | lǐnɡ | yè | chuī | shēnɡ |
+| 贾 | 客 | 君 | 山 | 秋 | 弄 | 笛⑦， | 仙 | 人 | 缑 | 岭 | 夜 | 吹 | 笙⑧。 |
+| |
+| dì | yè | dú | xīnɡ | jìn | dào | hàn | ɡāo | nénɡ | yònɡ | jiànɡ 
+| 帝 | 业 | 独 | 兴， | 尽 | 道 | 汉 | 高 | 能 | 用 | 将 | ⑨ | ； |
+| |
+| fù | shū | kōnɡ | dú | shuí | yán | zhào | kuò | shàn | zhī | bīnɡ |
+| 父 | 书 | 空 | 读， | 谁 | 言 | 赵 | 括 | 善 | 知 | 兵⑩。 |
+| |
+| ɡōnɡ | duì | yè | xìnɡ | duì | qínɡ |
+| 功 | 对 | 业， | 性 | 对 | 情。 |
+| |
+| yuè | shànɡ | duì | yún | xínɡ |
+| 月 | 上 | 对 | 云 | 行⑪。 |
+| |
+| chénɡ | lónɡ | duì | fù | jì | lánɡ | yuàn | duì | pénɡ | yínɡ |
+| 乘 | 龙 | 对 | 附 | 骥⑫， | 阆 | 苑 | 对 | 蓬 | 瀛⑬。 |
+| |
+| chūn | qiū | bǐ | yuè | dàn | pínɡ |
+| 春 | 秋 | 笔⑭， | 月 | 旦 | 评⑮。 |
+| |
+| dōnɡ | zuò | duì | xī | chénɡ |
+| 东 | 作 | 对 | 西 | 成⑯。 |
+| |
+| suí | zhū | ɡuānɡ | zhào | shènɡ | hé | bì | jià | lián | chénɡ |
+| 隋 | 珠 | 光 | 照 | 乘， | 和 | 璧 | 价 | 连 | 城⑰。 |
+| |
+| sān | jiàn | sān | rén | tánɡ | jiànɡ | yǒnɡ | yì | qín | yí | hè | zhào | ɡōnɡ | qīnɡ |
+| 三 | 箭 | 三 | 人 | 唐 | 将 | 勇⑱， | 一 | 琴 | 一 | 鹤 | 赵 | 公 | 清⑲。 |
+| |
+| hàn | dì | qiú | xián | zhào | fǎnɡ | yán | tān | fénɡ | ɡù | jiù 
+| 汉 | 帝 | 求 | 贤， | 诏 | 访 | 严 | 滩 | 逢 | 故 | 旧 | ⑳ | ； |
+| |
+| sònɡ | tínɡ | yōu | lǎo | nián | zūn | luò | shè | zhònɡ | qí | yīnɡ |
+| 宋 | 廷 | 优 | 老， | 年 | 尊 | 洛 | 社 | 重 | 耆 | 英㉑。 |
+| |
+| hūn | duì | dàn | huì | duì | mínɡ |
+| 昏 | 对 | 旦， | 晦 | 对 | 明。 |
+| |
+| jiǔ | yǔ | duì | xīn | qínɡ |
+| 久 | 雨 | 对 | 新 | 晴。 |
+| |
+| liǎo | wān | duì | huā | ɡǎnɡ | zhú | yǒu | duì | méi | xiōnɡ |
+| 蓼 | 湾 | 对 | 花 | 港㉒， | 竹 | 友 | 对 | 梅 | 兄㉓。 |
+| |
+| huánɡ | shí | sǒu | dān | qiū | shēnɡ |
+| 黄 | 石 | 叟㉔， | 丹 | 丘 | 生㉕。 |
+| |
+| quǎn | fèi | duì | jī | mínɡ |
+| 犬 | 吠 | 对 | 鸡 | 鸣㉖。 |
+| |
+| mù | shān | yún | wài | duàn | xīn | shuǐ | yuè | zhōnɡ | pínɡ |
+| 暮 | 山 | 云 | 外 | 断， | 新 | 水 | 月 | 中 | 平㉗。 |
+| |
+| bàn | tà | qīnɡ | fēnɡ | yí | wǔ | mènɡ | yì | lí | hǎo | yǔ | chèn | chūn | ɡēnɡ |
+| 半 | 榻 | 清 | 风 | 宜 | 午 | 梦㉘， | 一 | 犁 | 好 | 雨 | 趁 | 春 | 耕㉙。 |
+| |
+| wánɡ | dàn | dēnɡ | yōnɡ | wù | wǒ | shí | nián | chí | zuò | xiànɡ 
+| 王 | 旦 | 登 | 庸， | 误 | 我 | 十 | 年 | 迟 | 作 | 相 | ㉚ | ； |
+| |
+| liú | fén | bù | dì | kuì | tā | duō | shì | zǎo | chénɡ | mínɡ |
+| 刘 | 蕡 | 不 | 第， | 愧 | 他 | 多 | 士 | 早 | 成 | 名㉛。 |
 
 注解
 
@@ -4082,59 +4131,61 @@ liú fén bù dì kuì tā duō shì zǎo chénɡ mínɡ
 
 九　青
 
-ɡēnɡ duì jiǎ sì duì dīnɡ
-庚对甲①，巳对丁。
-
-wèi què duì tónɡ tínɡ
-魏阙对彤庭②。
-
-méi qī duì hè zǐ zhū bó duì yín pínɡ
-梅妻对鹤子③，珠箔对银屏④。
-
-yuān yù zhǎo lù fēi tīnɡ
-鸳浴沼⑤，鹭飞汀⑥。
-
-hónɡ yàn duì jǐ línɡ
-鸿雁对鹡鸰⑦。
-
-rén jiān shòu zhě xiànɡ tiān shànɡ lǎo rén xīnɡ
-人间寿者相⑧，天上老人星⑨。
-
-bā yuè hǎo xiū pān ɡuì fǔ sān chūn xū jì hù huā línɡ
-八月好修攀桂斧⑩，三春须系护花铃⑪。
-
-jiānɡ ɡé pínɡ lín yì shuǐ jìnɡ lián tiān jì bì 
-江阁凭临，一水净连天际碧⑫；
-
-shí lán xián yǐ qún shān xiù xiànɡ yǔ yú qīnɡ
-石栏闲倚，群山秀向雨余青⑬。
-
-wēi duì luàn tài duì nínɡ
-危对乱，泰对宁。
-
-nà bì duì qū tínɡ
-纳陛对趋庭⑭。
-
-jīn pán duì yù zhù fán ɡěnɡ duì fú pínɡ
-金盘对玉箸⑮，泛梗对浮萍⑯。
-
-qún yù pǔ zhònɡ fānɡ tínɡ
-群玉圃⑰，众芳亭⑱。
-
-jiù diǎn duì xīn xínɡ
-旧典对新型⑲。
-
-qí niú xián dú shǐ mù shǐ zì hénɡ jīnɡ
-骑牛闲读史⑳，牧豕自横经㉑。
-
-qiū shǒu tián zhōnɡ hé yǐnɡ zhònɡ chūn yú yuán nèi cài huā xīn
-秋首田中禾颖重㉒，春余园内菜花馨㉓。
-
-lǚ cì qī liánɡ sāi yuè jiānɡ fēnɡ jiē cǎn dàn 
-旅次凄凉，塞月江风皆惨淡㉔；
-
-yán qián huān xiào yàn ɡē zhào wǔ dú pīnɡ tínɡ
-筵前欢笑，燕歌赵舞独娉婷㉕。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ɡēnɡ | duì | jiǎ | sì | duì | dīnɡ |
+| 庚 | 对 | 甲①， | 巳 | 对 | 丁。 |
+| |
+| wèi | què | duì | tónɡ | tínɡ |
+| 魏 | 阙 | 对 | 彤 | 庭②。 |
+| |
+| méi | qī | duì | hè | zǐ | zhū | bó | duì | yín | pínɡ |
+| 梅 | 妻 | 对 | 鹤 | 子③， | 珠 | 箔 | 对 | 银 | 屏④。 |
+| |
+| yuān | yù | zhǎo | lù | fēi | tīnɡ |
+| 鸳 | 浴 | 沼⑤， | 鹭 | 飞 | 汀⑥。 |
+| |
+| hónɡ | yàn | duì | jǐ | línɡ |
+| 鸿 | 雁 | 对 | 鹡 | 鸰⑦。 |
+| |
+| rén | jiān | shòu | zhě | xiànɡ | tiān | shànɡ | lǎo | rén | xīnɡ |
+| 人 | 间 | 寿 | 者 | 相⑧， | 天 | 上 | 老 | 人 | 星⑨。 |
+| |
+| bā | yuè | hǎo | xiū | pān | ɡuì | fǔ | sān | chūn | xū | jì | hù | huā | línɡ |
+| 八 | 月 | 好 | 修 | 攀 | 桂 | 斧⑩， | 三 | 春 | 须 | 系 | 护 | 花 | 铃⑪。 |
+| |
+| jiānɡ | ɡé | pínɡ | lín | yì | shuǐ | jìnɡ | lián | tiān | jì | bì 
+| 江 | 阁 | 凭 | 临， | 一 | 水 | 净 | 连 | 天 | 际 | 碧 | ⑫ | ； |
+| |
+| shí | lán | xián | yǐ | qún | shān | xiù | xiànɡ | yǔ | yú | qīnɡ |
+| 石 | 栏 | 闲 | 倚， | 群 | 山 | 秀 | 向 | 雨 | 余 | 青⑬。 |
+| |
+| wēi | duì | luàn | tài | duì | nínɡ |
+| 危 | 对 | 乱， | 泰 | 对 | 宁。 |
+| |
+| nà | bì | duì | qū | tínɡ |
+| 纳 | 陛 | 对 | 趋 | 庭⑭。 |
+| |
+| jīn | pán | duì | yù | zhù | fán | ɡěnɡ | duì | fú | pínɡ |
+| 金 | 盘 | 对 | 玉 | 箸⑮， | 泛 | 梗 | 对 | 浮 | 萍⑯。 |
+| |
+| qún | yù | pǔ | zhònɡ | fānɡ | tínɡ |
+| 群 | 玉 | 圃⑰， | 众 | 芳 | 亭⑱。 |
+| |
+| jiù | diǎn | duì | xīn | xínɡ |
+| 旧 | 典 | 对 | 新 | 型⑲。 |
+| |
+| qí | niú | xián | dú | shǐ | mù | shǐ | zì | hénɡ | jīnɡ |
+| 骑 | 牛 | 闲 | 读 | 史⑳， | 牧 | 豕 | 自 | 横 | 经㉑。 |
+| |
+| qiū | shǒu | tián | zhōnɡ | hé | yǐnɡ | zhònɡ | chūn | yú | yuán | nèi | cài | huā | xīn |
+| 秋 | 首 | 田 | 中 | 禾 | 颖 | 重㉒， | 春 | 余 | 园 | 内 | 菜 | 花 | 馨㉓。 |
+| |
+| lǚ | cì | qī | liánɡ | sāi | yuè | jiānɡ | fēnɡ | jiē | cǎn | dàn 
+| 旅 | 次 | 凄 | 凉， | 塞 | 月 | 江 | 风 | 皆 | 惨 | 淡 | ㉔ | ； |
+| |
+| yán | qián | huān | xiào | yàn | ɡē | zhào | wǔ | dú | pīnɡ | tínɡ |
+| 筵 | 前 | 欢 | 笑， | 燕 | 歌 | 赵 | 舞 | 独 | 娉 | 婷㉕。 |
 
 注解
 
@@ -4198,59 +4249,61 @@ yán qián huān xiào yàn ɡē zhào wǔ dú pīnɡ tínɡ
 
 十　蒸
 
-pín duì liǎo pú duì línɡ
-苹对蓼①，莆对菱②。
-
-yàn yì duì yú zēnɡ
-雁弋对鱼罾③。
-
-qí wán duì lǔ qǐ shǔ jǐn duì wú línɡ
-齐纨对鲁绮④，蜀锦对吴绫⑤。
-
-xīnɡ jiàn mò rì chū shēnɡ
-星渐没⑥，日初升⑦。
-
-jiǔ pìn duì sān zhēnɡ
-九聘对三征⑧。
-
-xiāo hé cénɡ zuò lì jiǎ dǎo xī wéi sēnɡ
-萧何曾作吏⑨，贾岛昔为僧⑩。
-
-xián rén shì lǚ xún ɡuī jǔ dà jiànɡ huī jīn jiào zhǔn shénɡ
-贤人视履循规矩⑪，大匠挥斤校准绳⑫。
-
-yě dù chūn fēnɡ rén xǐ chénɡ cháo yí jiǔ fǎnɡ 
-野渡春风，人喜乘潮移酒舫⑬；
-
-jiānɡ tiān mù yǔ kè chóu ɡé àn duì yú dēnɡ
-江天暮雨，客愁隔岸对渔灯⑭。
-
-tán duì tǔ wèi duì chēnɡ
-谈对吐，谓对称。
-
-rǎn mǐn duì yán zēnɡ
-冉闵对颜曾⑮。
-
-hóu yínɡ duì bó pǐ zǔ tì duì sūn dēnɡ
-侯嬴对伯嚭⑯，祖逖对孙登⑰。
-
-pāo bái zhù yàn hónɡ línɡ
-抛白纻⑱，宴红绫⑲。
-
-shènɡ yǒu duì liánɡ pénɡ
-胜友对良朋⑳。
-
-zhēnɡ mínɡ rú zhú lù móu lì sì qū yínɡ
-争名如逐鹿㉑，谋利似趋蝇㉒。
-
-rén jié yí cán zhōu bù shì wánɡ línɡ mǔ shí hàn fānɡ xīnɡ
-仁杰姨惭周不仕㉓，王陵母识汉方兴㉔。
-
-jù xiě qiónɡ chóu huàn huā jì jì chuán ɡōnɡ bù 
-句写穷愁，浣花寄迹传工部㉕；
-
-shī yín biàn luàn nínɡ bì shānɡ xīn tàn yòu chénɡ
-诗吟变乱，凝碧伤心叹右丞㉖。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| pín | duì | liǎo | pú | duì | línɡ |
+| 苹 | 对 | 蓼①， | 莆 | 对 | 菱②。 |
+| |
+| yàn | yì | duì | yú | zēnɡ |
+| 雁 | 弋 | 对 | 鱼 | 罾③。 |
+| |
+| qí | wán | duì | lǔ | qǐ | shǔ | jǐn | duì | wú | línɡ |
+| 齐 | 纨 | 对 | 鲁 | 绮④， | 蜀 | 锦 | 对 | 吴 | 绫⑤。 |
+| |
+| xīnɡ | jiàn | mò | rì | chū | shēnɡ |
+| 星 | 渐 | 没⑥， | 日 | 初 | 升⑦。 |
+| |
+| jiǔ | pìn | duì | sān | zhēnɡ |
+| 九 | 聘 | 对 | 三 | 征⑧。 |
+| |
+| xiāo | hé | cénɡ | zuò | lì | jiǎ | dǎo | xī | wéi | sēnɡ |
+| 萧 | 何 | 曾 | 作 | 吏⑨， | 贾 | 岛 | 昔 | 为 | 僧⑩。 |
+| |
+| xián | rén | shì | lǚ | xún | ɡuī | jǔ | dà | jiànɡ | huī | jīn | jiào | zhǔn | shénɡ |
+| 贤 | 人 | 视 | 履 | 循 | 规 | 矩⑪， | 大 | 匠 | 挥 | 斤 | 校 | 准 | 绳⑫。 |
+| |
+| yě | dù | chūn | fēnɡ | rén | xǐ | chénɡ | cháo | yí | jiǔ | fǎnɡ 
+| 野 | 渡 | 春 | 风， | 人 | 喜 | 乘 | 潮 | 移 | 酒 | 舫 | ⑬ | ； |
+| |
+| jiānɡ | tiān | mù | yǔ | kè | chóu | ɡé | àn | duì | yú | dēnɡ |
+| 江 | 天 | 暮 | 雨， | 客 | 愁 | 隔 | 岸 | 对 | 渔 | 灯⑭。 |
+| |
+| tán | duì | tǔ | wèi | duì | chēnɡ |
+| 谈 | 对 | 吐， | 谓 | 对 | 称。 |
+| |
+| rǎn | mǐn | duì | yán | zēnɡ |
+| 冉 | 闵 | 对 | 颜 | 曾⑮。 |
+| |
+| hóu | yínɡ | duì | bó | pǐ | zǔ | tì | duì | sūn | dēnɡ |
+| 侯 | 嬴 | 对 | 伯 | 嚭⑯， | 祖 | 逖 | 对 | 孙 | 登⑰。 |
+| |
+| pāo | bái | zhù | yàn | hónɡ | línɡ |
+| 抛 | 白 | 纻⑱， | 宴 | 红 | 绫⑲。 |
+| |
+| shènɡ | yǒu | duì | liánɡ | pénɡ |
+| 胜 | 友 | 对 | 良 | 朋⑳。 |
+| |
+| zhēnɡ | mínɡ | rú | zhú | lù | móu | lì | sì | qū | yínɡ |
+| 争 | 名 | 如 | 逐 | 鹿㉑， | 谋 | 利 | 似 | 趋 | 蝇㉒。 |
+| |
+| rén | jié | yí | cán | zhōu | bù | shì | wánɡ | línɡ | mǔ | shí | hàn | fānɡ | xīnɡ |
+| 仁 | 杰 | 姨 | 惭 | 周 | 不 | 仕㉓， | 王 | 陵 | 母 | 识 | 汉 | 方 | 兴㉔。 |
+| |
+| jù | xiě | qiónɡ | chóu | huàn | huā | jì | jì | chuán | ɡōnɡ | bù 
+| 句 | 写 | 穷 | 愁， | 浣 | 花 | 寄 | 迹 | 传 | 工 | 部 | ㉕ | ； |
+| |
+| shī | yín | biàn | luàn | nínɡ | bì | shānɡ | xīn | tàn | yòu | chénɡ |
+| 诗 | 吟 | 变 | 乱， | 凝 | 碧 | 伤 | 心 | 叹 | 右 | 丞㉖。 |
 
 注解
 
@@ -4320,86 +4373,88 @@ shī yín biàn luàn nínɡ bì shānɡ xīn tàn yòu chénɡ
 
 十一　尤
 
-rónɡ duì rǔ xǐ duì yōu
-荣对辱，喜对忧。
-
-qiǎn quǎn duì chóu móu
-缱绻对绸缪①。
-
-wú wá duì yuè nǚ yě mǎ duì shā ōu
-吴娃对越女②，野马对沙鸥③。
-
-chá jiě kě jiǔ xiāo chóu
-茶解渴④，酒消愁⑤。
-
-bái yǎn duì cānɡ tóu
-白眼对苍头⑥。
-
-mǎ qiān xiū shǐ jì kǒnɡ zǐ zuò chūn qiū
-马迁修史记⑦，孔子作春秋⑧。
-
-shēn yě ɡēnɡ fū xián jǔ sì wèi bīn yú fū wǎn chuí ɡōu
-莘野耕夫闲举耜⑨，渭滨渔夫晚垂钩⑩。
-
-lónɡ mǎ yóu hé xī dì yīn tú ér huà ɡuà 
-龙马游河，羲帝因图而画卦⑪；
-
-shén ɡuī chū luò yǔ wánɡ qǔ fǎ yǐ mínɡ chóu
-神龟出洛，禹王取法以明畴⑫。
-
-ɡuān duì lǚ xì duì qiú
-冠对履⑬，舄对裘⑭。
-
-yuàn xiǎo duì tínɡ yōu
-院小对庭幽⑮。
-
-miàn qiánɡ duì xī dì cuò zhì duì liánɡ chóu
-面墙对膝地⑯，错智对良筹⑰。
-
-ɡū zhànɡ sǒnɡ dà jiānɡ liú
-孤嶂耸⑱，大江流⑲。
-
-fānɡ zé
-方泽（入声）对duì圜huán丘qiū⑳。
-
-huā tán lái yuè chànɡ liǔ yǔ qǐ wú ōu
-花潭来越唱，柳屿起吴讴㉑。
-
-yīnɡ lǎn yàn mánɡ sān yuè yǔ qiónɡ cuī chán tuì yì tiān qiū
-莺懒燕忙三月雨㉒，蛩摧蝉退一天秋㉓。
-
-zhōnɡ zǐ tīnɡ qín huānɡ jìnɡ rù lín shān jì jì 
-钟子听琴，荒径入林山寂寂㉔；
-
-zhé xiān zhuō yuè hónɡ tāo jiē àn shuǐ yōu yōu
-谪仙捉月，洪涛接岸水悠悠㉕。
-
-yú duì niǎo jí duì jiū
-鱼对鸟，鹡对鸠㉖。
-
-cuì ɡuǎn duì hónɡ lóu
-翠馆对红楼㉗。
-
-qī xián duì sān yǒu ài rì duì bēi qiū
-七贤对三友㉘，爱日对悲秋㉙。
-
-hǔ lèi ɡǒu yǐ rú niú
-虎类狗㉚，蚁如牛㉛。
-
-liè bì duì zhū hóu
-列辟对诸侯㉜。
-
-chén chànɡ lín chūn yuè suí ɡē qīnɡ yè yóu
-陈唱临春乐㉝，隋歌清夜游㉞。
-
-kōnɡ zhōnɡ shì yè qí lín ɡé dì xià wén zhānɡ yīnɡ wǔ zhōu
-空中事业麒麟阁㉟，地下文章鹦鹉洲㊱。
-
-kuànɡ yě pínɡ yuán liè shì mǎ tí qīnɡ sì jiàn 
-旷野平原，猎士马蹄轻似箭㊲；
-
-xié fēnɡ xì yǔ mù tónɡ niú bèi wěn rú zhōu
-斜风细雨，牧童牛背稳如舟㊳。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| rónɡ | duì | rǔ | xǐ | duì | yōu |
+| 荣 | 对 | 辱， | 喜 | 对 | 忧。 |
+| |
+| qiǎn | quǎn | duì | chóu | móu |
+| 缱 | 绻 | 对 | 绸 | 缪①。 |
+| |
+| wú | wá | duì | yuè | nǚ | yě | mǎ | duì | shā | ōu |
+| 吴 | 娃 | 对 | 越 | 女②， | 野 | 马 | 对 | 沙 | 鸥③。 |
+| |
+| chá | jiě | kě | jiǔ | xiāo | chóu |
+| 茶 | 解 | 渴④， | 酒 | 消 | 愁⑤。 |
+| |
+| bái | yǎn | duì | cānɡ | tóu |
+| 白 | 眼 | 对 | 苍 | 头⑥。 |
+| |
+| mǎ | qiān | xiū | shǐ | jì | kǒnɡ | zǐ | zuò | chūn | qiū |
+| 马 | 迁 | 修 | 史 | 记⑦， | 孔 | 子 | 作 | 春 | 秋⑧。 |
+| |
+| shēn | yě | ɡēnɡ | fū | xián | jǔ | sì | wèi | bīn | yú | fū | wǎn | chuí | ɡōu |
+| 莘 | 野 | 耕 | 夫 | 闲 | 举 | 耜⑨， | 渭 | 滨 | 渔 | 夫 | 晚 | 垂 | 钩⑩。 |
+| |
+| lónɡ | mǎ | yóu | hé | xī | dì | yīn | tú | ér | huà | ɡuà 
+| 龙 | 马 | 游 | 河， | 羲 | 帝 | 因 | 图 | 而 | 画 | 卦 | ⑪ | ； |
+| |
+| shén | ɡuī | chū | luò | yǔ | wánɡ | qǔ | fǎ | yǐ | mínɡ | chóu |
+| 神 | 龟 | 出 | 洛， | 禹 | 王 | 取 | 法 | 以 | 明 | 畴⑫。 |
+| |
+| ɡuān | duì | lǚ | xì | duì | qiú |
+| 冠 | 对 | 履⑬， | 舄 | 对 | 裘⑭。 |
+| |
+| yuàn | xiǎo | duì | tínɡ | yōu |
+| 院 | 小 | 对 | 庭 | 幽⑮。 |
+| |
+| miàn | qiánɡ | duì | xī | dì | cuò | zhì | duì | liánɡ | chóu |
+| 面 | 墙 | 对 | 膝 | 地⑯， | 错 | 智 | 对 | 良 | 筹⑰。 |
+| |
+| ɡū | zhànɡ | sǒnɡ | dà | jiānɡ | liú |
+| 孤 | 嶂 | 耸⑱， | 大 | 江 | 流⑲。 |
+| |
+| fānɡ | zé | duì | huán | qiū |
+| 方 | 泽 | （ | 入 | 声 | ） | 对 | 圜 | 丘⑳。 |
+| |
+| huā | tán | lái | yuè | chànɡ | liǔ | yǔ | qǐ | wú | ōu |
+| 花 | 潭 | 来 | 越 | 唱， | 柳 | 屿 | 起 | 吴 | 讴㉑。 |
+| |
+| yīnɡ | lǎn | yàn | mánɡ | sān | yuè | yǔ | qiónɡ | cuī | chán | tuì | yì | tiān | qiū |
+| 莺 | 懒 | 燕 | 忙 | 三 | 月 | 雨㉒， | 蛩 | 摧 | 蝉 | 退 | 一 | 天 | 秋㉓。 |
+| |
+| zhōnɡ | zǐ | tīnɡ | qín | huānɡ | jìnɡ | rù | lín | shān | jì | jì 
+| 钟 | 子 | 听 | 琴， | 荒 | 径 | 入 | 林 | 山 | 寂 | 寂 | ㉔ | ； |
+| |
+| zhé | xiān | zhuō | yuè | hónɡ | tāo | jiē | àn | shuǐ | yōu | yōu |
+| 谪 | 仙 | 捉 | 月， | 洪 | 涛 | 接 | 岸 | 水 | 悠 | 悠㉕。 |
+| |
+| yú | duì | niǎo | jí | duì | jiū |
+| 鱼 | 对 | 鸟， | 鹡 | 对 | 鸠㉖。 |
+| |
+| cuì | ɡuǎn | duì | hónɡ | lóu |
+| 翠 | 馆 | 对 | 红 | 楼㉗。 |
+| |
+| qī | xián | duì | sān | yǒu | ài | rì | duì | bēi | qiū |
+| 七 | 贤 | 对 | 三 | 友㉘， | 爱 | 日 | 对 | 悲 | 秋㉙。 |
+| |
+| hǔ | lèi | ɡǒu | yǐ | rú | niú |
+| 虎 | 类 | 狗㉚， | 蚁 | 如 | 牛㉛。 |
+| |
+| liè | bì | duì | zhū | hóu |
+| 列 | 辟 | 对 | 诸 | 侯㉜。 |
+| |
+| chén | chànɡ | lín | chūn | yuè | suí | ɡē | qīnɡ | yè | yóu |
+| 陈 | 唱 | 临 | 春 | 乐㉝， | 隋 | 歌 | 清 | 夜 | 游㉞。 |
+| |
+| kōnɡ | zhōnɡ | shì | yè | qí | lín | ɡé | dì | xià | wén | zhānɡ | yīnɡ | wǔ | zhōu |
+| 空 | 中 | 事 | 业 | 麒 | 麟 | 阁㉟， | 地 | 下 | 文 | 章 | 鹦 | 鹉 | 洲㊱。 |
+| |
+| kuànɡ | yě | pínɡ | yuán | liè | shì | mǎ | tí | qīnɡ | sì | jiàn 
+| 旷 | 野 | 平 | 原， | 猎 | 士 | 马 | 蹄 | 轻 | 似 | 箭 | ㊲ | ； |
+| |
+| xié | fēnɡ | xì | yǔ | mù | tónɡ | niú | bèi | wěn | rú | zhōu |
+| 斜 | 风 | 细 | 雨， | 牧 | 童 | 牛 | 背 | 稳 | 如 | 舟㊳。 |
 
 注解
 
@@ -4483,59 +4538,61 @@ xié fēnɡ xì yǔ mù tónɡ niú bèi wěn rú zhōu
 
 十二　侵
 
-ɡē duì qǔ xiào duì yín
-歌对曲，啸对吟。
-
-wǎnɡ ɡǔ duì lái jīn
-往古对来今①。
-
-shān tóu duì shuǐ miàn yuǎn pǔ duì yáo cén
-山头对水面，远浦对遥岑②。
-
-qín sān shànɡ xī cùn yīn
-勤三上③，惜寸阴④。
-
-mào shù duì pínɡ lín
-茂树对平林⑤。
-
-biàn hé sān xiàn yù yánɡ zhèn sì zhī jīn
-卞和三献玉⑥，杨震四知金⑦。
-
-qīnɡ huánɡ fēnɡ nuǎn cuī fānɡ cǎo bái dì chénɡ ɡāo jí mù zhēn
-青皇风暖催芳草⑧，白帝城高急暮砧⑨。
-
-xiù hǔ diāo lónɡ cái zǐ chuānɡ qián huī cǎi bǐ 
-绣虎雕龙，才子窗前挥彩笔⑩；
-
-miáo luán cì fènɡ jiā rén lián xià dù jīn zhēn
-描鸾刺凤，佳人帘下度金针⑪。
-
-dēnɡ duì tiào shè duì lín
-登对眺，涉对临⑫。
-
-ruì xuě duì ɡān lín
-瑞雪对甘霖⑬。
-
-zhǔ huān duì mín lè jiāo qiǎn duì yán shēn
-主欢对民乐⑭，交浅对言深⑮。
-
-chǐ sān zhàn lè qī qín
-耻三战⑯，乐七擒⑰。
-
-ɡù qǔ duì zhī yīn
-顾曲对知音⑱。
-
-dà chē xínɡ kǎn kǎn sì mǎ zhòu qīn qīn
-大车行槛槛⑲，驷马骤骎骎⑳。
-
-zǐ diàn qīnɡ hónɡ ténɡ jiàn qì ɡāo shān liú shuǐ shí qín xīn
-紫电青虹腾剑气㉑，高山流水识琴心㉒。
-
-qū zǐ huái jūn jí pǔ yín fēnɡ bēi zé pàn 
-屈子怀君，极浦吟风悲泽畔㉓；
-
-wánɡ lánɡ yì yǒu piān zhōu wò xuě fǎnɡ shān yīn
-王郎忆友，扁舟卧雪访山阴㉔。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ɡē | duì | qǔ | xiào | duì | yín |
+| 歌 | 对 | 曲， | 啸 | 对 | 吟。 |
+| |
+| wǎnɡ | ɡǔ | duì | lái | jīn |
+| 往 | 古 | 对 | 来 | 今①。 |
+| |
+| shān | tóu | duì | shuǐ | miàn | yuǎn | pǔ | duì | yáo | cén |
+| 山 | 头 | 对 | 水 | 面， | 远 | 浦 | 对 | 遥 | 岑②。 |
+| |
+| qín | sān | shànɡ | xī | cùn | yīn |
+| 勤 | 三 | 上③， | 惜 | 寸 | 阴④。 |
+| |
+| mào | shù | duì | pínɡ | lín |
+| 茂 | 树 | 对 | 平 | 林⑤。 |
+| |
+| biàn | hé | sān | xiàn | yù | yánɡ | zhèn | sì | zhī | jīn |
+| 卞 | 和 | 三 | 献 | 玉⑥， | 杨 | 震 | 四 | 知 | 金⑦。 |
+| |
+| qīnɡ | huánɡ | fēnɡ | nuǎn | cuī | fānɡ | cǎo | bái | dì | chénɡ | ɡāo | jí | mù | zhēn |
+| 青 | 皇 | 风 | 暖 | 催 | 芳 | 草⑧， | 白 | 帝 | 城 | 高 | 急 | 暮 | 砧⑨。 |
+| |
+| xiù | hǔ | diāo | lónɡ | cái | zǐ | chuānɡ | qián | huī | cǎi | bǐ 
+| 绣 | 虎 | 雕 | 龙， | 才 | 子 | 窗 | 前 | 挥 | 彩 | 笔 | ⑩ | ； |
+| |
+| miáo | luán | cì | fènɡ | jiā | rén | lián | xià | dù | jīn | zhēn |
+| 描 | 鸾 | 刺 | 凤， | 佳 | 人 | 帘 | 下 | 度 | 金 | 针⑪。 |
+| |
+| dēnɡ | duì | tiào | shè | duì | lín |
+| 登 | 对 | 眺， | 涉 | 对 | 临⑫。 |
+| |
+| ruì | xuě | duì | ɡān | lín |
+| 瑞 | 雪 | 对 | 甘 | 霖⑬。 |
+| |
+| zhǔ | huān | duì | mín | lè | jiāo | qiǎn | duì | yán | shēn |
+| 主 | 欢 | 对 | 民 | 乐⑭， | 交 | 浅 | 对 | 言 | 深⑮。 |
+| |
+| chǐ | sān | zhàn | lè | qī | qín |
+| 耻 | 三 | 战⑯， | 乐 | 七 | 擒⑰。 |
+| |
+| ɡù | qǔ | duì | zhī | yīn |
+| 顾 | 曲 | 对 | 知 | 音⑱。 |
+| |
+| dà | chē | xínɡ | kǎn | kǎn | sì | mǎ | zhòu | qīn | qīn |
+| 大 | 车 | 行 | 槛 | 槛⑲， | 驷 | 马 | 骤 | 骎 | 骎⑳。 |
+| |
+| zǐ | diàn | qīnɡ | hónɡ | ténɡ | jiàn | qì | ɡāo | shān | liú | shuǐ | shí | qín | xīn |
+| 紫 | 电 | 青 | 虹 | 腾 | 剑 | 气㉑， | 高 | 山 | 流 | 水 | 识 | 琴 | 心㉒。 |
+| |
+| qū | zǐ | huái | jūn | jí | pǔ | yín | fēnɡ | bēi | zé | pàn 
+| 屈 | 子 | 怀 | 君， | 极 | 浦 | 吟 | 风 | 悲 | 泽 | 畔 | ㉓ | ； |
+| |
+| wánɡ | lánɡ | yì | yǒu | piān | zhōu | wò | xuě | fǎnɡ | shān | yīn |
+| 王 | 郎 | 忆 | 友， | 扁 | 舟 | 卧 | 雪 | 访 | 山 | 阴㉔。 |
 
 注解
 
@@ -4597,59 +4654,61 @@ wánɡ lánɡ yì yǒu piān zhōu wò xuě fǎnɡ shān yīn
 
 十三　覃
 
-ɡōnɡ duì què zuò duì kān
-宫对阙①，座对龛②。
-
-shuǐ běi duì tiān nán
-水北对天南。
-
-shèn lóu duì yǐ jùn wěi lùn duì ɡāo tán
-蜃楼对蚁郡③，伟论对高谈④。
-
-lín qǐ zǐ shù pián nán
-遴杞梓⑤，树楩楠⑥。
-
-dé yī duì hán sān
-得一对函三⑦。
-
-bā bǎo shān hú zhěn shuānɡ zhū dài mào zān
-八宝珊瑚枕⑧，双珠玳瑁簪⑨。
-
-xiāo wánɡ dài shì xīn wéi chì lú xiànɡ qī jūn miàn dú lán
-萧王待士心惟赤⑩，卢相欺君面独蓝⑪。
-
-jiǎ dǎo shī kuánɡ shǒu nǐ qiāo mén xínɡ chù xiǎnɡ 
-贾岛诗狂，手拟敲门行处想⑫；
-
-zhānɡ diān cǎo shènɡ tóu nénɡ rú mò xiě shí hān
-张颠草圣，头能濡墨写时酣⑬。
-
-wén duì jiàn jiě duì ān
-闻对见，解对谙⑭。
-
-sān jú duì shuānɡ ɡān
-三橘对双柑⑮。
-
-huánɡ tónɡ duì bái sǒu jìnɡ nǚ duì qí nán
-黄童对白叟⑯，静女对奇男⑰。
-
-qiū qī qī jìnɡ sān sān
-秋七七⑱，径三三⑲。
-
-hǎi sè duì shān lán
-海色对山岚⑳。
-
-luán shēnɡ hé huì huì hǔ shì zhènɡ dān dān
-鸾声何哕哕㉑，虎视正眈眈㉒。
-
-yí fēnɡ jiānɡ lì zhī ní fù hán ɡǔ ɡuān rén shí lǎo dān
-仪封疆吏知尼父㉓，函谷关人识老聃㉔。
-
-jiānɡ xiànɡ ɡuī chí zhǐ shuǐ zì ménɡ zhēn shì zhǐ 
-江相归池，止水自盟真是止㉕；
-
-wú ɡōnɡ zuò zǎi tān quán suī yǐn yì hé tān
-吴公作宰，贪泉虽饮亦何贪㉖？
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ɡōnɡ | duì | què | zuò | duì | kān |
+| 宫 | 对 | 阙①， | 座 | 对 | 龛②。 |
+| |
+| shuǐ | běi | duì | tiān | nán |
+| 水 | 北 | 对 | 天 | 南。 |
+| |
+| shèn | lóu | duì | yǐ | jùn | wěi | lùn | duì | ɡāo | tán |
+| 蜃 | 楼 | 对 | 蚁 | 郡③， | 伟 | 论 | 对 | 高 | 谈④。 |
+| |
+| lín | qǐ | zǐ | shù | pián | nán |
+| 遴 | 杞 | 梓⑤， | 树 | 楩 | 楠⑥。 |
+| |
+| dé | yī | duì | hán | sān |
+| 得 | 一 | 对 | 函 | 三⑦。 |
+| |
+| bā | bǎo | shān | hú | zhěn | shuānɡ | zhū | dài | mào | zān |
+| 八 | 宝 | 珊 | 瑚 | 枕⑧， | 双 | 珠 | 玳 | 瑁 | 簪⑨。 |
+| |
+| xiāo | wánɡ | dài | shì | xīn | wéi | chì | lú | xiànɡ | qī | jūn | miàn | dú | lán |
+| 萧 | 王 | 待 | 士 | 心 | 惟 | 赤⑩， | 卢 | 相 | 欺 | 君 | 面 | 独 | 蓝⑪。 |
+| |
+| jiǎ | dǎo | shī | kuánɡ | shǒu | nǐ | qiāo | mén | xínɡ | chù | xiǎnɡ 
+| 贾 | 岛 | 诗 | 狂， | 手 | 拟 | 敲 | 门 | 行 | 处 | 想 | ⑫ | ； |
+| |
+| zhānɡ | diān | cǎo | shènɡ | tóu | nénɡ | rú | mò | xiě | shí | hān |
+| 张 | 颠 | 草 | 圣， | 头 | 能 | 濡 | 墨 | 写 | 时 | 酣⑬。 |
+| |
+| wén | duì | jiàn | jiě | duì | ān |
+| 闻 | 对 | 见， | 解 | 对 | 谙⑭。 |
+| |
+| sān | jú | duì | shuānɡ | ɡān |
+| 三 | 橘 | 对 | 双 | 柑⑮。 |
+| |
+| huánɡ | tónɡ | duì | bái | sǒu | jìnɡ | nǚ | duì | qí | nán |
+| 黄 | 童 | 对 | 白 | 叟⑯， | 静 | 女 | 对 | 奇 | 男⑰。 |
+| |
+| qiū | qī | qī | jìnɡ | sān | sān |
+| 秋 | 七 | 七⑱， | 径 | 三 | 三⑲。 |
+| |
+| hǎi | sè | duì | shān | lán |
+| 海 | 色 | 对 | 山 | 岚⑳。 |
+| |
+| luán | shēnɡ | hé | huì | huì | hǔ | shì | zhènɡ | dān | dān |
+| 鸾 | 声 | 何 | 哕 | 哕㉑， | 虎 | 视 | 正 | 眈 | 眈㉒。 |
+| |
+| yí | fēnɡ | jiānɡ | lì | zhī | ní | fù | hán | ɡǔ | ɡuān | rén | shí | lǎo | dān |
+| 仪 | 封 | 疆 | 吏 | 知 | 尼 | 父㉓， | 函 | 谷 | 关 | 人 | 识 | 老 | 聃㉔。 |
+| |
+| jiānɡ | xiànɡ | ɡuī | chí | zhǐ | shuǐ | zì | ménɡ | zhēn | shì | zhǐ 
+| 江 | 相 | 归 | 池， | 止 | 水 | 自 | 盟 | 真 | 是 | 止 | ㉕ | ； |
+| |
+| wú | ɡōnɡ | zuò | zǎi | tān | quán | suī | yǐn | yì | hé | tān |
+| 吴 | 公 | 作 | 宰， | 贪 | 泉 | 虽 | 饮 | 亦 | 何 | 贪 | ㉖ | ？ |
 
 注解
 
@@ -4709,86 +4768,88 @@ wú ɡōnɡ zuò zǎi tān quán suī yǐn yì hé tān
 
 十四　盐
 
-kuān duì měnɡ lěnɡ duì yán
-宽对猛①，冷对炎。
-
-qīnɡ zhí duì zūn yán
-清直对尊严②。
-
-yún tóu duì yǔ jiǎo hè fā duì lónɡ rán
-云头对雨脚③，鹤发对龙髯④。
-
-fēnɡ tái jiàn sù tánɡ lián
-风台谏⑤，肃堂廉⑥。
-
-bǎo tài duì mínɡ qiān
-保泰对鸣谦⑦。
-
-wǔ hú ɡuī fàn lǐ sān jìnɡ yǐn táo qián
-五湖归范蠡⑧，三径隐陶潜⑨。
-
-yí jiàn chénɡ ɡōnɡ kān pèi yìn bǎi qián mǎn ɡuà biàn chuí lián
-一剑成功堪佩印⑩，百钱满卦便垂帘⑪。
-
-zhuó jiǔ tínɡ bēi rónɡ wǒ bàn hān chóu jì yǐn 
-浊酒停杯，容我半酣愁际饮⑫；
-
-hǎo huā bànɡ zuò kàn tā wēi xiào wù shí niān
-好花傍座，看他微笑悟时拈⑬。
-
-lián duì duàn jiǎn duì tiān
-连对断，减对添。
-
-dàn bó duì ān tián
-淡泊对安恬⑭。
-
-huí tóu duì jí mù shuǐ dǐ duì shān jiān
-回头对极目⑮，水底对山尖⑯。
-
-yāo niǎo niǎo shǒu xiān xiān
-腰袅袅⑰，手纤纤⑱。
-
-fènɡ bǔ duì luán zhān
-凤卜对鸾占⑲。
-
-kāi tián duō zhǒnɡ sù zhǔ hǎi jìn chénɡ yán
-开田多种粟⑳，煮海尽成盐㉑。
-
-jū tónɡ jiǔ shì zhānɡ ɡōnɡ yì ēn jǐ qiān rén fàn zhònɡ yān
-居同九世张公艺㉒，恩给千人范仲淹㉓。
-
-xiāo nònɡ fènɡ lái qín nǚ yǒu yuán nénɡ kuà yǔ 
-箫弄凤来，秦女有缘能跨羽㉔；
-
-dǐnɡ chénɡ lónɡ qù xuān chén wú jì dé pān rán
-鼎成龙去，轩臣无计得攀髯㉕。
-
-rén duì jǐ ài duì xián
-人对己，爱对嫌。
-
-jǔ zhǐ duì ɡuān zhān
-举止对观瞻。
-
-sì zhī duì sān yǔ yì zhènɡ duì cí yán
-四知对三语㉖，义正对辞严㉗。
-
-qín xuě àn kè fēnɡ yán
-勤雪案㉘，课风檐㉙。
-
-lòu jiàn duì shū jiān
-漏箭对书笺㉚。
-
-wén fán ɡuī tǎ jì tǐ yàn bié xiānɡ lián
-文繁归獭祭㉛，体艳别香奁㉜。
-
-zuó yè tí shī ɡēnɡ yí zì zǎo chūn lái yàn juǎn chónɡ lián
-昨夜题诗更一字㉝，早春来燕卷重帘㉞。
-
-shī yǐ shǐ mínɡ chóu li bēi ɡē huái dù fǔ 
-诗以史名，愁里悲歌怀杜甫㉟；
-
-bǐ jīnɡ rén suǒ mènɡ zhōnɡ xiǎn huì lǎo jiānɡ yān
-笔经人索，梦中显晦老江淹㊱。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| kuān | duì | měnɡ | lěnɡ | duì | yán |
+| 宽 | 对 | 猛①， | 冷 | 对 | 炎。 |
+| |
+| qīnɡ | zhí | duì | zūn | yán |
+| 清 | 直 | 对 | 尊 | 严②。 |
+| |
+| yún | tóu | duì | yǔ | jiǎo | hè | fā | duì | lónɡ | rán |
+| 云 | 头 | 对 | 雨 | 脚③， | 鹤 | 发 | 对 | 龙 | 髯④。 |
+| |
+| fēnɡ | tái | jiàn | sù | tánɡ | lián |
+| 风 | 台 | 谏⑤， | 肃 | 堂 | 廉⑥。 |
+| |
+| bǎo | tài | duì | mínɡ | qiān |
+| 保 | 泰 | 对 | 鸣 | 谦⑦。 |
+| |
+| wǔ | hú | ɡuī | fàn | lǐ | sān | jìnɡ | yǐn | táo | qián |
+| 五 | 湖 | 归 | 范 | 蠡⑧， | 三 | 径 | 隐 | 陶 | 潜⑨。 |
+| |
+| yí | jiàn | chénɡ | ɡōnɡ | kān | pèi | yìn | bǎi | qián | mǎn | ɡuà | biàn | chuí | lián |
+| 一 | 剑 | 成 | 功 | 堪 | 佩 | 印⑩， | 百 | 钱 | 满 | 卦 | 便 | 垂 | 帘⑪。 |
+| |
+| zhuó | jiǔ | tínɡ | bēi | rónɡ | wǒ | bàn | hān | chóu | jì | yǐn 
+| 浊 | 酒 | 停 | 杯， | 容 | 我 | 半 | 酣 | 愁 | 际 | 饮 | ⑫ | ； |
+| |
+| hǎo | huā | bànɡ | zuò | kàn | tā | wēi | xiào | wù | shí | niān |
+| 好 | 花 | 傍 | 座， | 看 | 他 | 微 | 笑 | 悟 | 时 | 拈⑬。 |
+| |
+| lián | duì | duàn | jiǎn | duì | tiān |
+| 连 | 对 | 断， | 减 | 对 | 添。 |
+| |
+| dàn | bó | duì | ān | tián |
+| 淡 | 泊 | 对 | 安 | 恬⑭。 |
+| |
+| huí | tóu | duì | jí | mù | shuǐ | dǐ | duì | shān | jiān |
+| 回 | 头 | 对 | 极 | 目⑮， | 水 | 底 | 对 | 山 | 尖⑯。 |
+| |
+| yāo | niǎo | niǎo | shǒu | xiān | xiān |
+| 腰 | 袅 | 袅⑰， | 手 | 纤 | 纤⑱。 |
+| |
+| fènɡ | bǔ | duì | luán | zhān |
+| 凤 | 卜 | 对 | 鸾 | 占⑲。 |
+| |
+| kāi | tián | duō | zhǒnɡ | sù | zhǔ | hǎi | jìn | chénɡ | yán |
+| 开 | 田 | 多 | 种 | 粟⑳， | 煮 | 海 | 尽 | 成 | 盐㉑。 |
+| |
+| jū | tónɡ | jiǔ | shì | zhānɡ | ɡōnɡ | yì | ēn | jǐ | qiān | rén | fàn | zhònɡ | yān |
+| 居 | 同 | 九 | 世 | 张 | 公 | 艺㉒， | 恩 | 给 | 千 | 人 | 范 | 仲 | 淹㉓。 |
+| |
+| xiāo | nònɡ | fènɡ | lái | qín | nǚ | yǒu | yuán | nénɡ | kuà | yǔ 
+| 箫 | 弄 | 凤 | 来， | 秦 | 女 | 有 | 缘 | 能 | 跨 | 羽 | ㉔ | ； |
+| |
+| dǐnɡ | chénɡ | lónɡ | qù | xuān | chén | wú | jì | dé | pān | rán |
+| 鼎 | 成 | 龙 | 去， | 轩 | 臣 | 无 | 计 | 得 | 攀 | 髯㉕。 |
+| |
+| rén | duì | jǐ | ài | duì | xián |
+| 人 | 对 | 己， | 爱 | 对 | 嫌。 |
+| |
+| jǔ | zhǐ | duì | ɡuān | zhān |
+| 举 | 止 | 对 | 观 | 瞻。 |
+| |
+| sì | zhī | duì | sān | yǔ | yì | zhènɡ | duì | cí | yán |
+| 四 | 知 | 对 | 三 | 语㉖， | 义 | 正 | 对 | 辞 | 严㉗。 |
+| |
+| qín | xuě | àn | kè | fēnɡ | yán |
+| 勤 | 雪 | 案㉘， | 课 | 风 | 檐㉙。 |
+| |
+| lòu | jiàn | duì | shū | jiān |
+| 漏 | 箭 | 对 | 书 | 笺㉚。 |
+| |
+| wén | fán | ɡuī | tǎ | jì | tǐ | yàn | bié | xiānɡ | lián |
+| 文 | 繁 | 归 | 獭 | 祭㉛， | 体 | 艳 | 别 | 香 | 奁㉜。 |
+| |
+| zuó | yè | tí | shī | ɡēnɡ | yí | zì | zǎo | chūn | lái | yàn | juǎn | chónɡ | lián |
+| 昨 | 夜 | 题 | 诗 | 更 | 一 | 字㉝， | 早 | 春 | 来 | 燕 | 卷 | 重 | 帘㉞。 |
+| |
+| shī | yǐ | shǐ | mínɡ | chóu | li | bēi | ɡē | huái | dù | fǔ 
+| 诗 | 以 | 史 | 名， | 愁 | 里 | 悲 | 歌 | 怀 | 杜 | 甫 | ㉟ | ； |
+| |
+| bǐ | jīnɡ | rén | suǒ | mènɡ | zhōnɡ | xiǎn | huì | lǎo | jiānɡ | yān |
+| 笔 | 经 | 人 | 索， | 梦 | 中 | 显 | 晦 | 老 | 江 | 淹㊱。 |
 
 注解
 
@@ -4868,86 +4929,88 @@ bǐ jīnɡ rén suǒ mènɡ zhōnɡ xiǎn huì lǎo jiānɡ yān
 
 十五　咸
 
-zāi duì zhí tì duì shān
-栽对植，薙对芟①。
-
-èr bó duì sān jiān
-二伯对三监②。
-
-cháo chén duì ɡuó lǎo zhí shì duì ɡuān xián
-朝臣对国老③，职事对官衔④。
-
-lù yǔ yǔ tù chán chán
-鹿麌麌⑤，兔毚毚⑥。
-
-qǐ dú duì kāi jiān
-启牍对开缄⑦。
-
-lǜ yánɡ yīnɡ xiàn huǎn hónɡ xìnɡ yàn ní nán
-绿杨莺睆⑧，红杏燕呢喃⑨。
-
-bàn lí bái jiǔ yú táo lìnɡ yì zhěn huánɡ liánɡ dù lǚ yán
-半篱白酒娱陶令⑩，一枕黄粱度吕岩⑪。
-
-jiǔ xià yán biāo chánɡ rì fēnɡ tínɡ liú kè jì 
-九夏炎飙，长日风亭留客骑⑫；
-
-sān dōnɡ hán liè màn tiān xuě lànɡ zhù zhēnɡ fān
-三冬寒冽，漫天雪浪驻征帆⑬。
-
-wú duì qǐ bǎi duì shān
-梧对杞，柏对杉。
-
-xià huò duì sháo xián
-夏濩对韶咸⑭。
-
-jiàn chán duì qín wěi ɡǒnɡ luò duì xiáo hán
-涧瀍对溱洧⑮，巩洛对崤函⑯。
-
-cánɡ shū dònɡ bì zhào yán
-藏书洞⑰，避诏岩⑱。
-
-tuō sú duì chāo fán
-脱俗对超凡⑲。
-
-xián rén xiū xiàn mèi zhènɡ shì jí ɡōnɡ chán
-贤人羞献媚⑳，正士嫉工谗㉑。
-
-bà yuè móu chén tuī shào bó zuǒ tánɡ fān jiànɡ zhònɡ hún jiān
-霸越谋臣推少伯㉒，佐唐藩将重浑瑊㉓。
-
-yè xià kuánɡ shēnɡ jié ɡǔ sān zhuā xiū jǐn ǎo 
-邺下狂生，羯鼓三挝羞锦袄㉔；
-
-jiānɡ zhōu sī mǎ pí pá yì qǔ shī qīnɡ shān
-江州司马，琵琶一曲湿青衫㉕。
-
-páo duì hù lǚ duì shān
-袍对笏㉖，履对衫。
-
-pǐ mǎ duì ɡū fān
-匹马对孤帆㉗。
-
-zuó mo duì diāo lòu kè huà duì juān chán
-琢磨对雕镂㉘，刻划对镌镵㉙。
-
-xīnɡ běi ɡǒnɡ rì xī xián
-星北拱㉚，日西衔㉛。
-
-zhī lòu duì dǐnɡ chán
-卮漏对鼎馋㉜。
-
-jiānɡ biān shēnɡ dù ruò hǎi wài shù dōu xián
-江边生杜若㉝，海外树都咸㉞。
-
-dàn dé huī huī cún lì rèn hé xū duō duō dá kōnɡ hán
-但得恢恢存利刃㉟，何须咄咄达空函㊱。
-
-cǎi fènɡ zhī yīn yuè diǎn hòu kuí xū jiǔ zòu 
-彩凤知音，乐典后夔须九奏㊲；
-
-jīn rén shǒu kǒu shènɡ rú ní fù yì sān jiān
-金人守口，圣如尼父亦三缄㊳。
+| | | | | | | | | | | | | | | | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| zāi | duì | zhí | tì | duì | shān |
+| 栽 | 对 | 植， | 薙 | 对 | 芟①。 |
+| |
+| èr | bó | duì | sān | jiān |
+| 二 | 伯 | 对 | 三 | 监②。 |
+| |
+| cháo | chén | duì | ɡuó | lǎo | zhí | shì | duì | ɡuān | xián |
+| 朝 | 臣 | 对 | 国 | 老③， | 职 | 事 | 对 | 官 | 衔④。 |
+| |
+| lù | yǔ | yǔ | tù | chán | chán |
+| 鹿 | 麌 | 麌⑤， | 兔 | 毚 | 毚⑥。 |
+| |
+| qǐ | dú | duì | kāi | jiān |
+| 启 | 牍 | 对 | 开 | 缄⑦。 |
+| |
+| lǜ | yánɡ | yīnɡ | xiàn | huǎn | hónɡ | xìnɡ | yàn | ní | nán |
+| 绿 | 杨 | 莺 | 睆⑧， | 红 | 杏 | 燕 | 呢 | 喃⑨。 |
+| |
+| bàn | lí | bái | jiǔ | yú | táo | lìnɡ | yì | zhěn | huánɡ | liánɡ | dù | lǚ | yán |
+| 半 | 篱 | 白 | 酒 | 娱 | 陶 | 令⑩， | 一 | 枕 | 黄 | 粱 | 度 | 吕 | 岩⑪。 |
+| |
+| jiǔ | xià | yán | biāo | chánɡ | rì | fēnɡ | tínɡ | liú | kè | jì 
+| 九 | 夏 | 炎 | 飙， | 长 | 日 | 风 | 亭 | 留 | 客 | 骑 | ⑫ | ； |
+| |
+| sān | dōnɡ | hán | liè | màn | tiān | xuě | lànɡ | zhù | zhēnɡ | fān |
+| 三 | 冬 | 寒 | 冽， | 漫 | 天 | 雪 | 浪 | 驻 | 征 | 帆⑬。 |
+| |
+| wú | duì | qǐ | bǎi | duì | shān |
+| 梧 | 对 | 杞， | 柏 | 对 | 杉。 |
+| |
+| xià | huò | duì | sháo | xián |
+| 夏 | 濩 | 对 | 韶 | 咸⑭。 |
+| |
+| jiàn | chán | duì | qín | wěi | ɡǒnɡ | luò | duì | xiáo | hán |
+| 涧 | 瀍 | 对 | 溱 | 洧⑮， | 巩 | 洛 | 对 | 崤 | 函⑯。 |
+| |
+| cánɡ | shū | dònɡ | bì | zhào | yán |
+| 藏 | 书 | 洞⑰， | 避 | 诏 | 岩⑱。 |
+| |
+| tuō | sú | duì | chāo | fán |
+| 脱 | 俗 | 对 | 超 | 凡⑲。 |
+| |
+| xián | rén | xiū | xiàn | mèi | zhènɡ | shì | jí | ɡōnɡ | chán |
+| 贤 | 人 | 羞 | 献 | 媚⑳， | 正 | 士 | 嫉 | 工 | 谗㉑。 |
+| |
+| bà | yuè | móu | chén | tuī | shào | bó | zuǒ | tánɡ | fān | jiànɡ | zhònɡ | hún | jiān |
+| 霸 | 越 | 谋 | 臣 | 推 | 少 | 伯㉒， | 佐 | 唐 | 藩 | 将 | 重 | 浑 | 瑊㉓。 |
+| |
+| yè | xià | kuánɡ | shēnɡ | jié | ɡǔ | sān | zhuā | xiū | jǐn | ǎo 
+| 邺 | 下 | 狂 | 生， | 羯 | 鼓 | 三 | 挝 | 羞 | 锦 | 袄 | ㉔ | ； |
+| |
+| jiānɡ | zhōu | sī | mǎ | pí | pá | yì | qǔ | shī | qīnɡ | shān |
+| 江 | 州 | 司 | 马， | 琵 | 琶 | 一 | 曲 | 湿 | 青 | 衫㉕。 |
+| |
+| páo | duì | hù | lǚ | duì | shān |
+| 袍 | 对 | 笏㉖， | 履 | 对 | 衫。 |
+| |
+| pǐ | mǎ | duì | ɡū | fān |
+| 匹 | 马 | 对 | 孤 | 帆㉗。 |
+| |
+| zuó | mo | duì | diāo | lòu | kè | huà | duì | juān | chán |
+| 琢 | 磨 | 对 | 雕 | 镂㉘， | 刻 | 划 | 对 | 镌 | 镵㉙。 |
+| |
+| xīnɡ | běi | ɡǒnɡ | rì | xī | xián |
+| 星 | 北 | 拱㉚， | 日 | 西 | 衔㉛。 |
+| |
+| zhī | lòu | duì | dǐnɡ | chán |
+| 卮 | 漏 | 对 | 鼎 | 馋㉜。 |
+| |
+| jiānɡ | biān | shēnɡ | dù | ruò | hǎi | wài | shù | dōu | xián |
+| 江 | 边 | 生 | 杜 | 若㉝， | 海 | 外 | 树 | 都 | 咸㉞。 |
+| |
+| dàn | dé | huī | huī | cún | lì | rèn | hé | xū | duō | duō | dá | kōnɡ | hán |
+| 但 | 得 | 恢 | 恢 | 存 | 利 | 刃㉟， | 何 | 须 | 咄 | 咄 | 达 | 空 | 函㊱。 |
+| |
+| cǎi | fènɡ | zhī | yīn | yuè | diǎn | hòu | kuí | xū | jiǔ | zòu 
+| 彩 | 凤 | 知 | 音， | 乐 | 典 | 后 | 夔 | 须 | 九 | 奏 | ㊲ | ； |
+| |
+| jīn | rén | shǒu | kǒu | shènɡ | rú | ní | fù | yì | sān | jiān |
+| 金 | 人 | 守 | 口， | 圣 | 如 | 尼 | 父 | 亦 | 三 | 缄㊳。 |
 
 注解
 
