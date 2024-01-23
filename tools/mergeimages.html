@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
+  <title>图片拼接</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
 
   <!-- Bootstrap core CSS -->
   <link href="https://apps.bdimg.com/libs/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -38,10 +40,10 @@
         <span class="input-group-addon" id="basic-addon2">拼接方向</span>
         <div class="form-control">
           <label class="radio-inline">
-            <input type="radio" name="direction" onchange="directionChange()" value="horizontal" checked="checked"> 横向
+            <input type="radio" name="direction" onchange="directionChange()" value="horizontal"> 横向
           </label>
           <label class="radio-inline">
-            <input type="radio" name="direction" onchange="directionChange()" value="vertical"> 竖向
+            <input type="radio" name="direction" onchange="directionChange()" value="vertical" checked="checked"> 竖向
           </label>
           <label class="radio-inline">
             <input type="radio" name="direction" onchange="directionChange()" value="grid"> 宫格
@@ -73,7 +75,7 @@
     <div class="col-xs-12 col-sm-6 margintb-6 vertical grid" style="display: none;">
       <div class="input-group">
         <span class="input-group-addon" id="basic-addon1">图像宽度</span>
-        <input id="output-image-width" type="number" value="300" class="form-control" aria-describedby="basic-addon1">
+        <input id="output-image-width" type="number" value="900" class="form-control" aria-describedby="basic-addon1">
         <span class="input-group-addon" id="basic-addon1">像素</span>
       </div>
     </div>
