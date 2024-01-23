@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://apps.bdimg.com/libs/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+
+</head>
+
+<body aria-hidden="false" class="vsc-initialized">
+
+
+  <!--Start-->
+
+
+
+  <div class="row margintb-6">
+    <div class="col-xs-12 col-sm-12">
+      <div class="panel panel-default" style="margin-bottom: 0px;">
+        <div class="panel-body" id="upload">
+          <div id="img-container">
+            <div id="img-up-add"> <span class="img-add-icon">+添加图像+</span> </div>
+            <input type="file" name="files" id="img-file-input" multiple="" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row margintb-6">
+    <div class="col-xs-12 col-sm-6 margintb-6">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon2">拼接方向</span>
+        <div class="form-control">
+          <label class="radio-inline">
+            <input type="radio" name="direction" onchange="directionChange()" value="horizontal" checked="checked"> 横向
+          </label>
+          <label class="radio-inline">
+            <input type="radio" name="direction" onchange="directionChange()" value="vertical"> 竖向
+          </label>
+          <label class="radio-inline">
+            <input type="radio" name="direction" onchange="directionChange()" value="grid"> 宫格
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 margintb-6 grid" style="display: none;">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon2">宫格行数</span>
+        <input id="output-image-rows" type="number" value="3" class="form-control" aria-describedby="basic-addon2">
+        <span class="input-group-addon" id="basic-addon2">行</span>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 margintb-6 grid" style="display: none;">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon1">宫格列数</span>
+        <input id="output-image-columns" type="number" value="3" class="form-control" aria-describedby="basic-addon1">
+        <span class="input-group-addon" id="basic-addon1">列</span>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 margintb-6 horizontal grid">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon2">图像高度</span>
+        <input id="output-image-height" type="number" value="300" class="form-control" aria-describedby="basic-addon2">
+        <span class="input-group-addon" id="basic-addon2">像素</span>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 margintb-6 vertical grid" style="display: none;">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon1">图像宽度</span>
+        <input id="output-image-width" type="number" value="300" class="form-control" aria-describedby="basic-addon1">
+        <span class="input-group-addon" id="basic-addon1">像素</span>
+      </div>
+    </div>
+
+  </div>
+  <div class="row margintb-6">
+    <div class="col-xs-6 col-sm-2">
+      <button id="preview" class="btn btn-primary width-100-percent" onclick="preview();">拼接并预览</button>
+    </div>
+    <div class="col-xs-6 col-sm-2">
+      <button id="download" class="btn btn-primary width-100-percent" onclick="download();">下载</button>
+    </div>
+  </div>
+  <div class="row margintb-6" id="panel-preview" style="display: none;">
+    <div class="col-xs-12 col-sm-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img id="imgId" class="img-responsive" style="margin: 0 auto;">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/filesaver.js@1.3.4/FileSaver.js"></script>
+  <script>
+    var generating = tinyImgUpload('#upload');
+
+    function preview() {
+      $("#panel-preview").show();
+
+      var options = {
+        direction: $('input[name="direction"]:checked').val(),
+        rows: $("#output-image-rows").val(),
+        columns: $("#output-image-columns").val(),
+        width: $("#output-image-width").val(),
+        height: $("#output-image-height").val(),
+      }
+
+      var src = generating(options, finalImageUrl => {
+        if (!isEmpty(finalImageUrl)) {
+
+          $("#imgId").attr('src', finalImageUrl);
+        }
+      });
+
+    }
+
+    function download() {
+      // 这里为data固定一个常量
+      const data = $("#imgId").attr('src');
+      // 创建一个正则表达式, 用户获取(image/png), (png), (iVBORw0KGgoAAAANSUh....)
+      const regex = new RegExp('^data:([^/]+/([^;]+));base64');
+      // 校验
+      if (!isEmpty(data)) {
+        const b64Data = data.replace(regex, '$1,$2').split(',');
+        const contentType = b64Data[0];
+        // 解码
+        const raw = window.atob(b64Data[2]);
+        const rawLength = raw.length;
+        const fileName = `拼接图.${b64Data[1]}`;
+        let uInt8Array = new Uint8Array(rawLength);
+        for (let i = 0; i < rawLength; ++i) {
+          uInt8Array[i] = raw.charCodeAt(i);
+        }
+        const blob = new Blob([uInt8Array], { type: contentType });
+        saveAs(blob, fileName);
+      }
+    }
+
+    function directionChange() {
+      /** 获取选中方向的值 **/
+      var direction = $('input[name="direction"]:checked').val();
+      $(".horizontal").hide();
+      $(".vertical").hide();
+      $(".grid").hide();
+      $("." + direction).show();
+    }
+
+    function isEmpty(obj) {
+      if (typeof obj == "undefined" || obj == null || obj === "") {
+        return true;
+      } else {
+        return false;
+      }
+    }
+
+    const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
+
+    const repeatedGreetings = async () => {
+      await sleep(1000)
+      console.log(1)
+      await sleep(1000)
+      console.log(2)
+      await sleep(1000)
+      console.log(3)
+    }
+
+    // 为添加按钮绑定点击事件，设置选择图片的功能
+    var addBtn = document.querySelector('#img-up-add');
+    addBtn.addEventListener('click', function () {
+      console.log('b')
+      //document.querySelector('#img-file-input').value = null;
+      document.querySelector('#img-file-input').click();
+      return false;
+    }, false)
+
+    async function readFile(file, ele) {
+      const reader = new FileReader();
+      return new Promise((resolve, reject) => {
+        reader.onload = (e) => {
+          resolve(reader.result);
+
+          var oDiv = document.createElement('div');
+          oDiv.className = 'row margintb-6 frame-item';
+          // 向图片容器里添加元素
+          oDiv.innerHTML =
+            '<div class="col-xs-12 col-sm-12">' +
+            '    <div class="img-thumb img-item">' +
+            '        <img class="thumb-icon img-responsive" src="' + e.target.result + '" />' +
+            '    </div>'
+          '    <a href="javscript:;" class="img-remove">x</a>' +
+            '</div>';
+
+          ele.insertBefore(oDiv, addBtn);
+        };
+        reader.onerror = reject;
+        reader.readAsDataURL(file);
+      });
+    }
+
+    function tinyImgUpload(ele) {
+      console.log('aaa' + ele)
+      // 判断容器元素合理性并且添加基础元素
+      var eleList = document.querySelectorAll(ele);
+
+      var ele = eleList[0].querySelector('#img-container');
+      ele.files = [];   // 当前上传的文件数组
+      // if (eleList.length == 0) {
+      //   console.log('绑定的元素不存在');
+      //   return;
+      // } else if (eleList.length > 1) {
+      //   console.log('请绑定唯一元素');
+      //   return;
+      // } else {
+      //   console.log("绑定一个元素")
+      //   eleList[0].innerHTML = '<div id="img-container" >' +
+      //     '<div class="img-up-add"> <span class="img-add-icon">+添加图像+</span> </div>' +
+      //     '<input type="file" name="files" id="img-file-input" multiple>' +
+      //     '</div>';
+      //   var ele = eleList[0].querySelector('#img-container');
+      //   ele.files = [];   // 当前上传的文件数组
+      // }
+
+      // 为添加按钮绑定点击事件，设置选择图片的功能
+      // var addBtn = document.querySelector('#img-up-add');
+      // addBtn.addEventListener('click', function () {
+      //   console.log('b')
+      //   document.querySelector('#img-file-input').value = null;
+      //   document.querySelector('#img-file-input').click();
+      //   return false;
+      // }, false)
+
+      // 预览图片
+      //处理input选择的图片
+      function handleFileSelect(evt) {
+        var files = evt.target.files;
+
+        var arr = []
+        for (var j = 0, k; k = files[j]; j++) {
+          arr.push(k)
+        }
+
+
+        
+
+
+          (async () => {
+            arr.sort((a, b) => {
+          if (a.name > b.name) return 1
+          if (a.name < b.name) return -1
+          return 0
+        })
+
+
+            for (var i = 0, f; f = arr[i]; i++) {
+
+              // 过滤掉非图片类型文件
+              if (!f.type.match('image.*')) {
+                continue;
+              }
+              // 过滤掉重复上传的图片
+              var tip = false;
+              for (var j = 0; j < (ele.files).length; j++) {
+                if ((ele.files)[j].name == f.name) {
+                  tip = true;
+                  break;
+                }
+              }
+
+
+
+              await readFile(f, ele)
+
+
+
+
+              //if (!tip) {
+              if (0) {
+                // 图片文件绑定到容器元素上
+
+                var reader = new FileReader();
+
+                reader.readAsDataURL(f);
+
+                reader.onload = (e) => {
+
+                  var oDiv = document.createElement('div');
+                  oDiv.className = 'row margintb-6 frame-item';
+                  // 向图片容器里添加元素
+                  oDiv.innerHTML =
+                    '<div class="col-xs-12 col-sm-12">' +
+                    '    <div class="img-thumb img-item">' +
+                    '        <img class="thumb-icon img-responsive" src="' + e.target.result + '" />' +
+                    '    </div>'
+                  '    <a href="javscript:;" class="img-remove">x</a>' +
+                    '</div>';
+
+                  ele.insertBefore(oDiv, addBtn);
+                }
+              }
+            }
+          })()
+
+      }
+
+      document.querySelector('#img-file-input').addEventListener('change', function (ele) {
+        console.log('c')
+        handleFileSelect(ele);
+      }, false);
+
+      // 删除图片
+      function removeImg(evt) {
+        if (evt.target.className.match(/img-remove/)) {
+          // console.log('ele', ele);
+          // console.log('3', ele.files);
+          // 获取删除的节点的索引
+          function getIndex(ele) {
+
+            if (ele && ele.nodeType && ele.nodeType == 1) {
+              var oParent = ele.parentNode;
+              var oChilds = oParent.children;
+              for (var i = 0; i < oChilds.length; i++) {
+                if (oChilds[i] == ele)
+                  return i;
+              }
+            } else {
+              return -1;
+            }
+          }
+          // 根据索引删除指定的文件对象
+          var index = getIndex(evt.target.parentNode.parentNode);
+          ele.removeChild(evt.target.parentNode.parentNode);
+          if (index < 0) {
+            return;
+          } else {
+            ele.files.splice(index, 1);
+          }
+          // console.log('4', ele.files);
+        }
+      }
+
+      ele.addEventListener('click', removeImg, false);
+
+      // 拼图
+      function drawImages(options) {
+        let imageFrames = document.querySelectorAll("img.thumb-icon"),
+          images = [],
+          direction = options.direction,
+          width = options.width,
+          height = options.height,
+          rows = options.rows,
+          columns = options.columns,
+          i;
+
+        const length = imageFrames.length
+
+        if (length > 0) {
+          for (i = 0; i < length; i++) {
+            let img = imageFrames[i].src;
+            const image = new Image();
+            image.src = img;
+            // image.onload = () => {
+            // 图片实例化成功后存起来
+            images[i] = image;
+            // }
+          }
+
+          const canvas = document.createElement('canvas');
+
+          if (direction === "vertical") {
+            const heights = images.map(item => width / item.width * item.height)
+            // const canvas = document.createElement('canvas')
+            canvas.width = width
+            canvas.height = heights.reduce((total, current) => total + current)
+            const context = canvas.getContext('2d')
+
+            let y = 0
+
+            images.forEach((item, index) => {
+              const height = heights[index]
+              context.drawImage(item, 0, y, width, height)
+              y += height
+            })
+          }
+          if (direction === "horizontal") {
+            const widths = images.map(item => height / item.height * item.width)
+
+            canvas.height = height
+            canvas.width = widths.reduce((total, current) => total + current)
+            const context = canvas.getContext('2d')
+
+            let x = 0
+
+            images.forEach((item, index) => {
+              const width = widths[index]
+              context.drawImage(item, x, 0, width, height)
+              x += width
+            })
+          }
+          if (direction === "grid") {
+
+            canvas.width = width * rows;
+            canvas.height = height * columns;
+
+            const context = canvas.getContext("2d");
+
+            let maxImages = rows * columns;
+
+            images.forEach((item, index) => {
+              if (index >= maxImages) return;
+
+              const x = (index % rows) * width;
+              const y = Math.floor(index / rows) * height;
+              context.drawImage(item, x, y, width, height);
+            })
+          }
+
+          return canvas.toDataURL('image/jpeg', 1.0);
+        } else {
+          return null;
+        }
+      }
+
+      const generating = (options, callback) => {
+        const info = drawImages(options);
+        callback(info);
+      }
+
+      return generating;
+    }
+
+  </script>
+
+
+
+
+  </div>
+</body>
+
+
+
+
+
+
+
+<style>
+  #img-container {
+    font-size: 12px;
+  }
+
+  #img-container:after {
+    content: '.';
+    display: block;
+    height: 0;
+    visibility: hidden;
+    overflow: hidden;
+    clear: both;
+  }
+
+  .img-item {
+    position: relative;
+    /* float: left; */
+    /* margin-right: 0.1875rem; */
+    /* margin-bottom: 0.1875rem; */
+    /* height: 2.34375rem; */
+    /* width: 2.34375rem; */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 3px;
+  }
+
+  .img-thumb {
+    border: 1px solid #000;
+  }
+
+  .thumb-icon {
+    /* width: 100%;
+      height: 100%; */
+    margin: 0 auto;
+  }
+
+  #img-up-add {
+    display: table;
+    border: 1px dashed #E0E0E0;
+    width: 100%;
+    padding: 12px;
+    cursor: pointer;
+    margin: 12px 0px;
+    border-radius: 4px;
+  }
+
+  .img-add-icon {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .img-remove {
+    position: absolute;
+    right: 6px;
+    top: -6px;
+    display: block;
+    width: 30px;
+    height: 30px;
+    /* border: 2px dashed #f7333d; */
+    border-radius: 50%;
+    background: #f7333d;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    background-clip: padding-box;
+  }
+
+  #img-file-input {
+    display: none;
+  }
+
+  .tips {
+    text-align: center;
+    color: #929292;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .waring {
+    color: red;
+    line-height: 250%;
+  }
+</style>
+
+</html>
