@@ -1,132 +1,83 @@
 <!DOCTYPE html>
 <!-- saved from url=(0051)https://splitter.imageonline.co/cn/#google_vignette -->
 <html lang="zh-CN">
-  <head>
+
+<head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>图像切割</title>
 
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="./imagesplitter/style.css" rel="stylesheet" />
-
-    <script src="https://cdn.bootcdn.net/ajax/libs/fabric.js/1.5.0/fabric.js"></script>
-    <script src="https://cdn.bootcdn.net/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-
-  </head>
-
-
-
-
-
-  <body>
-    <div class="row class-container">
-      <div
-        class="col-lg-6 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp">
-        <div class="row justify-content-around">
-          <div class="col">
-            <div class="fileuploader fileuploader-theme-default">
-             
-                  <input
-                    type="file"
-                    class="sr-only btn btn-dark"
-                    id="inputImage"
-                    name="files"
-                    accept="image/jpeg, image/png, image/bmp, image/webp, image/svg, image/ico, image/jpg, image/gif"
-                  />
-     
-
-              <div class="fileuploader-items">
-                <ul class="fileuploader-items-list"></ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="control" class="border-3">
-          <div class="row justify-content-around mb-4">
-            <div class="col text-center">
-              <select class="form-control form-control-lg" id="option">
-                <option value="1">VERTICAL (1 X 2)</option>
-                <option value="2">HORIZONTAL (2 X 1)</option>
-                <option value="3">SPLIT INTO PIECES (X x Y)</option>
-              </select>
-            </div>
-            <div class="col text-center px-4 mt-2" id="button">
-              <button
-                type="button"
-                id="photobutton"
-                class="btn btn-danger text-white font-weight-bold"
-              >
-                SPLIT IMAGE
-              </button>
-            </div>
-          </div>
-          <div
-            class="row justify-content-around border-3 mb-4"
-            id="display"
-            style="display: none"
-          >
-            <div class="col text-center" id="button">
-              <span>ROWS</span>
-              <input type="number" class="form-control" id="rows" value="3" />
-            </div>
-            <div class="col text-center" id="button">
-              <span>COLUMNS</span>
-              <input
-                type="number"
-                class="form-control"
-                id="columns"
-                value="3"
-              />
-            </div>
-            <div class="col text-center px-4 mt-4" id="button">
-              <button
-                type="button"
-                id="photobutton1"
-                class="btn btn-danger text-white font-weight-bold"
-              >
-                SPLIT IMAGE
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div
-        class="col-lg-6 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp mb-4"
-        data-wow-delay="0.0s"
-      >
-        <div
-          id="finalphoto"
-          class="text-center mt-4"
-          style="padding: 15px 0px 0px; display: none"
-        >
-
-          <div class="col-md-12 text-center mt-4" id="button">
-            <button
-              type="button"
-              id="download"
-              class="btn btn-success font-weight-bold"
-            >
-              下载图片
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
-
-
-    <script src="https://cdn.jsdelivr.net/npm/jquery-fileuploader@1.1.2/js/fileUploader.min.js" integrity="sha256-xVeyVCbM8NLHnAYBlAbC6Hx/OEiHWw8osyG4znXoCc8=" crossorigin="anonymous"></script>
     <script src="https://cdn.bootcdn.net/ajax/libs/FileSaver.js/2.0.5/FileSaver.js"></script>
-    
+    <script src="https://cdn.bootcdn.net/ajax/libs/fabric.js/1.5.0/fabric.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+</head>
+
+<body>
+    <div class="row class-container">
+        <div class="col-lg-6 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp">
+            <div class="row justify-content-around">
+                <div class="col">
+                    <div class="fileuploader fileuploader-theme-default">
+                        <input type="file" class="sr-only btn btn-dark" id="inputImage" name="files"
+                            accept="image/jpeg, image/png, image/bmp, image/webp, image/svg, image/ico, image/jpg, image/gif" />
+
+                        <div class="fileuploader-items">
+                            <ul class="fileuploader-items-list"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="control" class="border-3">
+                <div class="row justify-content-around mb-4">
+                    <div class="col text-center">
+                        <select class="form-control form-control-lg" id="option">
+                            <option value="1">VERTICAL (1 X 2)</option>
+                            <option value="2">HORIZONTAL (2 X 1)</option>
+                            <option value="3">SPLIT INTO PIECES (X x Y)</option>
+                        </select>
+                    </div>
+                    <div class="col text-center px-4 mt-2" id="button">
+                        <button id="photobutton">分割</button>
+                    </div>
+                </div>
+
+                <div class="row justify-content-around border-3 mb-4" id="display" style="display: none">
+                    <div class="col text-center" id="button">
+                        <span>ROWS</span>
+                        <input type="number" class="form-control" id="rows" value="3" />
+                    </div>
+                    <div class="col text-center" id="button">
+                        <span>COLUMNS</span>
+                        <input type="number" class="form-control" id="columns" value="3" />
+                    </div>
+                    <div class="col text-center px-4 mt-4" id="button">
+                        <button type="button" id="photobutton1" class="btn btn-danger text-white font-weight-bold">
+                            多维分割
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        
+        <div class="col-lg-6 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp mb-4">
+            <div id="finalphoto" class="text-center mt-4" style="padding: 15px 0px 0px; display: none">
+                <button type="button" id="download">下载图片</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery-fileuploader@1.1.2/js/fileUploader.min.js"></script> -->
 
     <script src="./imagesplitter/fu.js"></script>
     <script src="./imagesplitter/si.js"></script>
-  </body>
+</body>
+
 </html>
