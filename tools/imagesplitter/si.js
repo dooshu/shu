@@ -6,7 +6,8 @@ var yy = [];
 var dataURL = [];
 var dataURLpng = [];
 const INITIALCOUNT=0;
-const COUNTSTEP=2;
+const COUNTSTEP=1;
+const jeeow = 0
 var filecount;
 var rowcount;
 var columncount;
@@ -272,13 +273,13 @@ $('#photobutton1')['click'](function () {
             var filecount = INITIALCOUNT
             for (var x = 0; x < rowcount; ++x) {
                 for (var y = 0; y < columncount; ++y) {
-                    filecount += COUNTSTEP
+                    filecount = filecount*2 + COUNTSTEP
                     var canvas = document['createElement']('canvas');
                     canvas['width'] = _0x3743x3f;
                     canvas['height'] = _0x3743x40;
                     var context = canvas['getContext']('2d');
                     context['drawImage'](image, x * _0x3743x3f, y * _0x3743x40, _0x3743x3f, _0x3743x40, 0, 0, canvas['width'], canvas['height']);
-                    var _filesurname = String(999) + String(y) + String(x);
+                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0');
                     imagePieces[_filesurname] = canvas['toDataURL'](canvasextn)
                 }
             };
@@ -288,8 +289,8 @@ $('#photobutton1')['click'](function () {
             for (var y = 0; y < columncount; ++y) {
                 _0x3743x43 = _0x3743x43 + '<div class="row">';
                 for (var x = 0; x < rowcount; ++x) {
-                    filecount += COUNTSTEP
-                    var _filesurname = String(999) + String(y) + String(x);
+                    filecount = filecount*2 + COUNTSTEP
+                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0');
                     _0x3743x43 = _0x3743x43 + '<div class="col"><img src=' + imagePieces[_filesurname] + ' style="max-width:100%;" /></div></br>'
                 };
                 _0x3743x43 = _0x3743x43 + '</div></br>'
@@ -335,8 +336,9 @@ function downloadzip() {
     var filecount = INITIALCOUNT
     for (var y = 0; y < columncount; ++y) {
         for (var x = 0; x < rowcount; ++x) {
-            filecount += COUNTSTEP
-            var _filesurname = String(999) + String(y) + String(x)
+            filecount = filecount*2 + COUNTSTEP
+            var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0')
+            
             var _filename =  + _filesurname+ '.' + extension;
             if (extension == 'png') {
                 var _0x3743x48 = imagePieces[_filesurname]['replace']('data:image/png;base64,', '')
