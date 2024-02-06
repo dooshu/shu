@@ -41,21 +41,28 @@
                             <option value="3">SPLIT INTO PIECES (X x Y)</option>
                         </select>
                     </div>
-                    <div class="col text-center px-4 mt-2" id="button">
+                    <div class="col text-center px-4 mt-2">
                         <button id="photobutton">分割</button>
                     </div>
                 </div>
 
                 <div class="row justify-content-around border-3 mb-4" id="display" style="display: none">
-                    <div class="col text-center" id="button">
+                    <div class="col text-center">
                         <span>ROWS</span>
-                        <input type="number" class="form-control" id="rows" value="3" />
+                        <input type="number" class="form-control" id="rows" value="1" />
                     </div>
-                    <div class="col text-center" id="button">
+                    <div class="col text-center">
                         <span>COLUMNS</span>
                         <input type="number" class="form-control" id="columns" value="3" />
                     </div>
-                    <div class="col text-center px-4 mt-4" id="button">
+                    <div class="col text-center">
+                        <span>countinit</span>
+                        <select class="form-control form-control-lg" id="countinit">
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                        </select>
+                    </div>
+                    <div class="col text-center px-4 mt-4">
                         <button type="button" id="photobutton1" class="btn btn-danger text-white font-weight-bold">
                             多维分割
                         </button>
