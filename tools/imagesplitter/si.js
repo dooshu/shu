@@ -6,7 +6,7 @@ var yy = [];
 var dataURL = [];
 var dataURLpng = [];
 const INITIALCOUNT=0;
-const COUNTSTEP=1;
+var countinit = 0
 const jeeow = 0
 var filecount;
 var rowcount;
@@ -257,6 +257,9 @@ $('#photobutton')['click'](function () {
     }
 });
 
+$('#countinit')['on']('change', ()=>{
+    countinit = parseInt(document['getElementById']('countinit')['value'])
+})
 
 //多维分割
 $('#photobutton1')['click'](function () {
@@ -270,27 +273,27 @@ $('#photobutton1')['click'](function () {
             var _0x3743x3f = originalwidth / rowcount;
             var _0x3743x40 = originalheight / columncount;
             imagePieces['splice'](0, imagePieces['length']);
-            var filecount = INITIALCOUNT
+            
             for (var x = 0; x < rowcount; ++x) {
                 for (var y = 0; y < columncount; ++y) {
-                    filecount = filecount*2 + COUNTSTEP
+                    
                     var canvas = document['createElement']('canvas');
                     canvas['width'] = _0x3743x3f;
                     canvas['height'] = _0x3743x40;
                     var context = canvas['getContext']('2d');
                     context['drawImage'](image, x * _0x3743x3f, y * _0x3743x40, _0x3743x3f, _0x3743x40, 0, 0, canvas['width'], canvas['height']);
-                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0');
+                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+countinit).toString().padStart(3, '0');
                     imagePieces[_filesurname] = canvas['toDataURL'](canvasextn)
                 }
             };
             var _0x3743x43 = '';
             var _0x3743x3e = $('<div class="box box-widget"><div class="box-header with-border"><h3 class="box-title" style="padding:0px 20px"> <span class="section-header text-center wow zoomIn"><p><b>SPLITTED IMAGE </b></p></span></br></h3></div><div class="box-footer clearfix"><div class="container">');
-            var filecount = INITIALCOUNT
+            
             for (var y = 0; y < columncount; ++y) {
                 _0x3743x43 = _0x3743x43 + '<div class="row">';
                 for (var x = 0; x < rowcount; ++x) {
-                    filecount = filecount*2 + COUNTSTEP
-                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0');
+                    
+                    var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+countinit).toString().padStart(3, '0');
                     _0x3743x43 = _0x3743x43 + '<div class="col"><img src=' + imagePieces[_filesurname] + ' style="max-width:100%;" /></div></br>'
                 };
                 _0x3743x43 = _0x3743x43 + '</div></br>'
@@ -333,11 +336,11 @@ $('#photobutton1')['click'](function () {
 function downloadzip() {
     var _0x3743x46 = imgname + '.zip';
     zip['remove']('imageonline');
-    var filecount = INITIALCOUNT
+    
     for (var y = 0; y < columncount; ++y) {
         for (var x = 0; x < rowcount; ++x) {
-            filecount = filecount*2 + COUNTSTEP
-            var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+COUNTSTEP).toString().padStart(3, '0')
+            
+            var _filesurname = String(999) + x.toString().padStart(3, '0') + (y*2+countinit).toString().padStart(3, '0')
             
             var _filename =  + _filesurname+ '.' + extension;
             if (extension == 'png') {
