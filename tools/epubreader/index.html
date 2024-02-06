@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://epub-reader.online/# -->
+<html lang="en" class="epub-reader-html">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>EPUB READER</title>
+    <link rel="stylesheet" href="./custom.css">
+    <link rel="stylesheet" href="./reader.css">
+</head>
+
+<body class="epub-container vsc-initialized">
+
+
+    <div class="reader-content-center">
+        <div class="neat-reader-container">
+
+            <a href="#" id="open-new-book" class="neat-reader-open-btn">Open EPUB book</a>
+            <input type="file" name="epub-file" id="open-epub" accept=".epub" class="hidden-book-btn">
+
+        </div>
+
+    </div>
+
+    <div class="epub-reader-container">
+        <div class="epub-contents"></div>
+        <div class="reader-wrapper">
+            <div class="wrapper-nav">
+                <div class="icon-wrap hide">
+                    <span class="iconfont iconmulu"></span>
+                </div>
+                <div class="icon-wrap">
+                    <span class="iconfont iconshezhi"></span>
+                    <div class="setting-wrapper">
+                        <div class="dropdown-caret">
+                            <span class="caret-outer"></span>
+                            <span class="caret-inner"></span>
+                        </div>
+                        <div class="setting-size">
+                            <span class="size-btn small" data-tag="small">A</span>
+                            <span class="size-btn big" data-tag="big">A</span>
+                        </div>
+                        <div class="setting-background">
+                            <span class="bg-btn" data-type="0">White</span>
+                            <span class="bg-btn" data-type="1">Sepia</span>
+                            <span class="bg-btn" data-type="2">Night</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="icon-wrap right">
+                    <span class="iconfont iconcc-close-square"></span>
+                </div>
+            </div>
+            <div class="wrapper-main">
+                <div class="arrow prev-btn"><span class="iconfont iconarrow-left"></span></div>
+                <div id="viewer" class="reader-wrapper-container"></div>
+                <div class="arrow next-btn"><span class="iconfont iconarrowright"></span></div>
+            </div>
+        </div>
+    </div>
+    <script src="./reader.js"></script>
+
+
+</body>
+
+</html>
