@@ -8,7 +8,7 @@ const ss = ['⁰','¹','²','³','⁴','⁵','⁶','⁷','⁸','⁹']
 // find superscript
 // \p{No}
 
-const filename = '../685.txt'
+const filename = '../705.txt'
 
     fs.readFile(filename, 'utf8', function (err,data) {
         if (err) {
@@ -19,10 +19,10 @@ const filename = '../685.txt'
 
         var reg = /\[(\d)(\d)?(\d)?\]/g
         reg = /(\d)(\d)?(\d)?/g
-        reg = /〔(\d)(\d)?(\d)?〕/g
         reg = /\((\d)(\d)?(\d)?\)/g
         reg = /\((\d)(\d)?(\d)?\)/g
         reg = /\[(\d)(\d)?(\d)?\]/g
+        reg = /〔(\d)(\d)?(\d)?〕/g
 
         result = data.replace(reg, ($1, $2, $3, $4, $5)=>{
           console.log($3)
