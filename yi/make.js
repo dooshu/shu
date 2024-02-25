@@ -60,7 +60,7 @@ const aaa = `
 
 
 
-for(i=26; i<252; i++){
+for(i=319; i<365; i++){
     if([].includes(i))continue
     const data = fs.readFileSync(i+'.txt', 'utf8');
 
