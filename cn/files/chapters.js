@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 765
+const bookid = 767
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -54,8 +54,8 @@ reg = /\n(.*[^？。，IⅡⅢV、“”\d：…（）\n《》！；\-——」]
 reg = /\n(第[0-9]{1,5}卷|第[一二三四五六七八九十百零]{1,5}章　.*|[一二三四五六七八九十〇]{1,3})\n/g
 reg = /\n(上|徐爱录|陆澄录|后记|[一二三四五六七八九十〇]{1,3}|[0-9]{1,3})\n/g
 reg = /\n(第\d{1,5}章 .*|第[一二三四五六七八九十百零]{1,5}[则] .*)\n/g
-reg = /\n(卷.{1,3} .*)\n/g
 reg = /\n([一二三四五六七八九十]{1,3}.*)\n/g
+reg = /\n(第.{1,6}章 .*|第.卷)\n/g
 
 
 
