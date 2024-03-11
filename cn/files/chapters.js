@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 781
+const bookid = 782
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -63,6 +63,6 @@ reg = /\n(Part .*|\d{1,3}.)\n/g
 
 const chaps = bookdata.match(reg)
 
-chaps.map(v=>console.log('　　'+v.trim()))
+chaps.map(v=>console.log('　'+v.trim()))
 
 
