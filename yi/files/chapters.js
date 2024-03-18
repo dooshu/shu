@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 373
+const bookid = 381
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -56,7 +56,7 @@ reg = /\n(上|徐爱录|陆澄录|后记|[一二三四五六七八九十〇]{1,3
 reg = /\n(第\d{1,5}章 .*|第[一二三四五六七八九十百零]{1,5}[则] .*)\n/g
 reg = /\n(卷.{1,3} .*)\n/g
 reg = /\n(.{2,3})\n/g
-reg = /\n(1.ZOO|2.小饰和洋子|3.七个房间|4\.So far\(远离的夫妻\)|5.向阳之诗|6.寻找血液|7.冰冷的森林里的白色房屋|8.Closet(储藏室)|9.上帝的咒语|10.往日夕阳下的公园里|11.在一架即将坠落的飞机里|\d{1,3})\n/g
+reg = /\n(第一章|第二章|第三章|第四章|第五章|后记|\d{1,3})\n/g
 
 
 
@@ -64,6 +64,6 @@ reg = /\n(1.ZOO|2.小饰和洋子|3.七个房间|4\.So far\(远离的夫妻\)|5.
 
 const chaps = bookdata.match(reg)
 
-chaps.map(v=>console.log('　　　'+v.trim()))
+chaps.map(v=>console.log('　　'+v.trim()))
 
 
