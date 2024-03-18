@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 804
+const bookid = 843
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -55,7 +55,7 @@ reg = /\n(第[0-9]{1,5}卷|第[一二三四五六七八九十百零]{1,5}章　.
 reg = /\n(上|徐爱录|陆澄录|后记|[一二三四五六七八九十〇]{1,3}|[0-9]{1,3})\n/g
 reg = /\n(第\d{1,5}章 .*|第[一二三四五六七八九十百零]{1,5}[则] .*)\n/g
 reg = /\n([一二三四五六七八九十]{1,3}.*)\n/g
-reg = /\n(第.{1,3}章.*|第.{1,3}章|[一二三四五六七八九十百零]{1,5}　.*|阴阳八卦|三寸金莲|神鞭)\n/g
+reg = /\n(人生的突围|多梦时节序幕|荆轲|\d{1,3}[\.．].*)\n/g
 
 
 
@@ -63,6 +63,6 @@ reg = /\n(第.{1,3}章.*|第.{1,3}章|[一二三四五六七八九十百零]{1,5
 
 const chaps = bookdata.match(reg)
 
-chaps.map(v=>console.log('　'+v.trim()))
+chaps.map(v=>console.log('　　'+v.trim()))
 
 
