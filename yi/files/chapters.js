@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 381
+const bookid = 380
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -56,7 +56,7 @@ reg = /\n(上|徐爱录|陆澄录|后记|[一二三四五六七八九十〇]{1,3
 reg = /\n(第\d{1,5}章 .*|第[一二三四五六七八九十百零]{1,5}[则] .*)\n/g
 reg = /\n(卷.{1,3} .*)\n/g
 reg = /\n(.{2,3})\n/g
-reg = /\n(第一章|第二章|第三章|第四章|第五章|后记|\d{1,3})\n/g
+reg = /\n(未来预报|小偷抓住的手|胶卷中的少女|失去的世界|后记|\d{1,3})\n/g
 
 
 
