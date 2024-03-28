@@ -50,7 +50,7 @@ const data = fs.readFileSync('../150/'+'a.txt', 'utf8');
 
 console.log('adsfsd '+myArray.length)
 
-for(let i=531; i<=560; i++){
+for(let i=852; i<=867; i++){
   //for(let i=1; i<=myArray.length; i++){
     //console.log(i)
   //const chapter = myArray[i].split("adfdsdeo97j")
@@ -75,7 +75,8 @@ for(let i=531; i<=560; i++){
   //fs.writeFileSync('bookchap.json', JSON.stringify(json));
   //fs.writeFileSync(i+'.mdx', "---\n---\n---\ntitle: "+chapter[0]+"\n---\n\n");
   //fs.writeFileSync(i+'.mdx', "---\n---\n---\ntitle: "+arr[i]+"\n---\n\n");
-  fs.writeFileSync(i+'.mdx', "---\n---\n---\ntitle: \n---\n\n");
+  //fs.writeFileSync(i+'.mdx', "---\n---\n---\ntitle: \n---\n\n");
+  fs.writeFileSync(i+'.txt');
 
 }
 

@@ -469,7 +469,7 @@
   },
   {
     "bookid": 94,
-    "title": "天龙八部三联版",
+    "title": "天龙八部三联版 - 金庸",
     "description": ""
   },
   {
@@ -654,7 +654,7 @@
   },
   {
     "bookid": 131,
-    "title": "射雕英雄传",
+    "title": "射雕英雄传 - 金庸",
     "description": ""
   },
   {
@@ -4259,46 +4259,96 @@
   },
   {
     "bookid": 852,
-    "title": "",
+    "title": "书剑恩仇录 - 金庸",
     "description": ""
   },
   {
     "bookid": 853,
-    "title": "",
+    "title": "碧血剑 - 金庸",
     "description": ""
   },
   {
     "bookid": 854,
-    "title": "",
+    "title": "袁崇焕评传 - 金庸",
     "description": ""
   },
   {
     "bookid": 855,
-    "title": "",
+    "title": "神雕侠侣 - 金庸",
     "description": ""
   },
   {
     "bookid": 856,
-    "title": "",
+    "title": "雪山飞狐 - 金庸",
     "description": ""
   },
   {
     "bookid": 857,
-    "title": "",
+    "title": "飞狐外传 - 金庸",
     "description": ""
   },
   {
     "bookid": 858,
-    "title": "",
+    "title": "倚天屠龙记 - 金庸",
     "description": ""
   },
   {
     "bookid": 859,
-    "title": "",
+    "title": "鸳鸯刀&白马啸西风 - 金庸",
     "description": ""
   },
   {
     "bookid": 860,
+    "title": "越女剑 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 861,
+    "title": "连城诀 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 862,
+    "title": "侠客行 - 金庸",
+    "description": ""
+  },
+  {
+    "bookid": 863,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 864,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 865,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 866,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 867,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 868,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 869,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 870,
     "title": "",
     "description": ""
   }
