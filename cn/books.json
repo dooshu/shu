@@ -4744,11 +4744,511 @@
   },
   {
     "bookid": 949,
-    "title": "",
+    "title": "全宋诗：范成大",
     "description": ""
   },
   {
     "bookid": 950,
+    "title": "全宋诗：杨万里",
+    "description": ""
+  },
+  {
+    "bookid": 951,
+    "title": "全宋诗：艾、敖",
+    "description": ""
+  },
+  {
+    "bookid": 952,
+    "title": "全宋诗：白玉蟾",
+    "description": ""
+  },
+  {
+    "bookid": 953,
+    "title": "全宋诗：晁说之",
+    "description": ""
+  },
+  {
+    "bookid": 954,
+    "title": "全宋诗：陈",
+    "description": ""
+  },
+  {
+    "bookid": 955,
+    "title": "全宋诗：程",
+    "description": ""
+  },
+  {
+    "bookid": 956,
+    "title": "全宋诗：方回",
+    "description": ""
+  },
+  {
+    "bookid": 957,
+    "title": "全宋诗：王",
+    "description": ""
+  },
+  {
+    "bookid": 958,
+    "title": "全宋诗：文同",
+    "description": ""
+  },
+  {
+    "bookid": 959,
+    "title": "全宋诗：文天祥",
+    "description": ""
+  },
+  {
+    "bookid": 960,
+    "title": "全宋诗：胡",
+    "description": ""
+  },
+  {
+    "bookid": 961,
+    "title": "全宋诗：黄庭坚",
+    "description": ""
+  },
+  {
+    "bookid": 962,
+    "title": "全宋诗：姜特立",
+    "description": ""
+  },
+  {
+    "bookid": 963,
+    "title": "全宋诗：郭",
+    "description": ""
+  },
+  {
+    "bookid": 964,
+    "title": "全宋诗：韩",
+    "description": ""
+  },
+  {
+    "bookid": 965,
+    "title": "全宋诗：何",
+    "description": ""
+  },
+  {
+    "bookid": 966,
+    "title": "全宋诗：黄",
+    "description": ""
+  },
+  {
+    "bookid": 967,
+    "title": "全宋诗：李",
+    "description": ""
+  },
+  {
+    "bookid": 968,
+    "title": "全宋诗：林",
+    "description": ""
+  },
+  {
+    "bookid": 969,
+    "title": "全宋诗：刘克庄",
+    "description": ""
+  },
+  {
+    "bookid": 970,
+    "title": "全宋诗：刘子翚",
+    "description": ""
+  },
+  {
+    "bookid": 971,
+    "title": "全宋诗：刘",
+    "description": ""
+  },
+  {
+    "bookid": 972,
+    "title": "全宋诗：楼钥",
+    "description": ""
+  },
+  {
+    "bookid": 973,
+    "title": "全宋诗：罗必元",
+    "description": ""
+  },
+  {
+    "bookid": 974,
+    "title": "全宋诗：梅尧臣",
+    "description": ""
+  },
+  {
+    "bookid": 975,
+    "title": "全宋诗：欧阳修",
+    "description": ""
+  },
+  {
+    "bookid": 976,
+    "title": "全宋诗：强至",
+    "description": ""
+  },
+  {
+    "bookid": 977,
+    "title": "全宋诗：邵雍",
+    "description": ""
+  },
+  {
+    "bookid": 978,
+    "title": "全宋诗：释绍昙",
+    "description": ""
+  },
+  {
+    "bookid": 979,
+    "title": "全宋诗：释文珦",
+    "description": ""
+  },
+  {
+    "bookid": 980,
+    "title": "全宋诗：释",
+    "description": ""
+  },
+  {
+    "bookid": 981,
+    "title": "全宋诗：舒岳祥",
+    "description": ""
+  },
+  {
+    "bookid": 982,
+    "title": "全宋诗：司马光",
+    "description": ""
+  },
+  {
+    "bookid": 983,
+    "title": "全宋诗：宋祁",
+    "description": ""
+  },
+  {
+    "bookid": 984,
+    "title": "全宋诗：宋庠",
+    "description": ""
+  },
+  {
+    "bookid": 985,
+    "title": "全宋诗：宋",
+    "description": ""
+  },
+  {
+    "bookid": 986,
+    "title": "全宋诗：苏泂",
+    "description": ""
+  },
+  {
+    "bookid": 987,
+    "title": "全宋诗：苏轼",
+    "description": ""
+  },
+  {
+    "bookid": 988,
+    "title": "全宋诗：苏辙",
+    "description": ""
+  },
+  {
+    "bookid": 989,
+    "title": "全宋诗：苏",
+    "description": ""
+  },
+  {
+    "bookid": 990,
+    "title": "全宋诗：孙",
+    "description": ""
+  },
+  {
+    "bookid": 991,
+    "title": "全宋诗：汪",
+    "description": ""
+  },
+  {
+    "bookid": 992,
+    "title": "全宋诗：魏了翁",
+    "description": ""
+  },
+  {
+    "bookid": 993,
+    "title": "全宋诗：魏",
+    "description": ""
+  },
+  {
+    "bookid": 994,
+    "title": "全宋诗：吴芾",
+    "description": ""
+  },
+  {
+    "bookid": 995,
+    "title": "全宋诗：吴",
+    "description": ""
+  },
+  {
+    "bookid": 996,
+    "title": "全宋诗：项安世",
+    "description": ""
+  },
+  {
+    "bookid": 997,
+    "title": "全宋诗：徐",
+    "description": ""
+  },
+  {
+    "bookid": 998,
+    "title": "全宋诗：许",
+    "description": ""
+  },
+  {
+    "bookid": 999,
+    "title": "全宋诗：喻良能",
+    "description": ""
+  },
+  {
+    "bookid": 1000,
+    "title": "全宋诗：袁说友",
+    "description": ""
+  },
+  {
+    "bookid": 1001,
+    "title": "全宋诗：岳珂",
+    "description": ""
+  },
+  {
+    "bookid": 1002,
+    "title": "全宋诗：曾丰",
+    "description": ""
+  },
+  {
+    "bookid": 1003,
+    "title": "全宋诗：曾",
+    "description": ""
+  },
+  {
+    "bookid": 1004,
+    "title": "全宋诗：张耒",
+    "description": ""
+  },
+  {
+    "bookid": 1005,
+    "title": "全宋诗：张閏",
+    "description": ""
+  },
+  {
+    "bookid": 1006,
+    "title": "全宋诗：张嵲",
+    "description": ""
+  },
+  {
+    "bookid": 1007,
+    "title": "全宋诗：张",
+    "description": ""
+  },
+  {
+    "bookid": 1008,
+    "title": "全宋诗：赵蕃",
+    "description": ""
+  },
+  {
+    "bookid": 1009,
+    "title": "全宋诗：赵",
+    "description": ""
+  },
+  {
+    "bookid": 1010,
+    "title": "全宋诗：郑刚中",
+    "description": ""
+  },
+  {
+    "bookid": 1011,
+    "title": "全宋诗：郑",
+    "description": ""
+  },
+  {
+    "bookid": 1012,
+    "title": "全宋诗：周必大",
+    "description": ""
+  },
+  {
+    "bookid": 1013,
+    "title": "全宋诗：周",
+    "description": ""
+  },
+  {
+    "bookid": 1014,
+    "title": "全宋诗：朱",
+    "description": ""
+  },
+  {
+    "bookid": 1015,
+    "title": "全宋诗：杨亿",
+    "description": ""
+  },
+  {
+    "bookid": 1016,
+    "title": "全宋诗：杨",
+    "description": ""
+  },
+  {
+    "bookid": 1017,
+    "title": "全宋诗：蔡",
+    "description": ""
+  },
+  {
+    "bookid": 1018,
+    "title": "全宋诗：曹勋",
+    "description": ""
+  },
+  {
+    "bookid": 1019,
+    "title": "全宋诗：曹",
+    "description": ""
+  },
+  {
+    "bookid": 1020,
+    "title": "全宋诗：晁补之",
+    "description": ""
+  },
+  {
+    "bookid": 1021,
+    "title": "全宋诗：晁",
+    "description": ""
+  },
+  {
+    "bookid": 1022,
+    "title": "全宋诗：仇远",
+    "description": ""
+  },
+  {
+    "bookid": 1023,
+    "title": "全宋诗：戴复古",
+    "description": ""
+  },
+  {
+    "bookid": 1024,
+    "title": "全宋诗：戴",
+    "description": ""
+  },
+  {
+    "bookid": 1025,
+    "title": "全宋诗：邓",
+    "description": ""
+  },
+  {
+    "bookid": 1026,
+    "title": "全宋诗：董嗣杲",
+    "description": ""
+  },
+  {
+    "bookid": 1027,
+    "title": "全宋诗：范",
+    "description": ""
+  },
+  {
+    "bookid": 1028,
+    "title": "全宋诗：方岳",
+    "description": ""
+  },
+  {
+    "bookid": 1029,
+    "title": "全宋诗：方",
+    "description": ""
+  },
+  {
+    "bookid": 1030,
+    "title": "全宋诗：高",
+    "description": ""
+  },
+  {
+    "bookid": 1031,
+    "title": "全宋诗：葛",
+    "description": ""
+  },
+  {
+    "bookid": 1032,
+    "title": "全宋诗：贺铸",
+    "description": ""
+  },
+  {
+    "bookid": 1033,
+    "title": "全宋诗：洪咨夔",
+    "description": ""
+  },
+  {
+    "bookid": 1034,
+    "title": "全宋诗：孔武仲",
+    "description": ""
+  },
+  {
+    "bookid": 1035,
+    "title": "全宋诗：陆文圭",
+    "description": ""
+  },
+  {
+    "bookid": 1036,
+    "title": "全宋诗：吕",
+    "description": ""
+  },
+  {
+    "bookid": 1037,
+    "title": "全宋诗：钱",
+    "description": ""
+  },
+  {
+    "bookid": 1038,
+    "title": "全宋诗：秦观",
+    "description": ""
+  },
+  {
+    "bookid": 1039,
+    "title": "全宋诗：叶",
+    "description": ""
+  },
+  {
+    "bookid": 1040,
+    "title": "全宋诗：虞俦",
+    "description": ""
+  },
+  {
+    "bookid": 1041,
+    "title": "全宋诗",
+    "description": ""
+  },
+  {
+    "bookid": 1042,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1043,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1044,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1045,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1046,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1047,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1048,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1049,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1050,
     "title": "",
     "description": ""
   }
