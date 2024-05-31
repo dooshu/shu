@@ -8,7 +8,7 @@ const ss = ['⁰','¹','²','³','⁴','⁵','⁶','⁷','⁸','⁹']
 // find superscript
 // \p{No}
 
-const filename = '../223.txt'
+const filename = '../899.txt'
 
     fs.readFile(filename, 'utf8', function (err,data) {
         if (err) {
