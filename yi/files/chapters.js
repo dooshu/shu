@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //const bookid = process.argv[2];
-const bookid = 383
+const bookid = 395
 let bookdata = fs.readFileSync('../'+bookid+'.txt', 'utf8')
 //bookdata = bookdata.replace(/\r\n/g,'\n')
 if(/\r/.test(bookdata)){
@@ -56,7 +56,7 @@ reg = /\n(上|徐爱录|陆澄录|后记|[一二三四五六七八九十〇]{1,3
 reg = /\n(第\d{1,5}章 .*|第[一二三四五六七八九十百零]{1,5}[则] .*)\n/g
 reg = /\n(卷.{1,3} .*)\n/g
 reg = /\n(.{2,3})\n/g
-reg = /\n(可爱的猿猴日记|山羊座的友人|宗像君与钢笔事件|杀死玛丽苏|无线对讲机|某件印刷品的下落|夏娃·玛丽·克罗斯|作者简介|- \d{1,3} -)\n/g
+reg = /\n(第.章|[一二三四五六七八九十百零]{1,5})\n/g
 
 
 
