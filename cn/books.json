@@ -2159,7 +2159,7 @@
   },
   {
     "bookid": 432,
-    "title": "伤寒论 - 汉·张仲景",
+    "title": "伤寒杂病论 - 汉·张仲景",
     "description": ""
   },
   {
@@ -3569,7 +3569,7 @@
   },
   {
     "bookid": 714,
-    "title": "东周列国志(新列国志) - (明)冯梦龙",
+    "title": "东周列国志(新列国志) - (明)余邵鱼、冯梦龙，(清)蔡元放",
     "description": ""
   },
   {
@@ -6434,21 +6434,71 @@
   },
   {
     "bookid": 1287,
-    "title": "",
+    "title": "九尾狐 - (清)梦花馆主",
     "description": ""
   },
   {
     "bookid": 1288,
-    "title": "",
+    "title": "红楼春梦/红楼真梦 - (清)郭则",
     "description": ""
   },
   {
     "bookid": 1289,
-    "title": "",
+    "title": "针灸甲乙经 - (魏晋)皇甫谧",
     "description": ""
   },
   {
     "bookid": 1290,
+    "title": "群芳谱诠释 - (明)王象晋、(共)伊钦恒",
+    "description": ""
+  },
+  {
+    "bookid": 1291,
+    "title": "全汉诗 - (清)丁绍仪",
+    "description": ""
+  },
+  {
+    "bookid": 1292,
+    "title": "全汉文 - (清)严可均",
+    "description": ""
+  },
+  {
+    "bookid": 1293,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1294,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1295,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1296,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1297,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1298,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1299,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1300,
     "title": "",
     "description": ""
   }
