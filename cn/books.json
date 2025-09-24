@@ -1,5 +1,3 @@
-
-
 [
   {
     "bookid": 1,
@@ -121,7 +119,7 @@
     "title": "新唐书",
     "description": ""
   },
-  
+
   {
     "bookid": 25,
     "title": "旧五代史",
@@ -6484,23 +6482,172 @@
   },
   {
     "bookid": 1297,
-    "title": "",
+    "title": "虎钤经 - (金)许洞",
     "description": ""
   },
   {
     "bookid": 1298,
-    "title": "",
+    "title": "夷坚志 - (南宋)洪迈",
     "description": ""
   },
   {
     "bookid": 1299,
-    "title": "",
+    "title": "续夷坚志 - (金)元好问",
     "description": ""
   },
   {
     "bookid": 1300,
+    "title": "容斋随笔&容斋续笔&容斋三笔&容斋四笔&容斋五笔 - (南宋)洪迈",
+    "description": ""
+  },
+  {
+    "bookid": 1301,
+    "title": "唐摭言 - (五代)王定保",
+    "description": ""
+  },
+  {
+    "bookid": 1302,
+    "title": "三命通会 - (明)万民英",
+    "description": ""
+  },
+  {
+    "bookid": 1303,
+    "title": "新说生花梦奇传 - (清)娥川主人",
+    "description": ""
+  },
+  {
+    "bookid": 1304,
+    "title": "生花梦二集/世无匹奇传 - (清)娥川主人",
+    "description": ""
+  },
+  {
+    "bookid": 1305,
+    "title": "生花梦三集/炎凉岸 - (清)娥川主人",
+    "description": ""
+  },
+  {
+    "bookid": 1306,
+    "title": "第五奇书银瓶梅/后唐奇书莲子瓶演义传/第一奇书莲子瓶 - (清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1307,
+    "title": "新编绣象山水情传 - (清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1308,
+    "title": "解学士诗话 - (清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1309,
+    "title": "赵太祖三下南唐/第一侠义奇女传 - (清)好古主人",
+    "description": ""
+  },
+  {
+    "bookid": 1310,
+    "title": "泪珠缘 - (清)天虚我生/陈蝶仙",
+    "description": ""
+  },
+  {
+    "bookid": 1311,
+    "title": "柳非烟 - (清)天虚我生/陈蝶仙",
+    "description": ""
+  },
+  {
+    "bookid": 1312,
+    "title": "胡雪岩外传 - (清)天虚我生/陈蝶仙",
+    "description": ""
+  },
+  {
+    "bookid": 1313,
+    "title": "红风传 - (清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1314,
+    "title": "包龙图判百家公案 - (明)钱塘散人/安遇时",
+    "description": ""
+  },
+  {
+    "bookid": 1315,
+    "title": "温凉盏/火焚绣楼 - (清)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1316,
+    "title": "皇明诸司廉明奇判公案 - (明)余象斗",
+    "description": ""
+  },
+  {
+    "bookid": 1317,
+    "title": "皇明诸司公案/续廉明公案 - (明)余象斗",
+    "description": ""
+  },
+  {
+    "bookid": 1318,
+    "title": "新刻芸窗汇爽万锦情林 - (明)余象斗",
+    "description": ""
+  },
+  {
+    "bookid": 1319,
+    "title": "南游记/南游华光传/华光天王南游志传/五显灵官大帝华光天王传 - (明)余象斗",
+    "description": ""
+  },
+  {
+    "bookid": 1320,
+    "title": "北游记玄帝出身传/北方真武玄天上帝出身志 传/北方真武祖师 玄天上帝真武志传 - (明)余象斗",
+    "description": ""
+  },
+  {
+    "bookid": 1321,
+    "title": "金谷怀春/怀春雅集/融春集 - (明)佚名",
+    "description": ""
+  },
+  {
+    "bookid": 1322,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1323,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1324,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1325,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1326,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1327,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1328,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1329,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1330,
     "title": "",
     "description": ""
   }
- 
 ]
