@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const filepathname = 1485
+const filepathname = 1500
 
 // 映射关系：带圈数字 → 上标数字
 let circledToSuperscript = {

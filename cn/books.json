@@ -1772,7 +1772,7 @@
   },
   {
     "bookid": 355,
-    "title": "灯草和尚 - 高则诚",
+    "title": "灯草和尚传/灯花梦全传/和尚缘 - 东鲁古狂生",
     "description": ""
   },
   {
@@ -3697,7 +3697,7 @@
   },
   {
     "bookid": 740,
-    "title": "忠孝蔡伯喈琵琶记 - (元明)高明",
+    "title": "忠孝蔡伯喈琵琶记 - (元明)高明/高则诚",
     "description": ""
   },
   {
@@ -7452,101 +7452,151 @@
   },
   {
     "bookid": 1491,
-    "title": "",
+    "title": "金庸作品集",
     "description": ""
   },
   {
     "bookid": 1492,
-    "title": "",
+    "title": "石点头 - (明)天然痴叟",
     "description": ""
   },
   {
     "bookid": 1493,
-    "title": "",
+    "title": "荡涤污泥浊水：新中国成立初期中国共产党对主要社会问题的治理 - (共)齐霁",
     "description": ""
   },
   {
     "bookid": 1494,
-    "title": "",
+    "title": "曲品 - (明)吕天成",
     "description": ""
   },
   {
     "bookid": 1495,
-    "title": "",
+    "title": "灌园记 - (明)张凤翼",
     "description": ""
   },
   {
     "bookid": 1496,
-    "title": "",
+    "title": "红拂记&谈辂 - (明)张凤翼",
     "description": ""
   },
   {
     "bookid": 1497,
-    "title": "",
+    "title": "北京，1912 - (民)穆儒丐",
     "description": ""
   },
   {
     "bookid": 1498,
-    "title": "",
+    "title": "五代十国全史 - (共)麦老师",
     "description": ""
   },
   {
     "bookid": 1499,
-    "title": "",
+    "title": "毛宗岗批评本三国演义 - (清)毛宗岗",
     "description": ""
   },
   {
     "bookid": 1500,
-    "title": "",
+    "title": "白朴全集 - 韩瑞、王博、韩小瑞",
     "description": ""
   },
   {
     "bookid": 1501,
-    "title": "",
+    "title": "燕乐考原 - (清)凌廷堪",
     "description": ""
   },
   {
     "bookid": 1502,
-    "title": "",
+    "title": "梦符散曲 - (元)乔吉",
     "description": ""
   },
   {
     "bookid": 1503,
-    "title": "",
+    "title": "鞠通乐府 - (明)沈自晋",
     "description": ""
   },
   {
     "bookid": 1504,
-    "title": "",
+    "title": "黄元吉文集：道德经讲义、乐育堂语录、道门语要、唱道真言、静功疗养法 - (清)",
     "description": ""
   },
   {
     "bookid": 1505,
-    "title": "",
+    "title": "游戏入侵：抢男女主机缘会上瘾诶 - 猫不秃",
     "description": ""
   },
   {
     "bookid": 1506,
-    "title": "",
+    "title": "姓氏：中国姓氏地图",
     "description": ""
   },
   {
     "bookid": 1507,
-    "title": "",
+    "title": "以利为利：财政关系与地方政府行为-(共)周飞舟",
     "description": ""
   },
   {
     "bookid": 1508,
-    "title": "",
+    "title": "圣朝鼎盛万年清/万年清奇才新传/乾隆巡幸江南记/乾隆游江南 - (清)佚名",
     "description": ""
   },
   {
     "bookid": 1509,
-    "title": "",
+    "title": "退想斋日记 - 刘大鹏著，乔志强标注",
     "description": ""
   },
   {
     "bookid": 1510,
+    "title": "章太炎全集：齐物论释、定本、庄子解故、管子余义、广论语骈枝、体撰录、春秋左氏疑义答问",
+    "description": ""
+  },
+  {
+    "bookid": 1511,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1512,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1513,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1514,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1515,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1516,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1517,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1518,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1519,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1520,
     "title": "",
     "description": ""
   }
