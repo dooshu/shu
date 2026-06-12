@@ -7552,51 +7552,401 @@
   },
   {
     "bookid": 1511,
-    "title": "",
+    "title": "元曲三百首",
     "description": ""
   },
   {
     "bookid": 1512,
-    "title": "",
+    "title": "三国演义诗词集",
     "description": ""
   },
   {
     "bookid": 1513,
-    "title": "",
+    "title": "王冕全集 - (元)",
     "description": ""
   },
   {
     "bookid": 1514,
-    "title": "",
+    "title": "二十五史弹词辑注 - (明)杨慎修编，(清)孙德威辑注，(清)杨达奇增订",
     "description": ""
   },
   {
     "bookid": 1515,
-    "title": "",
+    "title": "红楼梦诗词曲赋集",
     "description": ""
   },
   {
     "bookid": 1516,
-    "title": "",
+    "title": "宋词三百首",
     "description": ""
   },
   {
     "bookid": 1517,
-    "title": "",
+    "title": "三字经品读",
     "description": ""
   },
   {
     "bookid": 1518,
-    "title": "",
+    "title": "韦庄词集 - (唐)",
     "description": ""
   },
   {
     "bookid": 1519,
-    "title": "",
+    "title": "冯延巳词集 - (南唐)",
     "description": ""
   },
   {
     "bookid": 1520,
+    "title": "晏殊词集/珠玉词 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1521,
+    "title": "晏幾道词集/小山词 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1522,
+    "title": "欧阳修词集 - (北宋)欧阳修",
+    "description": ""
+  },
+  {
+    "bookid": 1523,
+    "title": "黄庭坚词集 - (宋)黄庭坚",
+    "description": ""
+  },
+  {
+    "bookid": 1524,
+    "title": "贺铸词集 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1525,
+    "title": "周邦彦词集 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1526,
+    "title": "姜夔词集 - (宋)",
+    "description": ""
+  },
+  {
+    "bookid": 1527,
+    "title": "词品 - (明)杨慎",
+    "description": ""
+  },
+  {
+    "bookid": 1528,
+    "title": "词学通论 - (民)吴梅",
+    "description": ""
+  },
+  {
+    "bookid": 1529,
+    "title": "白雨斋词话 - (清)陈廷焯",
+    "description": ""
+  },
+  {
+    "bookid": 1530,
+    "title": "词史 - (民)刘毓盘",
+    "description": ""
+  },
+  {
+    "bookid": 1531,
+    "title": "唐宋词格律、词韵简编 - (国共)龙榆生、张珍怀",
+    "description": ""
+  },
+  {
+    "bookid": 1532,
+    "title": "挥麈录 - (宋)王明清",
+    "description": ""
+  },
+  {
+    "bookid": 1533,
+    "title": "邵氏闻见录&邵氏闻见后录 - (宋)邵伯温",
+    "description": ""
+  },
+  {
+    "bookid": 1534,
+    "title": "鹤林玉露 - (宋)罗大经",
+    "description": ""
+  },
+  {
+    "bookid": 1535,
+    "title": "癸辛杂识 - (宋元)人周密",
+    "description": ""
+  },
+  {
+    "bookid": 1536,
+    "title": "齐东野语 - (宋)周密",
+    "description": ""
+  },
+  {
+    "bookid": 1537,
+    "title": "青琐高议 - (宋)刘斧",
+    "description": ""
+  },
+  {
+    "bookid": 1538,
+    "title": "归田录&南唐近事&画墁录&泊宅编&孔氏谈苑&江邻幾杂志 - (宋)欧阳修、郑文宝、张舜民、方勺、孔平仲、江休复",
+    "description": ""
+  },
+  {
+    "bookid": 1539,
+    "title": "石林燕语&避暑录话 - (宋)叶梦得",
+    "description": ""
+  },
+  {
+    "bookid": 1540,
+    "title": "贾氏谭录&涑水记闻 - (宋)张洎、司马光",
+    "description": ""
+  },
+  {
+    "bookid": 1541,
+    "title": "铁围山丛谈&独醒杂志 - (宋)蔡條、曾敏行",
+    "description": ""
+  },
+  {
+    "bookid": 1542,
+    "title": "春明退朝录&松漠纪闻&道山清话&北窗炙輠录&山房随笔 - (宋)宋敏求、洪皓、施德操，(元)蒋子正",
+    "description": ""
+  },
+  {
+    "bookid": 1543,
+    "title": "南部新书- (宋)钱易",
+    "description": ""
+  },
+  {
+    "bookid": 1544,
+    "title": "茅亭客话 - (宋)黄休复",
+    "description": ""
+  },
+  {
+    "bookid": 1545,
+    "title": "燕翼诒谋录 - (宋)王栐",
+    "description": ""
+  },
+  {
+    "bookid": 1546,
+    "title": "墨庄漫录 - (宋)张邦基",
+    "description": ""
+  },
+  {
+    "bookid": 1547,
+    "title": "桯史&默记 - (宋)岳珂、王铚",
+    "description": ""
+  },
+  {
+    "bookid": 1548,
+    "title": "湘山野录&玉壶清话 - (宋)宋文莹",
+    "description": ""
+  },
+  {
+    "bookid": 1549,
+    "title": "萍洲可谈 - (宋)朱彧",
+    "description": ""
+  },
+  {
+    "bookid": 1550,
+    "title": "老学庵笔记 - (宋)陆游",
+    "description": ""
+  },
+  {
+    "bookid": 1551,
+    "title": "四朝闻见录 - (宋)叶绍翁",
+    "description": ""
+  },
+  {
+    "bookid": 1552,
+    "title": "随隐漫录 - (宋)陈世崇",
+    "description": ""
+  },
+  {
+    "bookid": 1553,
+    "title": "枫窗小牍 - (宋)袁褧",
+    "description": ""
+  },
+  {
+    "bookid": 1554,
+    "title": "清波杂志 - (宋)周煇",
+    "description": ""
+  },
+  {
+    "bookid": 1555,
+    "title": "青箱杂记 - (宋)吴处厚",
+    "description": ""
+  },
+  {
+    "bookid": 1556,
+    "title": "春渚纪闻 - (宋)何薳",
+    "description": ""
+  },
+  {
+    "bookid": 1557,
+    "title": "中吴纪闻 - (宋)龚明之",
+    "description": ""
+  },
+  {
+    "bookid": 1558,
+    "title": "曲洧旧闻 - (宋)朱弁",
+    "description": ""
+  },
+  {
+    "bookid": 1559,
+    "title": "冷斋夜话 - (宋)惠洪",
+    "description": ""
+  },
+  {
+    "bookid": 1560,
+    "title": "梁溪漫志 - (宋)费衮",
+    "description": ""
+  },
+  {
+    "bookid": 1561,
+    "title": "杨文公谈苑 - (宋)杨亿、黄鉴",
+    "description": ""
+  },
+  {
+    "bookid": 1562,
+    "title": "后山谈丛 - (宋)陈师道",
+    "description": ""
+  },
+  {
+    "bookid": 1563,
+    "title": "宾退录&却扫编 - (宋)赵与时、徐度",
+    "description": ""
+  },
+  {
+    "bookid": 1564,
+    "title": "清异录 - (宋)陶穀",
+    "description": ""
+  },
+  {
+    "bookid": 1565,
+    "title": "江淮异人录 - (宋)吴淑",
+    "description": ""
+  },
+  {
+    "bookid": 1566,
+    "title": "麈史 - (宋)王得臣",
+    "description": ""
+  },
+  {
+    "bookid": 1567,
+    "title": "侯鲭录 - (宋)赵令畤",
+    "description": ""
+  },
+  {
+    "bookid": 1568,
+    "title": "括异志 - (宋)张师正",
+    "description": ""
+  },
+  {
+    "bookid": 1569,
+    "title": "倦游杂录 - (宋)张师正",
+    "description": ""
+  },
+  {
+    "bookid": 1570,
+    "title": "稽神录 - (宋)徐铉",
+    "description": ""
+  },
+  {
+    "bookid": 1571,
+    "title": "睽车志 - (宋)郭彖",
+    "description": ""
+  },
+  {
+    "bookid": 1572,
+    "title": "鸡肋编&炙膏肓腧穴法/膏肓灸法 - (宋)庄绰",
+    "description": ""
+  },
+  {
+    "bookid": 1573,
+    "title": "贵耳集 - (宋)张端义",
+    "description": ""
+  },
+  {
+    "bookid": 1574,
+    "title": "东轩笔录 - (宋)魏泰",
+    "description": ""
+  },
+  {
+    "bookid": 1575,
+    "title": "嬾真子录 - (宋)马永卿",
+    "description": ""
+  },
+  {
+    "bookid": 1576,
+    "title": "渑水燕谈录 - (宋)王辟之",
+    "description": ""
+  },
+  {
+    "bookid": 1577,
+    "title": "西塘集耆旧续闻 - (宋)陈鹄",
+    "description": ""
+  },
+  {
+    "bookid": 1578,
+    "title": "投辖录 - (宋)王明清",
+    "description": ""
+  },
+  {
+    "bookid": 1579,
+    "title": "玉照新志 - (宋)王明清",
+    "description": ""
+  },
+  {
+    "bookid": 1580,
+    "title": "山居新语 - (元)杨瑀",
+    "description": ""
+  },
+  {
+    "bookid": 1581,
+    "title": "至正直记 - (元)孔齐",
+    "description": ""
+  },
+  {
+    "bookid": 1582,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1583,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1584,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1585,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1586,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1587,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1588,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1589,
+    "title": "",
+    "description": ""
+  },
+  {
+    "bookid": 1590,
     "title": "",
     "description": ""
   }
