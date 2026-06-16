@@ -1254,13 +1254,31 @@
   { "bookid": 409, "title": "清泉故事 - 三毛译", "description": "" },
   { "bookid": 410, "title": "刹那时光 - 三毛译", "description": "" },
   { "bookid": 411, "title": "黑塞文集 - 张佩芬等译", "description": "" },
-  { "bookid": 412, "title": "", "description": "" },
-  { "bookid": 413, "title": "", "description": "" },
-  { "bookid": 414, "title": "", "description": "" },
-  { "bookid": 415, "title": "", "description": "" },
-  { "bookid": 416, "title": "", "description": "" },
-  { "bookid": 417, "title": "", "description": "" },
-  { "bookid": 418, "title": "", "description": "" },
-  { "bookid": 419, "title": "", "description": "" },
-  { "bookid": 420, "title": "", "description": "" }
+  {
+    "bookid": 412,
+    "title": "满文老档 - (共)满文老档译注工作组译",
+    "description": ""
+  },
+  { "bookid": 413, "title": "钢铁是怎样炼成的 - 陈恒哲译", "description": "" },
+  { "bookid": 414, "title": "钢铁是怎样炼成的 - 王志冲译", "description": "" },
+  { "bookid": 415, "title": "钢铁是怎样炼成的 - 吴嘉佑译", "description": "" },
+  { "bookid": 416, "title": "钢铁是怎样炼成的 - 黄树南译", "description": "" },
+  { "bookid": 417, "title": "钢铁是怎样炼成的 - 梅益译", "description": "" },
+  { "bookid": 418, "title": "钢铁是怎样炼成的 - 田国彬译", "description": "" },
+  {
+    "bookid": 419,
+    "title": "钢铁是怎样炼成的 - 曹缦西、王志棣译",
+    "description": ""
+  },
+  { "bookid": 420, "title": "", "description": "" },
+  { "bookid": 421, "title": "", "description": "" },
+  { "bookid": 422, "title": "", "description": "" },
+  { "bookid": 423, "title": "", "description": "" },
+  { "bookid": 424, "title": "", "description": "" },
+  { "bookid": 425, "title": "", "description": "" },
+  { "bookid": 426, "title": "", "description": "" },
+  { "bookid": 427, "title": "", "description": "" },
+  { "bookid": 428, "title": "", "description": "" },
+  { "bookid": 429, "title": "", "description": "" },
+  { "bookid": 430, "title": "", "description": "" }
 ]
