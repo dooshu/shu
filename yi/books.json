@@ -1270,8 +1270,12 @@
     "title": "钢铁是怎样炼成的 - 曹缦西、王志棣译",
     "description": ""
   },
-  { "bookid": 420, "title": "", "description": "" },
-  { "bookid": 421, "title": "", "description": "" },
+  { "bookid": 420, "title": "女宾 - 周以光译", "description": "" },
+  {
+    "bookid": 421,
+    "title": "女宾 - 徐玉成、北石、陈淇、邓永忠译",
+    "description": ""
+  },
   { "bookid": 422, "title": "", "description": "" },
   { "bookid": 423, "title": "", "description": "" },
   { "bookid": 424, "title": "", "description": "" },
